@@ -1,6 +1,6 @@
 sap.ui
 		.jsview(
-				"duxhealthdoctorpepapp.main",
+				"view.main",
 				{
 
 					/**
@@ -8,10 +8,10 @@ sap.ui
 					 * case that it is not implemented, or that "null" is
 					 * returned, this View does not have a Controller.
 					 * 
-					 * @memberOf duxhealthdoctorpepapp.main
+					 * @memberOf view.main
 					 */
 					getControllerName : function() {
-						return "duxhealthdoctorpepapp.main";
+						return "view.main";
 					},
 
 					/**
@@ -20,7 +20,7 @@ sap.ui
 					 * constructed. Since the Controller is given to this
 					 * method, its event handlers can be attached right away.
 					 * 
-					 * @memberOf duxhealthdoctorpepapp.main
+					 * @memberOf view.main
 					 */
 					createContent : function(oController) {
 
@@ -30,10 +30,10 @@ sap.ui
 						var oForm1 = new sap.ui.layout.form.Form(
 								"F1",
 								{
-									title : new sap.ui.core.Title({
-										text : "Prontuário Eletônico",
-										icon : "sap-icon://doctor"
-									}),
+//									title : new sap.ui.core.Title({
+//										text : "Prontuário Eletônico",
+//										icon : "sap-icon://doctor"
+//									}),
 									layout : oLayout1,
 									formContainers : [
 											new sap.ui.layout.form.FormContainer(
@@ -208,9 +208,8 @@ sap.ui
 
 									]
 								});
-
 						return new sap.m.Page({
-							title : "Title",
+							title : "Prontuário Eletrônico do Paciente",
 							content : [ oForm1 ]
 						});
 					}
