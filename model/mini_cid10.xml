@@ -1,0 +1,3927 @@
+<?xml version="1.0" encoding="ISO-8859-1" standalone="no"?>
+
+<!DOCTYPE cid10 SYSTEM "CID10.dtd">
+<cid10 versao="V2007">
+	<capitulo numcap="1" codcap="A00-B99" romano="I" inicial="A00" final="B99">
+		<nome>Algumas doenças infecciosas e parasitárias</nome>
+		<nome50>I.   Algumas doenças infecciosas e parasitárias</nome50>
+		<grupo codgrupo="A00-A09" inicial="A00" final="A09">
+			<nome>Doenças infecciosas intestinais</nome>
+			<nome50>Doenças infecciosas intestinais</nome50>
+			<categoria codcat="A00">
+				<nome>Cólera</nome>
+				<nome50>A00   Colera</nome50>
+				<subcategoria codsubcat="A000">
+					<nome>Cólera devida a Vibrio cholerae 01, biótipo cholerae</nome>
+					<nome50>A00.0 Colera dev Vibrio cholerae 01 biot cholerae</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A001">
+					<nome>Cólera devida a Vibrio cholerae 01, biótipo El Tor</nome>
+					<nome50>A00.1 Colera dev Vibrio cholerae 01 biot El Tor</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A009">
+					<nome>Cólera não especificada</nome>
+					<nome50>A00.9 Colera NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A01">
+				<nome>Febres tifóide e paratifóide</nome>
+				<nome50>A01   Febres tifoide e paratifoide</nome50>
+				<subcategoria codsubcat="A010">
+					<nome>Febre tifóide</nome>
+					<nome50>A01.0 Febre tifoide</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A011">
+					<nome>Febre paratifóide A</nome>
+					<nome50>A01.1 Febre paratifoide A</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A012">
+					<nome>Febre paratifóide B</nome>
+					<nome50>A01.2 Febre paratifoide B</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A013">
+					<nome>Febre paratifóide C</nome>
+					<nome50>A01.3 Febre paratifoide C</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A014">
+					<nome>Febre paratifóide não especificada</nome>
+					<nome50>A01.4 Febre paratifoide NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A02">
+				<nome>Outras infecções por Salmonella</nome>
+				<nome50>A02   Outr infecc p/Salmonella</nome50>
+				<subcategoria codsubcat="A020">
+					<nome>Enterite por salmonela</nome>
+					<nome50>A02.0 Enterite p/salmonela</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A021">
+					<nome>Septicemia por salmonela</nome>
+					<nome50>A02.1 Septicemia p/salmonela</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A022">
+					<nome>Infecções localizadas por salmonela</nome>
+					<nome50>A02.2 Infecc localizadas p/salmonela</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A028">
+					<nome>Outras infecções especificadas por salmonela</nome>
+					<nome50>A02.8 Outr infecc espec p/salmonela</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A029">
+					<nome>Infecção não especificada por salmonela</nome>
+					<nome50>A02.9 Infecc NE p/salmonela</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A03">
+				<nome>Shiguelose</nome>
+				<nome50>A03   Shiguelose</nome50>
+				<subcategoria codsubcat="A030">
+					<nome>Shiguelose devida a Shigella dysenteriae</nome>
+					<nome50>A03.0 Shiguelose dev Shigella dysenteriae</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A031">
+					<nome>Shiguelose devida a Shigella flexneri</nome>
+					<nome50>A03.1 Shiguelose dev Shigella flexneri</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A032">
+					<nome>Shiguelose devida a Shigella boydii</nome>
+					<nome50>A03.2 Shiguelose dev Shigella boydii</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A033">
+					<nome>Shiguelose devida a Shigella sonnei</nome>
+					<nome50>A03.3 Shiguelose dev Shigella sonnei</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A038">
+					<nome>Outras shigueloses</nome>
+					<nome50>A03.8 Outr shigueloses</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A039">
+					<nome>Shiguelose não especificada</nome>
+					<nome50>A03.9 Shiguelose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A04">
+				<nome>Outras infecções intestinais bacterianas</nome>
+				<nome50>A04   Outr infecc intestinais bacter</nome50>
+				<subcategoria codsubcat="A040">
+					<nome>Infecção por Escherichia coli enteropatogênica</nome>
+					<nome50>A04.0 Infecc p/Escherichia coli enteropatogenica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A041">
+					<nome>Infecção por Escherichia coli enterotoxigênica</nome>
+					<nome50>A04.1 Infecc p/Escherichia coli enterotoxigenica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A042">
+					<nome>Infecção por Escherichia coli enteroinvasiva</nome>
+					<nome50>A04.2 Infecc p/Escherichia coli enteroinvasiva</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A043">
+					<nome>Infecção por Escherichia coli enterohemorrágica</nome>
+					<nome50>A04.3 Infecc p/Escherichia coli enterohemorragica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A044">
+					<nome>Outras infecções intestinais por Escherichia coli</nome>
+					<nome50>A04.4 Outr infecc intestinais p/Escherichia coli</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A045">
+					<nome>Enterite por Campylobacter</nome>
+					<nome50>A04.5 Enterite p/Campylobacter</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A046">
+					<nome>Enterite devida a Yersinia enterocolítica</nome>
+					<nome50>A04.6 Enterite dev Yersinia enterocolitica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A047">
+					<nome>Enterocolite devida a Clostridium difficile</nome>
+					<nome50>A04.7 Enterocolite dev Clostridium difficile</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A048">
+					<nome>Outras infecções bacterianas intestinais especificadas</nome>
+					<nome50>A04.8 Outr infecc bacter intestinais espec</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A049">
+					<nome>Infecção intestinal bacteriana não especificada</nome>
+					<nome50>A04.9 Infecc intestinal bacter NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A05">
+				<nome>Outras intoxicações alimentares bacterianas, não classificadas em outra parte</nome>
+				<nome50>A05   Outr intox alimentares bacter NCOP</nome50>
+				<subcategoria codsubcat="A050">
+					<nome>Intoxicação alimentar estafilocócica</nome>
+					<nome50>A05.0 Intox alimentar estafilococica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A051">
+					<nome>Botulismo</nome>
+					<nome50>A05.1 Botulismo</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A052">
+					<nome>Intoxicação alimentar devida a Clostridium perfringens [Clostridium welchii]</nome>
+					<nome50>A05.2 Intox alimentar dev Clostridium perfringens</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A053">
+					<nome>Intoxicação alimentar devida a Vibrio parahemolyticus</nome>
+					<nome50>A05.3 Intox alimentar dev Vibrio parahemolyticus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A054">
+					<nome>Intoxicação alimentar devida a Bacillus cereus</nome>
+					<nome50>A05.4 Intox alimentar dev Bacillus cereus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A058">
+					<nome>Outras intoxicações alimentares bacterianas especificadas</nome>
+					<nome50>A05.8 Outr intox alimentares bacter espec</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A059">
+					<nome>Intoxicação alimentar bacteriana não especificada</nome>
+					<nome50>A05.9 Intox alimentar bacter NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A06">
+				<nome>Amebíase</nome>
+				<nome50>A06   Amebiase</nome50>
+				<subcategoria codsubcat="A060">
+					<nome>Disenteria amebiana aguda</nome>
+					<nome50>A06.0 Disenteria amebiana aguda</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A061">
+					<nome>Amebíase intestinal crônica</nome>
+					<nome50>A06.1 Amebiase intestinal cronica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A062">
+					<nome>Colite amebiana não-disentérica</nome>
+					<nome50>A06.2 Colite amebiana nao-disenterica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A063">
+					<nome>Ameboma intestinal</nome>
+					<nome50>A06.3 Ameboma intestinal</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A064">
+					<nome>Abscesso amebiano do fígado</nome>
+					<nome50>A06.4 Abscesso amebiano do figado</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A065">
+					<duplaclassificacao>
+						<referencia codrefer="J998">J99.8*</referencia>
+						</duplaclassificacao>
+					<nome>Abscesso amebiano do pulmão</nome>
+					<nome50>A06.5 Abscesso amebiano do pulmao</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A066">
+					<duplaclassificacao>
+						<referencia codrefer="G07">G07*</referencia>
+						</duplaclassificacao>
+					<nome>Abscesso amebiano do cérebro</nome>
+					<nome50>A06.6 Abscesso amebiano do cerebro</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A067">
+					<nome>Amebíase cutânea</nome>
+					<nome50>A06.7 Amebiase cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A068">
+					<nome>Infecção amebiana de outras localizações</nome>
+					<nome50>A06.8 Infecc amebiana de outr localiz</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A069">
+					<nome>Amebíase não especificada</nome>
+					<nome50>A06.9 Amebiase NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A07">
+				<nome>Outras doenças intestinais por protozoários</nome>
+				<nome50>A07   Outr doenc intestinais p/protozoarios</nome50>
+				<subcategoria codsubcat="A070">
+					<nome>Balantidíase</nome>
+					<nome50>A07.0 Balantidiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A071">
+					<nome>Giardíase [lamblíase]</nome>
+					<nome50>A07.1 Giardiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A072">
+					<nome>Criptosporidiose</nome>
+					<nome50>A07.2 Criptosporidiose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A073">
+					<nome>Isosporíase</nome>
+					<nome50>A07.3 Isosporiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A078">
+					<nome>Outras doenças intestinais especificadas por protozoários</nome>
+					<nome50>A07.8 Outr doenc intestinais espec p/protozoarios</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A079">
+					<nome>Doença intestinal não especificada por protozoários</nome>
+					<nome50>A07.9 Doenc intestinal NE p/protozoarios</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A08">
+				<nome>Infecções intestinais virais, outras e as não especificadas</nome>
+				<nome50>A08   Infecc intestinais virais outr e as NE</nome50>
+				<subcategoria codsubcat="A080">
+					<nome>Enterite por rotavírus</nome>
+					<nome50>A08.0 Enterite p/rotavirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A081">
+					<nome>Gastroenteropatia aguda pelo agente de Norwalk</nome>
+					<nome50>A08.1 Gastroenteropatia aguda p/agente de Norwalk</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A082">
+					<nome>Enterite por adenovírus</nome>
+					<nome50>A08.2 Enterite p/adenovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A083">
+					<nome>Outras enterites virais</nome>
+					<nome50>A08.3 Outr enterites virais</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A084">
+					<nome>Infecção intestinal devida a vírus não especificado</nome>
+					<nome50>A08.4 Infecc intestinal dev virus NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A085">
+					<nome>Outras infecções intestinais especificadas</nome>
+					<nome50>A08.5 Outr infecc intestinais espec</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A09" ehsubcat="sim">
+				<nome>Diarréia e gastroenterite de origem infecciosa presumível</nome>
+				<nome50>A09   Diarreia e gastroenterite orig infecc presum</nome50>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="A15-A19" inicial="A15" final="A19">
+			<nome>Tuberculose</nome>
+			<nome50>Tuberculose</nome50>
+			<categoria codcat="A15">
+				<nome>Tuberculose respiratória, com confirmação bacteriológica e histológica</nome>
+				<nome50>A15   Tuberc respirat c/conf bacteriol e histolog</nome50>
+				<subcategoria codsubcat="A150">
+					<nome>Tuberculose pulmonar, com confirmação por exame microscópico da expectoração, com ou sem cultura</nome>
+					<nome50>A15.0 Tuberc pulm c/conf p/ex micr expec c/s/cult</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A151">
+					<nome>Tuberculose pulmonar, com confirmação somente por cultura</nome>
+					<nome50>A15.1 Tuberc pulmonar c/conf somente p/cultura</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A152">
+					<nome>Tuberculose pulmonar, com confirmação histológica</nome>
+					<nome50>A15.2 Tuberc pulmonar c/conf histolog</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A153">
+					<nome>Tuberculose pulmonar, com confirmação por meio não especificado</nome>
+					<nome50>A15.3 Tuberc pulmonar c/conf p/meio NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A154">
+					<nome>Tuberculose dos gânglios intratorácicos, com confirmação bacteriológica e histológica</nome>
+					<nome50>A15.4 Tuberc gangl intrator c/conf bacter e histol</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A155">
+					<nome>Tuberculose da laringe, da traquéia e dos brônquios, com confirmação bacteriológica e histológica</nome>
+					<nome50>A15.5 Tuberc laring traq bronq c/conf bact e hist</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A156">
+					<nome>Pleuris tuberculoso, com confirmação bacteriológica e histológica</nome>
+					<nome50>A15.6 Pleuris tuberc c/conf bacteriol e histolog</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A157">
+					<nome>Tuberculose primária das vias respiratórias, com confirmação bacteriológica e histológica</nome>
+					<nome50>A15.7 Tuberc prim vias respir c/conf bact e histol</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A158">
+					<nome>Outras formas de tuberculose das vias respiratórias, com confirmação bacteriológica e histológica</nome>
+					<nome50>A15.8 Outr form tuberc via resp c/conf bact hist</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A159">
+					<nome>Tuberculose não especificada das vias respiratórias, com confirmação bacteriológica e histológica</nome>
+					<nome50>A15.9 Tuberc NE vias respir c/conf bacter histol</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A16">
+				<nome>Tuberculose das vias respiratórias, sem confirmação bacteriológica ou histológica</nome>
+				<nome50>A16   Tuberc vias respirat s/conf bacter histol</nome50>
+				<subcategoria codsubcat="A160">
+					<nome>Tuberculose pulmonar com exames bacteriológico e histológico negativos</nome>
+					<nome50>A16.0 Tuberc pulmonar c/exames bact e hist negat</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A161">
+					<nome>Tuberculose pulmonar, sem realização de exame bacteriológico ou histológico</nome>
+					<nome50>A16.1 Tuberc pulmonar s/exame bacter ou histolog</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A162">
+					<nome>Tuberculose pulmonar, sem menção de confirmação bacteriológica ou histológica</nome>
+					<nome50>A16.2 Tuberc pulmonar s/menc conf bact ou hist</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A163">
+					<nome>Tuberculose dos gânglios intratorácicos, sem menção de confirmação bacteriológica ou histológica</nome>
+					<nome50>A16.3 Tuberc gangl intrat s/menc conf bact hist</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A164">
+					<nome>Tuberculose da laringe, da traquéia e dos brônquios, sem menção de confirmação bacteriológica ou histológica</nome>
+					<nome50>A16.4 Tuberc laring traq bronq s/menc bact hist</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A165">
+					<nome>Pleurisia tuberculosa, sem menção de confirmação bacteriológica ou histológica</nome>
+					<nome50>A16.5 Pleurisia tuberc s/menc conf bact ou histol</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A167">
+					<nome>Tuberculosa respiratória primária sem menção de confirmação bacteriológica ou histológica</nome>
+					<nome50>A16.7 Tuberc respir prim s/menc conf bact ou hist</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A168">
+					<nome>Outras formas de tuberculose das vias respiratórias, sem menção de confirmação bacteriológica ou histológica</nome>
+					<nome50>A16.8 Outr tuber via resp s/menc conf bact hist</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A169">
+					<nome>Tuberculose respiratória, não especificada, sem menção de confirmação bacteriológica ou histológica</nome>
+					<nome50>A16.9 Tuberc respirat NE s/menc conf bact ou hist</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A17">
+				<duplaclassificacao />
+				<nome>Tuberculose do sistema nervoso</nome>
+				<nome50>A17   Tuberc do sist nervoso</nome50>
+				<subcategoria codsubcat="A170">
+					<duplaclassificacao>
+						<referencia codrefer="G01">G01*</referencia>
+						</duplaclassificacao>
+					<nome>Meningite tuberculosa</nome>
+					<nome50>A17.0 Meningite tuberc</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A171">
+					<duplaclassificacao>
+						<referencia codrefer="G07">G07*</referencia>
+						</duplaclassificacao>
+					<nome>Tuberculoma meníngeo</nome>
+					<nome50>A17.1 Tuberculoma meningeo</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A178">
+					<duplaclassificacao />
+					<nome>Outras tuberculoses do sistema nervoso</nome>
+					<nome50>A17.8 Outr tuberc do sist nervoso</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A179">
+					<duplaclassificacao>
+						<referencia codrefer="G998">G99.8*</referencia>
+						</duplaclassificacao>
+					<nome>Tuberculose não especificada do sistema nervoso</nome>
+					<nome50>A17.9 Tuberc NE do sist nervoso</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A18">
+				<nome>Tuberculose de outros órgãos</nome>
+				<nome50>A18   Tuberc de outr orgaos</nome50>
+				<subcategoria codsubcat="A180">
+					<duplaclassificacao />
+					<nome>Tuberculose óssea e das articulações</nome>
+					<nome50>A18.0 Tuberc ossea e das articulacoes</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A181">
+					<nome>Tuberculose do aparelho geniturinário</nome>
+					<nome50>A18.1 Tuberc do aparelho geniturinario</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A182">
+					<nome>Linfadenopatia tuberculosa periférica</nome>
+					<nome50>A18.2 Linfadenopatia tuberc periferica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A183">
+					<nome>Tuberculose do intestino, do peritônio e dos gânglios mesentéricos</nome>
+					<nome50>A18.3 Tuberc intestino peritonio gangl mesenter</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A184">
+					<nome>Tuberculose de pele e do tecido celular subcutâneo</nome>
+					<nome50>A18.4 Tuberc de pele e tec celular subcutaneo</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A185">
+					<nome>Tuberculose do olho</nome>
+					<nome50>A18.5 Tuberc do olho</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A186">
+					<nome>Tuberculose do ouvido</nome>
+					<nome50>A18.6 Tuberc do ouvido</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A187">
+					<duplaclassificacao>
+						<referencia codrefer="E351">E35.1*</referencia>
+						</duplaclassificacao>
+					<nome>Tuberculose das supra-renais</nome>
+					<nome50>A18.7 Tuberc das supra-renais</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A188">
+					<nome>Tuberculose de outros órgãos especificados</nome>
+					<nome50>A18.8 Tuberc de outr orgaos espec</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A19">
+				<nome>Tuberculose miliar</nome>
+				<nome50>A19   Tuberc miliar</nome50>
+				<subcategoria codsubcat="A190">
+					<nome>Tuberculose miliar aguda de localização única e especificada</nome>
+					<nome50>A19.0 Tuberc miliar aguda de localiz unica espec</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A191">
+					<nome>Tuberculose miliar aguda de múltiplas localizações</nome>
+					<nome50>A19.1 Tuberc miliar aguda de mult localiz</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A192">
+					<nome>Tuberculose miliar aguda não especificada</nome>
+					<nome50>A19.2 Tuberc miliar aguda NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A198">
+					<nome>Outras tuberculoses miliares</nome>
+					<nome50>A19.8 Outr tuberc miliares</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A199">
+					<nome>Tuberculose miliar não especificada</nome>
+					<nome50>A19.9 Tuberc miliar NE</nome50>
+					</subcategoria>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="A20-A28" inicial="A20" final="A28">
+			<nome>Algumas doenças bacterianas zoonóticas</nome>
+			<nome50>Algumas doenças bacterianas zoonóticas</nome50>
+			<categoria codcat="A20">
+				<nome>Peste</nome>
+				<nome50>A20   Peste</nome50>
+				<subcategoria codsubcat="A200">
+					<nome>Peste bubônica</nome>
+					<nome50>A20.0 Peste bubonica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A201">
+					<nome>Peste celulocutânea</nome>
+					<nome50>A20.1 Peste celulocutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A202">
+					<nome>Peste pneumônica</nome>
+					<nome50>A20.2 Peste pneumonica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A203">
+					<nome>Peste meníngea</nome>
+					<nome50>A20.3 Peste meningea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A207">
+					<nome>Peste septicêmica</nome>
+					<nome50>A20.7 Peste septicemica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A208">
+					<nome>Outras formas de peste</nome>
+					<nome50>A20.8 Outr form de peste</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A209">
+					<nome>Peste, forma não especificada</nome>
+					<nome50>A20.9 Peste form NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A21">
+				<nome>Tularemia</nome>
+				<nome50>A21   Tularemia</nome50>
+				<subcategoria codsubcat="A210">
+					<nome>Tularemia ulceroglandular</nome>
+					<nome50>A21.0 Tularemia ulceroglandular</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A211">
+					<nome>Tularemia oculoglandular</nome>
+					<nome50>A21.1 Tularemia oculoglandular</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A212">
+					<nome>Tularemia pulmonar</nome>
+					<nome50>A21.2 Tularemia pulmonar</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A213">
+					<nome>Tularemia gastrointestinal</nome>
+					<nome50>A21.3 Tularemia gastrointestinal</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A217">
+					<nome>Tularemia generalizada</nome>
+					<nome50>A21.7 Tularemia generalizada</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A218">
+					<nome>Outras formas de tularemia</nome>
+					<nome50>A21.8 Outr form de tularemia</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A219">
+					<nome>Tularemia, forma não especificada</nome>
+					<nome50>A21.9 Tularemia form NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A22">
+				<nome>Carbúnculo</nome>
+				<nome50>A22   Carbunculo</nome50>
+				<subcategoria codsubcat="A220">
+					<nome>Carbúnculo cutâneo</nome>
+					<nome50>A22.0 Carbunculo cutaneo</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A221">
+					<nome>Carbúnculo pulmonar</nome>
+					<nome50>A22.1 Carbunculo pulmonar</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A222">
+					<nome>Carbúnculo gastrointestinal</nome>
+					<nome50>A22.2 Carbunculo gastrointestinal</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A227">
+					<nome>Septicemia carbunculosa</nome>
+					<nome50>A22.7 Septicemia carbunculosa</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A228">
+					<nome>Outras formas de carbúnculo</nome>
+					<nome50>A22.8 Outr form de carbunculo</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A229">
+					<nome>Carbúnculo, forma não especificada</nome>
+					<nome50>A22.9 Carbunculo form NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A23">
+				<nome>Brucelose</nome>
+				<nome50>A23   Brucelose</nome50>
+				<subcategoria codsubcat="A230">
+					<nome>Brucelose por Brucella melitensis</nome>
+					<nome50>A23.0 Brucelose p/Brucella melitensis</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A231">
+					<nome>Brucelose por Brucella abortus</nome>
+					<nome50>A23.1 Brucelose p/Brucella abortus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A232">
+					<nome>Brucelose por Brucella suis</nome>
+					<nome50>A23.2 Brucelose p/Brucella suis</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A233">
+					<nome>Brucelose por Brucella canis</nome>
+					<nome50>A23.3 Brucelose p/Brucella canis</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A238">
+					<nome>Outras bruceloses</nome>
+					<nome50>A23.8 Outr bruceloses</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A239">
+					<nome>Brucelose não especificada</nome>
+					<nome50>A23.9 Brucelose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A24">
+				<nome>Mormo e melioidose</nome>
+				<nome50>A24   Mormo e melioidose</nome50>
+				<subcategoria codsubcat="A240">
+					<nome>Mormo</nome>
+					<nome50>A24.0 Mormo</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A241">
+					<nome>Melioidose aguda e fulminante</nome>
+					<nome50>A24.1 Melioidose aguda e fulminante</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A242">
+					<nome>Melioidose subaguda e crônica</nome>
+					<nome50>A24.2 Melioidose subaguda e cronica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A243">
+					<nome>Outras melioidoses</nome>
+					<nome50>A24.3 Outr melioidoses</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A244">
+					<nome>Melioidose não especificada</nome>
+					<nome50>A24.4 Melioidose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A25">
+				<nome>Febres transmitidas por mordedura de rato</nome>
+				<nome50>A25   Febres transm p/mordedura de rato</nome50>
+				<subcategoria codsubcat="A250">
+					<nome>Espirilose</nome>
+					<nome50>A25.0 Espirilose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A251">
+					<nome>Estreptobacilose</nome>
+					<nome50>A25.1 Estreptobacilose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A259">
+					<nome>Febre transmitida por mordedura de rato, tipo não especificado</nome>
+					<nome50>A25.9 Febre transm p/mordedura de rato tipo NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A26">
+				<nome>Erisipelóide</nome>
+				<nome50>A26   Erisipeloide</nome50>
+				<subcategoria codsubcat="A260">
+					<nome>Erisipelóide cutâneo</nome>
+					<nome50>A26.0 Erisipeloide cutaneo</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A267">
+					<nome>Septicemia por Erysipelothrix</nome>
+					<nome50>A26.7 Septicemia p/Erysipelothrix</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A268">
+					<nome>Outras formas de erisipelóide</nome>
+					<nome50>A26.8 Outr form de erisipeloide</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A269">
+					<nome>Erisipelóide não especificado</nome>
+					<nome50>A26.9 Erisipeloide NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A27">
+				<nome>Leptospirose</nome>
+				<nome50>A27   Leptospirose</nome50>
+				<subcategoria codsubcat="A270">
+					<nome>Leptopirose icterohemorrágica</nome>
+					<nome50>A27.0 Leptopirose icterohemorragica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A278">
+					<nome>Outras formas de leptospirose</nome>
+					<nome50>A27.8 Outr form de leptospirose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A279">
+					<nome>Leptospirose não especificada</nome>
+					<nome50>A27.9 Leptospirose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A28">
+				<nome>Outras doenças bacterianas zoonóticas não classificadas em outra parte</nome>
+				<nome50>A28   Outr doenc bacter zoonoticas NCOP</nome50>
+				<subcategoria codsubcat="A280">
+					<nome>Pasteurelose</nome>
+					<nome50>A28.0 Pasteurelose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A281">
+					<nome>Doença por arranhadura do gato</nome>
+					<nome50>A28.1 Doenc p/arranhadura do gato</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A282">
+					<nome>Yersiniose extra-intestinal</nome>
+					<nome50>A28.2 Yersiniose extra-intestinal</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A288">
+					<nome>Outras doenças bacterianas zoonóticas especificadas não classificadas em outra parte</nome>
+					<nome50>A28.8 Outr doenc bacter zoonoticas espec NCOP</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A289">
+					<nome>Doença bacteriana zoonótica não especificada</nome>
+					<nome50>A28.9 Doenc bacter zoonotica NE</nome50>
+					</subcategoria>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="A30-A49" inicial="A30" final="A49">
+			<nome>Outras doenças bacterianas</nome>
+			<nome50>Outras doenças bacterianas</nome50>
+			<categoria codcat="A30">
+				<nome>Hanseníase [doença de Hansen] [lepra]</nome>
+				<nome50>A30   Hanseniase</nome50>
+				<subcategoria codsubcat="A300">
+					<nome>Hanseníase [lepra] indeterminada</nome>
+					<nome50>A30.0 Hanseniase indeterminada</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A301">
+					<nome>Hanseníase [lepra] tuberculóide</nome>
+					<nome50>A30.1 Hanseniase tuberculoide</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A302">
+					<nome>Hanseníase [lepra] tuberculóide borderline</nome>
+					<nome50>A30.2 Hanseniase tuberculoide borderline</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A303">
+					<nome>Hanseníase [lepra] dimorfa</nome>
+					<nome50>A30.3 Hanseniase dimorfa</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A304">
+					<nome>Hanseníase [lepra] lepromatosa borderline</nome>
+					<nome50>A30.4 Hanseniase lepromatosa borderline</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A305">
+					<nome>Hanseníase [lepra] lepromatosa</nome>
+					<nome50>A30.5 Hanseniase lepromatosa</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A308">
+					<nome>Outras formas de hanseníase [lepra]</nome>
+					<nome50>A30.8 Outr form de hanseniase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A309">
+					<nome>Hanseníase [lepra] não especificada</nome>
+					<nome50>A30.9 Hanseniase NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A31">
+				<nome>Infecções devidas a outras micobactérias</nome>
+				<nome50>A31   Infecc dev outr micobacterias</nome50>
+				<subcategoria codsubcat="A310">
+					<nome>Infecção pulmonar micobacteriana</nome>
+					<nome50>A31.0 Infecc pulmonar micobacteriana</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A311">
+					<nome>Infecção cutânea micobacteriana</nome>
+					<nome50>A31.1 Infecc cutanea micobacteriana</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="A318">
+					<nome>Outras infecções micobacterianas</nome>
+					<nome50>A31.8 Outr infecc micobacterianas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A319">
+					<nome>Infecção micobacteriana não especificada</nome>
+					<nome50>A31.9 Infecc micobacteriana NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A32">
+				<nome>Listeriose [listeríase]</nome>
+				<nome50>A32   Listeriose</nome50>
+				<subcategoria codsubcat="A320">
+					<nome>Listeriose cutânea</nome>
+					<nome50>A32.0 Listeriose cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A321">
+					<duplaclassificacao />
+					<nome>Meningite e meningoencefalite por listéria</nome>
+					<nome50>A32.1 Meningite e meningoencefalite p/listeria</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A327">
+					<nome>Septicemia listeriótica</nome>
+					<nome50>A32.7 Septicemia listeriotica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A328">
+					<nome>Outras formas de listeriose</nome>
+					<nome50>A32.8 Outr form de listeriose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A329">
+					<nome>Listeriose não especificada</nome>
+					<nome50>A32.9 Listeriose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A33" ehsubcat="sim">
+				<nome>Tétano do recém-nascido [neonatal]</nome>
+				<nome50>A33   Tetano do recem-nascido</nome50>
+				</categoria>
+			<categoria codcat="A34" ehsubcat="sim">
+				<nome>Tétano obstétrico</nome>
+				<nome50>A34   Tetano obstetrico</nome50>
+				<restricoes sexo="apenas_mulheres" />
+				</categoria>
+			<categoria codcat="A35" ehsubcat="sim">
+				<nome>Outros tipos de tétano</nome>
+				<nome50>A35   Outr tipos de tetano</nome50>
+				</categoria>
+			<categoria codcat="A36">
+				<nome>Difteria</nome>
+				<nome50>A36   Difteria</nome50>
+				<subcategoria codsubcat="A360">
+					<nome>Difteria faríngea</nome>
+					<nome50>A36.0 Difteria faringea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A361">
+					<nome>Difteria nasofaríngea</nome>
+					<nome50>A36.1 Difteria nasofaringea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A362">
+					<nome>Difteria laríngea</nome>
+					<nome50>A36.2 Difteria laringea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A363">
+					<nome>Difteria cutânea</nome>
+					<nome50>A36.3 Difteria cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A368">
+					<nome>Outras formas de difteria</nome>
+					<nome50>A36.8 Outr form de difteria</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A369">
+					<nome>Difteria não especificada</nome>
+					<nome50>A36.9 Difteria NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A37">
+				<nome>Coqueluche</nome>
+				<nome50>A37   Coqueluche</nome50>
+				<subcategoria codsubcat="A370">
+					<nome>Coqueluche por Bordetella pertussis</nome>
+					<nome50>A37.0 Coqueluche p/Bordetella pertussis</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A371">
+					<nome>Coqueluche por Bordetella parapertussis</nome>
+					<nome50>A37.1 Coqueluche p/Bordetella parapertussis</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A378">
+					<nome>Coqueluche por outras espécies da Bordetella</nome>
+					<nome50>A37.8 Coqueluche p/outr especies da Bordetella</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A379">
+					<nome>Coqueluche não especificada</nome>
+					<nome50>A37.9 Coqueluche NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A38" ehsubcat="sim">
+				<nome>Escarlatina</nome>
+				<nome50>A38   Escarlatina</nome50>
+				</categoria>
+			<categoria codcat="A39">
+				<nome>Infecção meningogócica</nome>
+				<nome50>A39   Infecc meningogocica</nome50>
+				<subcategoria codsubcat="A390">
+					<duplaclassificacao>
+						<referencia codrefer="G01">G01*</referencia>
+						</duplaclassificacao>
+					<nome>Meningite meningocócica</nome>
+					<nome50>A39.0 Meningite meningococica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A391">
+					<duplaclassificacao>
+						<referencia codrefer="E351">E35.1*</referencia>
+						</duplaclassificacao>
+					<nome>Síndrome de Waterhouse-Friderichsen</nome>
+					<nome50>A39.1 Sindr de Waterhouse-Friderichsen</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A392">
+					<nome>Meningococcemia aguda</nome>
+					<nome50>A39.2 Meningococcemia aguda</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A393">
+					<nome>Meningococcemia crônica</nome>
+					<nome50>A39.3 Meningococcemia cronica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A394">
+					<nome>Meningococcemia não especificada</nome>
+					<nome50>A39.4 Meningococcemia NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A395">
+					<duplaclassificacao />
+					<nome>Cardite por meningococos</nome>
+					<nome50>A39.5 Cardite p/meningococos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A398">
+					<nome>Outras infecções por meningococos</nome>
+					<nome50>A39.8 Outr infecc p/meningococos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A399">
+					<nome>Infecção meningocócica não especificada</nome>
+					<nome50>A39.9 Infecc meningococica NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A40">
+				<nome>Septicemia estreptocócica</nome>
+				<nome50>A40   Septicemia estreptococica</nome50>
+				<subcategoria codsubcat="A400">
+					<nome>Septicemia por Streptococcus do grupo A</nome>
+					<nome50>A40.0 Septicemia p/Streptococcus do grupo A</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A401">
+					<nome>Septicemia por Streptococcus do grupo B</nome>
+					<nome50>A40.1 Septicemia p/Streptococcus do grupo B</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A402">
+					<nome>Septicemia por Streptococcus do grupo D</nome>
+					<nome50>A40.2 Septicemia p/Streptococcus do grupo D</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A403">
+					<nome>Septicemia por Streptococcus pneumonia</nome>
+					<nome50>A40.3 Septicemia p/Streptococcus pneumonia</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A408">
+					<nome>Outras septicemias estreptocócicas</nome>
+					<nome50>A40.8 Outr septicemias estreptococicas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A409">
+					<nome>Septicemia estreptocócica não especificada</nome>
+					<nome50>A40.9 Septicemia estreptococica NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A41">
+				<nome>Outras septicemias</nome>
+				<nome50>A41   Outr septicemias</nome50>
+				<subcategoria codsubcat="A410">
+					<nome>Septicemia por Staphylococcus aureus</nome>
+					<nome50>A41.0 Septicemia p/Staphylococcus aureus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A411">
+					<nome>Septicemia por outros estafilococos especificados</nome>
+					<nome50>A41.1 Septicemia p/outr estafilococos espec</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A412">
+					<nome>Septicemia por estafilococos não especificados</nome>
+					<nome50>A41.2 Septicemia p/estafilococos NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A413">
+					<nome>Septicemia por Haemophilus influenzae</nome>
+					<nome50>A41.3 Septicemia p/Haemophilus influenzae</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A414">
+					<nome>Septicemia por anaeróbios</nome>
+					<nome50>A41.4 Septicemia p/anaerobios</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A415">
+					<nome>Septicemia por outros microorganismos gram-negativos</nome>
+					<nome50>A41.5 Septicemia p/outr microorg gram-negativos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A418">
+					<nome>Outras septicemias especificadas</nome>
+					<nome50>A41.8 Outr septicemias espec</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A419">
+					<nome>Septicemia não especificada</nome>
+					<nome50>A41.9 Septicemia NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A42">
+				<nome>Actinomicose</nome>
+				<nome50>A42   Actinomicose</nome50>
+				<subcategoria codsubcat="A420">
+					<nome>Actinomicose pulmonar</nome>
+					<nome50>A42.0 Actinomicose pulmonar</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A421">
+					<nome>Actinomicose abdominal</nome>
+					<nome50>A42.1 Actinomicose abdominal</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A422">
+					<nome>Actinomicose cervicofacial</nome>
+					<nome50>A42.2 Actinomicose cervicofacial</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A427">
+					<nome>Septicemia actinomicótica</nome>
+					<nome50>A42.7 Septicemia actinomicotica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A428">
+					<nome>Outras formas de actinomicose</nome>
+					<nome50>A42.8 Outr form de actinomicose</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="A429">
+					<nome>Actinomicose não especificada</nome>
+					<nome50>A42.9 Actinomicose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A43">
+				<nome>Nocardiose</nome>
+				<nome50>A43   Nocardiose</nome50>
+				<subcategoria codsubcat="A430">
+					<nome>Nocardiose pulmonar</nome>
+					<nome50>A43.0 Nocardiose pulmonar</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A431">
+					<nome>Nocardiose cutânea</nome>
+					<nome50>A43.1 Nocardiose cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A438">
+					<nome>Outras formas de nocardiose</nome>
+					<nome50>A43.8 Outr form de nocardiose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A439">
+					<nome>Nocardiose não especificada</nome>
+					<nome50>A43.9 Nocardiose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A44">
+				<nome>Bartonelose</nome>
+				<nome50>A44   Bartonelose</nome50>
+				<subcategoria codsubcat="A440">
+					<nome>Bartonelose sistêmica</nome>
+					<nome50>A44.0 Bartonelose sistemica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A441">
+					<nome>Bartonelose cutânea e cutâneo-mucosa</nome>
+					<nome50>A44.1 Bartonelose cutanea e cutaneo-mucosa</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A448">
+					<nome>Outras formas de bartonelose</nome>
+					<nome50>A44.8 Outr form de bartonelose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A449">
+					<nome>Bartonelose não especificada</nome>
+					<nome50>A44.9 Bartonelose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A46" ehsubcat="sim">
+				<nome>Erisipela</nome>
+				<nome50>A46   Erisipela</nome50>
+				</categoria>
+			<categoria codcat="A48">
+				<nome>Outras doenças bacterianas não classificadas em outra parte</nome>
+				<nome50>A48   Outr doenc bacter NCOP</nome50>
+				<subcategoria codsubcat="A480">
+					<nome>Gangrena gasosa</nome>
+					<nome50>A48.0 Gangrena gasosa</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A481">
+					<nome>Doença dos legionários</nome>
+					<nome50>A48.1 Doenc dos legionarios</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A482">
+					<nome>Doença dos legionários não-pneumônica [febre de Pontiac]</nome>
+					<nome50>A48.2 Doenc dos legionarios nao-pneumonica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A483">
+					<nome>Síndrome do choque tóxico</nome>
+					<nome50>A48.3 Sindr do choque toxico</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A484">
+					<nome>Febre purpúrica do Brasil</nome>
+					<nome50>A48.4 Febre purpurica do Brasil</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A488">
+					<nome>Outras doenças bacterianas especificadas</nome>
+					<nome50>A48.8 Outr doenc bacter espec</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A49">
+				<nome>Infecção bacteriana de localização não especificada</nome>
+				<nome50>A49   Infecc bacter de localiz NE</nome50>
+				<subcategoria codsubcat="A490">
+					<nome>Infecção estafilocócica de localização não especificada</nome>
+					<nome50>A49.0 Infecc estafilococica localiz NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A491">
+					<nome>Infecção estreptocócica de localização não especificada</nome>
+					<nome50>A49.1 Infecc estreptococica localiz NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A492">
+					<nome>Infecção por Haemophilus influenzae de localização não especificada</nome>
+					<nome50>A49.2 Infecc p/Haemophilus influenzae localiz NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A493">
+					<nome>Infecção por Mycoplasma de localização não especificada</nome>
+					<nome50>A49.3 Infecc p/Mycoplasma localiz NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A498">
+					<nome>Outras infecções bacterianas de localização não especificada</nome>
+					<nome50>A49.8 Outr infecc bacterianas localiz NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A499">
+					<nome>Infecção bacteriana não especificada</nome>
+					<nome50>A49.9 Infecc bacter NE</nome50>
+					</subcategoria>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="A50-A64" inicial="A50" final="A64">
+			<nome>Infecções de transmissão predominantemente sexual</nome>
+			<nome50>Infecções de transmissão predominantemente sexual</nome50>
+			<categoria codcat="A50">
+				<nome>Sífilis congênita</nome>
+				<nome50>A50   Sifilis congen</nome50>
+				<subcategoria codsubcat="A500">
+					<nome>Sífilis congênita precoce sintomática</nome>
+					<nome50>A50.0 Sifilis congen precoce sintomatica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A501">
+					<nome>Sífilis congênita precoce, forma latente</nome>
+					<nome50>A50.1 Sifilis congen precoce form latente</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A502">
+					<nome>Sífilis congênita precoce não especificada</nome>
+					<nome50>A50.2 Sifilis congen precoce NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A503">
+					<nome>Oculopatia sifilítica congênita tardia</nome>
+					<nome50>A50.3 Oculopatia sifilitica congen tard</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A504">
+					<nome>Neurossífilis congênita tardia [neurossífilis juvenil]</nome>
+					<nome50>A50.4 Neurossifilis congen tard</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A505">
+					<nome>Outras formas tardias e sintomáticas da sífilis congênita</nome>
+					<nome50>A50.5 Outr form tard e sintomat sifilis congen</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A506">
+					<nome>Sífilis congênita tardia latente</nome>
+					<nome50>A50.6 Sifilis congen tard latente</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A507">
+					<nome>Sífilis congênita tardia não especificada</nome>
+					<nome50>A50.7 Sifilis congen tard NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A509">
+					<nome>Sífilis congênita não especificada</nome>
+					<nome50>A50.9 Sifilis congen NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A51">
+				<nome>Sífilis precoce</nome>
+				<nome50>A51   Sifilis precoce</nome50>
+				<subcategoria codsubcat="A510">
+					<nome>Sífilis genital primária</nome>
+					<nome50>A51.0 Sifilis genital prim</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A511">
+					<nome>Sífilis anal primária</nome>
+					<nome50>A51.1 Sifilis anal prim</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A512">
+					<nome>Sífilis primária de outras localizações</nome>
+					<nome50>A51.2 Sifilis prim de outr localiz</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A513">
+					<nome>Sífilis secundária da pele e das mucosas</nome>
+					<nome50>A51.3 Sifilis secund da pele e das mucosas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A514">
+					<nome>Outras formas de sífilis secundária</nome>
+					<nome50>A51.4 Outr form de sifilis secund</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A515">
+					<nome>Sífilis precoce latente</nome>
+					<nome50>A51.5 Sifilis precoce latente</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A519">
+					<nome>Sífilis precoce não especificada</nome>
+					<nome50>A51.9 Sifilis precoce NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A52">
+				<nome>Sífilis tardia</nome>
+				<nome50>A52   Sifilis tard</nome50>
+				<subcategoria codsubcat="A520">
+					<duplaclassificacao />
+					<nome>Sífilis cardiovascular</nome>
+					<nome50>A52.0 Sifilis cardiovascular</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A521">
+					<nome>Neurossífilis sintomática</nome>
+					<nome50>A52.1 Neurossifilis sintomatica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A522">
+					<nome>Neurossífilis assintomática</nome>
+					<nome50>A52.2 Neurossifilis assintomatica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A523">
+					<nome>Neurossífilis não especificada</nome>
+					<nome50>A52.3 Neurossifilis NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A527">
+					<nome>Outras formas de sífilis tardia sintomática</nome>
+					<nome50>A52.7 Outr form de sifilis tard sintomatica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A528">
+					<nome>Sífilis tardia latente</nome>
+					<nome50>A52.8 Sifilis tard latente</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A529">
+					<nome>Sífilis tardia não especificada</nome>
+					<nome50>A52.9 Sifilis tard NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A53">
+				<nome>Outras formas e as não especificadas da sífilis</nome>
+				<nome50>A53   Outr form e as NE da sifilis</nome50>
+				<subcategoria codsubcat="A530">
+					<nome>Sífilis latente, não especificada se recente ou tardia</nome>
+					<nome50>A53.0 Sifilis latente NE se recente ou tard</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A539">
+					<nome>Sífilis não especificada</nome>
+					<nome50>A53.9 Sifilis NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A54">
+				<nome>Infecção gonocócica</nome>
+				<nome50>A54   Infecc gonococica</nome50>
+				<subcategoria codsubcat="A540">
+					<nome>Infecção gonocócica do trato geniturinário inferior, sem abscesso periuretral ou das glândulas acessórias</nome>
+					<nome50>A54.0 Inf gon tr genit inf s/abs periur/gland aces</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A541">
+					<nome>Infecção gonocócica do trato geniturinário inferior, com abscesso periuretral ou das glândulas acessórias</nome>
+					<nome50>A54.1 Inf gon tr genit inf c/abs periur/gland aces</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A542">
+					<nome>Pelviperitonite gonocócica e outras infecções geniturinárias gonocócicas</nome>
+					<nome50>A54.2 Pelviperit gonoc e outr infecc genitur gonoc</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A543">
+					<nome>Infecção gonocócica do olho</nome>
+					<nome50>A54.3 Infecc gonococica do olho</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A544">
+					<duplaclassificacao />
+					<nome>Infecção gonocócica do sistema músculo-esquelético</nome>
+					<nome50>A54.4 Infecc gonococica sist musculo-esqueletico</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A545">
+					<nome>Faringite gonocócica</nome>
+					<nome50>A54.5 Faringite gonococica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A546">
+					<nome>Infecção gonocócica do ânus ou do reto</nome>
+					<nome50>A54.6 Infecc gonococica do anus ou do reto</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A548">
+					<nome>Outras infecções gonocócicas</nome>
+					<nome50>A54.8 Outr infecc gonococicas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A549">
+					<nome>Infecção gonocócica não especificada</nome>
+					<nome50>A54.9 Infecc gonococica NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A55" ehsubcat="sim">
+				<nome>Linfogranuloma (venéreo) por clamídia</nome>
+				<nome50>A55   Linfogranuloma p/clamidia</nome50>
+				</categoria>
+			<categoria codcat="A56">
+				<nome>Outras infecções causadas por clamídias transmitidas por via sexual</nome>
+				<nome50>A56   Outr infecc p/clamidias transm p/via sexual</nome50>
+				<subcategoria codsubcat="A560">
+					<nome>Infecções por clamídias do trato geniturinário inferior</nome>
+					<nome50>A56.0 Infecc p/clamidias trato geniturinario infer</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A561">
+					<nome>Infecção por clamídias, pelviperitonial e de outros órgãos geniturinários</nome>
+					<nome50>A56.1 Infecc p/clamid pelviper e outr org genitur</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A562">
+					<nome>Infecção por clamídias do trato geniturinário, localização não especificada</nome>
+					<nome50>A56.2 Infecc p/clamidias trato genitur localiz NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A563">
+					<nome>Infecção do ânus e do reto por clamídias</nome>
+					<nome50>A56.3 Infecc do anus e do reto p/clamidias</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A564">
+					<nome>Infecção da faringe por clamídias</nome>
+					<nome50>A56.4 Infecc da faringe p/clamidias</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A568">
+					<nome>Infecção por clamídias transmitida por via sexual, de outras localizações</nome>
+					<nome50>A56.8 Infecc p/clamid transm p/via sex outr local</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A57" ehsubcat="sim">
+				<nome>Cancro mole</nome>
+				<nome50>A57   Cancro mole</nome50>
+				</categoria>
+			<categoria codcat="A58" ehsubcat="sim">
+				<nome>Granuloma inguinal</nome>
+				<nome50>A58   Granuloma inguinal</nome50>
+				</categoria>
+			<categoria codcat="A59">
+				<nome>Tricomoníase</nome>
+				<nome50>A59   Tricomoniase</nome50>
+				<subcategoria codsubcat="A590">
+					<nome>Tricomoníase urogenital</nome>
+					<nome50>A59.0 Tricomoniase urogenital</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A598">
+					<nome>Outras localizações de tricomoníase</nome>
+					<nome50>A59.8 Outr localiz de tricomoniase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A599">
+					<nome>Tricomoníase não especificada</nome>
+					<nome50>A59.9 Tricomoniase NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A60">
+				<nome>Infecções anogenitais pelo vírus do herpes [herpes simples]</nome>
+				<nome50>A60   Infecc anogenitais p/virus do herpes</nome50>
+				<subcategoria codsubcat="A600">
+					<nome>Infecção dos órgãos genitais e do trato geniturinário pelo vírus do herpes</nome>
+					<nome50>A60.0 Infecc org genit trat genitur p/virus herpes</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="A601">
+					<nome>Infecção da margem cutânea do ânus e do reto pelo vírus do herpes</nome>
+					<nome50>A60.1 Infecc margem cutan anus/reto p/virus herpes</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A609">
+					<nome>Infecção anogenital não especificada pelo vírus do herpes</nome>
+					<nome50>A60.9 Infecc anogenital NE p/virus do herpes</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A63">
+				<nome>Outras doenças de transmissão predominantemente sexual, não classificadas em outra parte</nome>
+				<nome50>A63   Outr doenc de transm predom sexual NCOP</nome50>
+				<subcategoria codsubcat="A630">
+					<nome>Verrugas anogenitais (venéreas)</nome>
+					<nome50>A63.0 Verrugas anogenitais</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A638">
+					<nome>Outras doenças especificadas de transmissão predominantemente sexual</nome>
+					<nome50>A63.8 Outr doenc espec de transm predom sexual</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A64" ehsubcat="sim">
+				<nome>Doenças sexualmente transmitidas, não especificadas</nome>
+				<nome50>A64   Doenc sexualmente transm NE</nome50>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="A65-A69" inicial="A65" final="A69">
+			<nome>Outras doenças por espiroquetas</nome>
+			<nome50>Outras doenças por espiroquetas</nome50>
+			<categoria codcat="A65" ehsubcat="sim">
+				<nome>Sífilis não-venérea</nome>
+				<nome50>A65   Sifilis nao-venerea</nome50>
+				</categoria>
+			<categoria codcat="A66">
+				<nome>Bouba</nome>
+				<nome50>A66   Bouba</nome50>
+				<subcategoria codsubcat="A660">
+					<nome>Lesões iniciais da bouba</nome>
+					<nome50>A66.0 Lesoes iniciais da bouba</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A661">
+					<nome>Papilomas múltiplos e bouba plantar úmida (cravo de bouba)</nome>
+					<nome50>A66.1 Papilomas mult e bouba plantar umida</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A662">
+					<nome>Outras lesões cutâneas precoces da bouba</nome>
+					<nome50>A66.2 Outr lesoes cutaneas precoces da bouba</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A663">
+					<nome>Hiperceratose devida a bouba</nome>
+					<nome50>A66.3 Hiperceratose dev bouba</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A664">
+					<nome>Gomas e úlceras devidas à bouba</nome>
+					<nome50>A66.4 Gomas e ulceras dev bouba</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A665">
+					<nome>Gangosa</nome>
+					<nome50>A66.5 Gangosa</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A666">
+					<nome>Lesões osteoarticulares devidas à bouba</nome>
+					<nome50>A66.6 Lesoes osteoarticulares dev bouba</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A667">
+					<nome>Outras manifestações da bouba</nome>
+					<nome50>A66.7 Outr manifestacoes da bouba</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A668">
+					<nome>Bouba latente</nome>
+					<nome50>A66.8 Bouba latente</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A669">
+					<nome>Bouba não especificada</nome>
+					<nome50>A66.9 Bouba NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A67">
+				<nome>Pinta [carate]</nome>
+				<nome50>A67   Pinta</nome50>
+				<subcategoria codsubcat="A670">
+					<nome>Lesões primárias da pinta</nome>
+					<nome50>A67.0 Lesoes prim da pinta</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A671">
+					<nome>Lesões intermediárias da pinta</nome>
+					<nome50>A67.1 Lesoes intermediarias da pinta</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A672">
+					<nome>Lesões tardias da pinta</nome>
+					<nome50>A67.2 Lesoes tard da pinta</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A673">
+					<nome>Lesões mistas da pinta</nome>
+					<nome50>A67.3 Lesoes mistas da pinta</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A679">
+					<nome>Pinta não especificada</nome>
+					<nome50>A67.9 Pinta NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A68">
+				<nome>Febres recorrentes [Borrelioses]</nome>
+				<nome50>A68   Febres recorrentes</nome50>
+				<subcategoria codsubcat="A680">
+					<nome>Febre recorrente transmitida por piolhos</nome>
+					<nome50>A68.0 Febre recorrente transm p/piolhos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A681">
+					<nome>Febre recorrente transmitida por carrapatos</nome>
+					<nome50>A68.1 Febre recorrente transm p/carrapatos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A689">
+					<nome>Febre recorrente não especificada</nome>
+					<nome50>A68.9 Febre recorrente NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A69">
+				<nome>Outras infecções por espiroquetas</nome>
+				<nome50>A69   Outr infecc p/espiroquetas</nome50>
+				<subcategoria codsubcat="A690">
+					<nome>Estomatite ulcerativa necrotizante</nome>
+					<nome50>A69.0 Estomatite ulcerativa necrotizante</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A691">
+					<nome>Outras infecções de Vincent</nome>
+					<nome50>A69.1 Outr infecc de Vincent</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A692">
+					<nome>Doença de Lyme</nome>
+					<nome50>A69.2 Doenc de Lyme</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A698">
+					<nome>Outras infecções especificadas por espiroquetas</nome>
+					<nome50>A69.8 Outr infecc espec p/espiroquetas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A699">
+					<nome>Infecção por espiroqueta, não especificada</nome>
+					<nome50>A69.9 Infecc p/espiroqueta NE</nome50>
+					</subcategoria>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="A70-A74" inicial="A70" final="A74">
+			<nome>Outras doenças causadas por clamídias</nome>
+			<nome50>Outras doenças causadas por clamídias</nome50>
+			<categoria codcat="A70" ehsubcat="sim">
+				<nome>Infecções causadas por Clamídia psittaci</nome>
+				<nome50>A70   Infecc causadas p/Clamidia psittaci</nome50>
+				</categoria>
+			<categoria codcat="A71">
+				<nome>Tracoma</nome>
+				<nome50>A71   Tracoma</nome50>
+				<subcategoria codsubcat="A710">
+					<nome>Fase inicial do tracoma</nome>
+					<nome50>A71.0 Fase inicial do tracoma</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="A711">
+					<nome>Fase ativa do tracoma</nome>
+					<nome50>A71.1 Fase ativa do tracoma</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="A719">
+					<nome>Tracoma não especificado</nome>
+					<nome50>A71.9 Tracoma NE</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A74">
+				<nome>Outras doenças causadas por Clamídias</nome>
+				<nome50>A74   Outr doenc causadas p/Clamidias</nome50>
+				<subcategoria codsubcat="A740">
+					<duplaclassificacao>
+						<referencia codrefer="H131">H13.1*</referencia>
+						</duplaclassificacao>
+					<nome>Conjuntivite causada por clamídias</nome>
+					<nome50>A74.0 Conjuntivite causada p/clamidias</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="A748">
+					<nome>Outras doenças causadas por clamídias</nome>
+					<nome50>A74.8 Outr doenc causadas p/clamidias</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A749">
+					<nome>Infecção causada por clamídias não especificada</nome>
+					<nome50>A74.9 Infecc causada p/clamidias NE</nome50>
+					</subcategoria>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="A75-A79" inicial="A75" final="A79">
+			<nome>Rickettsioses</nome>
+			<nome50>Rickettsioses</nome50>
+			<categoria codcat="A75">
+				<nome>Tifo exantemático</nome>
+				<nome50>A75   Tifo exantematico</nome50>
+				<subcategoria codsubcat="A750">
+					<nome>Tifo epidêmico transmitido por piolhos devido a Rickettsia prowazekii</nome>
+					<nome50>A75.0 Tifo epidem transm p/piolhos R. prowazekii</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A751">
+					<nome>Tifo recrudescente [doença de Brill]</nome>
+					<nome50>A75.1 Tifo recrudescente</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A752">
+					<nome>Tifo por Rickettsia typhi</nome>
+					<nome50>A75.2 Tifo p/Rickettsia typhi</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A753">
+					<nome>Tifo por Rickettsia tsutsugamuchi</nome>
+					<nome50>A75.3 Tifo p/Rickettsia tsutsugamuchi</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A759">
+					<nome>Tifo não especificado</nome>
+					<nome50>A75.9 Tifo NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A77">
+				<nome>Febre maculosa [rickettsioses transmitidas por carrapatos]</nome>
+				<nome50>A77   Febre maculosa</nome50>
+				<subcategoria codsubcat="A770">
+					<nome>Febre maculosa por Rickettsia richettsii</nome>
+					<nome50>A77.0 Febre maculosa p/Rickettsia richettsii</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A771">
+					<nome>Febre maculosa por Rickettsia conorii</nome>
+					<nome50>A77.1 Febre maculosa p/Rickettsia conorii</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A772">
+					<nome>Febre maculosa devida à Rickettsia siberica</nome>
+					<nome50>A77.2 Febre maculosa dev Rickettsia siberica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A773">
+					<nome>Febre maculosa devida à Rickettsia australis</nome>
+					<nome50>A77.3 Febre maculosa dev Rickettsia australis</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A778">
+					<nome>Outras febres maculosas</nome>
+					<nome50>A77.8 Outr febres maculosas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A779">
+					<nome>Febre maculosa não especificada</nome>
+					<nome50>A77.9 Febre maculosa NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A78" ehsubcat="sim">
+				<nome>Febre Q</nome>
+				<nome50>A78   Febre Q</nome50>
+				</categoria>
+			<categoria codcat="A79">
+				<nome>Outras rickettsioses</nome>
+				<nome50>A79   Outr rickettsioses</nome50>
+				<subcategoria codsubcat="A790">
+					<nome>Febre das trincheiras</nome>
+					<nome50>A79.0 Febre das trincheiras</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A791">
+					<nome>Rickettsiose variceliforme devida à Rickettsia akari</nome>
+					<nome50>A79.1 Rickettsiose variceliforme dev R.akari</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A798">
+					<nome>Outros tipos de rickettsioses especificadas</nome>
+					<nome50>A79.8 Outr tipos de rickettsioses espec</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A799">
+					<nome>Rickettsiose não especificada</nome>
+					<nome50>A79.9 Rickettsiose NE</nome50>
+					</subcategoria>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="A80-A89" inicial="A80" final="A89">
+			<nome>Infecções virais do sistema nervoso central</nome>
+			<nome50>Infecções virais do sistema nervoso central</nome50>
+			<categoria codcat="A80">
+				<nome>Poliomielite aguda</nome>
+				<nome50>A80   Poliomielite aguda</nome50>
+				<subcategoria codsubcat="A800">
+					<nome>Poliomielite paralítica aguda, associada ao vírus vacinal</nome>
+					<nome50>A80.0 Poliomielite paral aguda assoc virus vacinal</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A801">
+					<nome>Poliomielite paralítica aguda, vírus selvagem importado</nome>
+					<nome50>A80.1 Poliomiel paral aguda virus selvagem import</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A802">
+					<nome>Poliomielite paralítica aguda, vírus selvagem indígena</nome>
+					<nome50>A80.2 Poliomiel paral aguda virus selvagem indig</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A803">
+					<nome>Poliomielites paralíticas agudas, outras e não especificadas</nome>
+					<nome50>A80.3 Poliomielites paraliticas agudas outr e NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A804">
+					<nome>Poliomielite aguda não-paralítica</nome>
+					<nome50>A80.4 Poliomielite aguda nao-paralitica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A809">
+					<nome>Poliomielite aguda não especificada</nome>
+					<nome50>A80.9 Poliomielite aguda NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A81">
+				<nome>Infecções por vírus atípicos do sistema nervoso central</nome>
+				<nome50>A81   Infecc p/virus atipicos sist nervoso central</nome50>
+				<subcategoria codsubcat="A810">
+					<nome>Doença de Creutzfeldt-Jakob</nome>
+					<nome50>A81.0 Doenc de Creutzfeldt-Jakob</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A811">
+					<nome>Panencefalite esclerosante subaguda</nome>
+					<nome50>A81.1 Panencefalite esclerosante subaguda</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A812">
+					<nome>Leucoencefalopatia multifocal progressiva</nome>
+					<nome50>A81.2 Leucoencefalopatia multifocal progressiva</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A818">
+					<nome>Outras infecções por vírus atípicos do sistema nervoso central</nome>
+					<nome50>A81.8 Outr infecc p/virus atipic sist nerv central</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A819">
+					<nome>Infecção não especificada do sistema nervosos central por vírus atípicos</nome>
+					<nome50>A81.9 Infecc NE sist nerv central p/virus atipicos</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A82">
+				<nome>Raiva</nome>
+				<nome50>A82   Raiva</nome50>
+				<subcategoria codsubcat="A820">
+					<nome>Raiva silvestre</nome>
+					<nome50>A82.0 Raiva silvestre</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A821">
+					<nome>Raiva urbana</nome>
+					<nome50>A82.1 Raiva urbana</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A829">
+					<nome>Raiva não especificada</nome>
+					<nome50>A82.9 Raiva NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A83">
+				<nome>Encefalite por vírus transmitidos por mosquitos</nome>
+				<nome50>A83   Encefalite p/virus transm p/mosquitos</nome50>
+				<subcategoria codsubcat="A830">
+					<nome>Encefalite japonesa</nome>
+					<nome50>A83.0 Encefalite japonesa</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A831">
+					<nome>Encefalite eqüina ocidental</nome>
+					<nome50>A83.1 Encefalite equina ocidental</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A832">
+					<nome>Encefalite eqüina oriental</nome>
+					<nome50>A83.2 Encefalite equina oriental</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A833">
+					<nome>Encefalite de St. Louis</nome>
+					<nome50>A83.3 Encefalite de St. Louis</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A834">
+					<nome>Encefalite australiana</nome>
+					<nome50>A83.4 Encefalite australiana</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A835">
+					<nome>Encefalite da Califórnia</nome>
+					<nome50>A83.5 Encefalite da California</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A836">
+					<nome>Doença pelo vírus de Rocio</nome>
+					<nome50>A83.6 Doenc p/virus de Rocio</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A838">
+					<nome>Outras encefalites por vírus transmitidas por mosquitos</nome>
+					<nome50>A83.8 Outr encefalites p/virus transm p/mosquitos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A839">
+					<nome>Encefalite não especificada por vírus transmitida por mosquitos</nome>
+					<nome50>A83.9 Encefalite NE p/virus transm p/mosquitos</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A84">
+				<nome>Encefalite por vírus transmitido por carrapatos</nome>
+				<nome50>A84   Encefalite p/virus transm p/carrapatos</nome50>
+				<subcategoria codsubcat="A840">
+					<nome>Encefalite da taiga [encefalite vernoestival russa]</nome>
+					<nome50>A84.0 Encefalite da taiga</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A841">
+					<nome>Encefalite da Europa Central transmitida por carrapatos</nome>
+					<nome50>A84.1 Encefalite Europa Central transm p/carrapato</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A848">
+					<nome>Outras encefalites por vírus transmitidas por carrapatos</nome>
+					<nome50>A84.8 Outr encefalites p/virus transm p/carrapatos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A849">
+					<nome>Encefalite não especificada por vírus transmitida por carrapatos</nome>
+					<nome50>A84.9 Encefalite NE p/virus transm p/carrapatos</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A85">
+				<nome>Outras encefalites virais, não classificadas em outra parte</nome>
+				<nome50>A85   Outr encefalites virais NCOP</nome50>
+				<subcategoria codsubcat="A850">
+					<duplaclassificacao>
+						<referencia codrefer="G051">G05.1*</referencia>
+						</duplaclassificacao>
+					<nome>Encefalite por enterovírus</nome>
+					<nome50>A85.0 Encefalite p/enterovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A851">
+					<duplaclassificacao>
+						<referencia codrefer="G051">G05.1*</referencia>
+						</duplaclassificacao>
+					<nome>Encefalite por adenovírus</nome>
+					<nome50>A85.1 Encefalite p/adenovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A852">
+					<nome>Encefalite por vírus transmitido por artrópodes, não especificada</nome>
+					<nome50>A85.2 Encefalite p/virus transm p/artropodes NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A858">
+					<nome>Outras encefalites virais especificadas</nome>
+					<nome50>A85.8 Outr encefalites virais espec</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A86" ehsubcat="sim">
+				<nome>Encefalite viral, não especificada</nome>
+				<nome50>A86   Encefalite viral NE</nome50>
+				</categoria>
+			<categoria codcat="A87">
+				<nome>Meningite viral</nome>
+				<nome50>A87   Meningite viral</nome50>
+				<subcategoria codsubcat="A870">
+					<duplaclassificacao>
+						<referencia codrefer="G020">G02.0*</referencia>
+						</duplaclassificacao>
+					<nome>Meningite por enterovírus</nome>
+					<nome50>A87.0 Meningite p/enterovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A871">
+					<duplaclassificacao>
+						<referencia codrefer="G020">G02.0*</referencia>
+						</duplaclassificacao>
+					<nome>Meningite por adenovírus</nome>
+					<nome50>A87.1 Meningite p/adenovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A872">
+					<nome>Coriomeningite linfocitária</nome>
+					<nome50>A87.2 Coriomeningite linfocitaria</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A878">
+					<nome>Outras meningites virais</nome>
+					<nome50>A87.8 Outr meningites virais</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A879">
+					<nome>Meningite viral não especificada</nome>
+					<nome50>A87.9 Meningite viral NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A88">
+				<nome>Outras infecções virais do sistema nervoso central não classificadas em outra parte</nome>
+				<nome50>A88   Outr infecc virais sist nervoso central NCOP</nome50>
+				<subcategoria codsubcat="A880">
+					<nome>Febre exantemática por enterovírus [exantema de Boston]</nome>
+					<nome50>A88.0 Febre exantematica p/enterovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A881">
+					<nome>Vertigem epidêmica</nome>
+					<nome50>A88.1 Vertigem epidemica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A888">
+					<nome>Outras infecções virais especificadas do sistema nervoso central</nome>
+					<nome50>A88.8 Outr infecc virais espec sist nerv central</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A89" ehsubcat="sim">
+				<nome>Infecções virais não especificadas do sistema nervoso central</nome>
+				<nome50>A89   Infecc virais NE do sist nervoso central</nome50>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="A90-A99" inicial="A90" final="A99">
+			<nome>Febres por arbovírus e febres hemorrágicas virais</nome>
+			<nome50>Febres por arbovírus e febres hemorrágicas virais</nome50>
+			<categoria codcat="A90" ehsubcat="sim">
+				<nome>Dengue [dengue clássico]</nome>
+				<nome50>A90   Dengue</nome50>
+				</categoria>
+			<categoria codcat="A91" ehsubcat="sim">
+				<nome>Febre hemorrágica devida ao vírus do dengue</nome>
+				<nome50>A91   Febre hemorragica dev virus do dengue</nome50>
+				</categoria>
+			<categoria codcat="A92">
+				<nome>Outras febres virais transmitidas por mosquitos</nome>
+				<nome50>A92   Outr febres virais transm p/mosquitos</nome50>
+				<subcategoria codsubcat="A920">
+					<nome>Febre de Chikungunya</nome>
+					<nome50>A92.0 Febre de Chikungunya</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A921">
+					<nome>Febre de O&apos;nyong-nyong</nome>
+					<nome50>A92.1 Febre de Onyong-nyong</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A922">
+					<nome>Febre eqüina venezuelana</nome>
+					<nome50>A92.2 Febre equina venezuelana</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A923">
+					<nome>Infecção pelo vírus West Nile</nome>
+					<nome50>A92.3 Infecção p/virus West Nile</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A924">
+					<nome>Febre do vale do Rift</nome>
+					<nome50>A92.4 Febre do vale do Rift</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A928">
+					<nome>Outras febres virais especificadas transmitidas por mosquitos</nome>
+					<nome50>A92.8 Outr febres virais espec transm p/mosquitos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A929">
+					<nome>Febre viral transmitida por mosquitos, não especificada</nome>
+					<nome50>A92.9 Febre viral transm p/mosquitos NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A93">
+				<nome>Outras febres por vírus transmitidas por artrópodes não classificadas em outra parte</nome>
+				<nome50>A93   Outr febres p/virus transm p/artropodes NCOP</nome50>
+				<subcategoria codsubcat="A930">
+					<nome>Febre de Oropouche</nome>
+					<nome50>A93.0 Febre de Oropouche</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A931">
+					<nome>Febre por flebótomos</nome>
+					<nome50>A93.1 Febre p/flebotomos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A932">
+					<nome>Febre do Colorado transmitida por carrapatos</nome>
+					<nome50>A93.2 Febre do Colorado transm p/carrapatos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A938">
+					<nome>Outras febres virais especificadas transmitidas por artrópodes</nome>
+					<nome50>A93.8 Outr febres virais espec transm p/artropodes</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A94" ehsubcat="sim">
+				<nome>Febre viral transmitida por artrópodes, não especificada</nome>
+				<nome50>A94   Febre viral transm p/artropodes NE</nome50>
+				</categoria>
+			<categoria codcat="A95">
+				<nome>Febre amarela</nome>
+				<nome50>A95   Febre amarela</nome50>
+				<subcategoria codsubcat="A950">
+					<nome>Febre amarela silvestre</nome>
+					<nome50>A95.0 Febre amarela silvestre</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A951">
+					<nome>Febre amarela urbana</nome>
+					<nome50>A95.1 Febre amarela urbana</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A959">
+					<nome>Febre amarela não especificada</nome>
+					<nome50>A95.9 Febre amarela NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A96">
+				<nome>Febre hemorrágica por arenavírus</nome>
+				<nome50>A96   Febre hemorragica p/arenavirus</nome50>
+				<subcategoria codsubcat="A960">
+					<nome>Febre hemorrágica de Junin</nome>
+					<nome50>A96.0 Febre hemorragica de Junin</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A961">
+					<nome>Febre hemorrágica de Machupo</nome>
+					<nome50>A96.1 Febre hemorragica de Machupo</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A962">
+					<nome>Febre de Lassa</nome>
+					<nome50>A96.2 Febre de Lassa</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A968">
+					<nome>Outras febres hemorrágicas por arenavírus</nome>
+					<nome50>A96.8 Outr febres hemorragicas p/arenavirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A969">
+					<nome>Febre hemorrágica por arenavírus, não especificada</nome>
+					<nome50>A96.9 Febre hemorragica p/arenavirus NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A98">
+				<nome>Outras febres hemorrágicas por vírus, não classificadas em outra parte</nome>
+				<nome50>A98   Outr febres hemorragicas p/virus NCOP</nome50>
+				<subcategoria codsubcat="A980">
+					<nome>Febre hemorrágica da Criméia (do Congo)</nome>
+					<nome50>A98.0 Febre hemorragica da Crimeia</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A981">
+					<nome>Febre hemorrágica de Omsk</nome>
+					<nome50>A98.1 Febre hemorragica de Omsk</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A982">
+					<nome>Doença da floresta de Kyasanur</nome>
+					<nome50>A98.2 Doenc da floresta de Kyasanur</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A983">
+					<nome>Doença de Marburg</nome>
+					<nome50>A98.3 Doenc de Marburg</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A984">
+					<nome>Doença pelo vírus Ebola</nome>
+					<nome50>A98.4 Doenc p/virus Ebola</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A985">
+					<nome>Febre hemorrágica com síndrome renal</nome>
+					<nome50>A98.5 Febre hemorragica c/sindr renal</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="A988">
+					<nome>Outras febres hemorrágicas especificadas por vírus</nome>
+					<nome50>A98.8 Outr febres hemorragicas espec p/virus</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="A99" ehsubcat="sim">
+				<nome>Febres hemorrágicas virais não especificadas</nome>
+				<nome50>A99   Febres hemorragicas virais NE</nome50>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="B00-B09" inicial="B00" final="B09">
+			<nome>Infecções virais caracterizadas por lesões de pele e mucosas</nome>
+			<nome50>Infecções virais caract p/lesões de pele e mucosas</nome50>
+			<categoria codcat="B00">
+				<nome>Infecções pelo vírus do herpes [herpes simples]</nome>
+				<nome50>B00   Infecc p/virus do herpes</nome50>
+				<subcategoria codsubcat="B000">
+					<nome>Eczema herpético</nome>
+					<nome50>B00.0 Eczema herpetico</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B001">
+					<nome>Dermatite vesicular devido ao vírus do herpes</nome>
+					<nome50>B00.1 Dermatite vesicular dev virus do herpes</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B002">
+					<nome>Gengivoestomatite e faringoamigdalite devida ao vírus do herpes</nome>
+					<nome50>B00.2 Gengivoestom e faringoamig dev virus herpes</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B003">
+					<duplaclassificacao>
+						<referencia codrefer="G020">G02.0*</referencia>
+						</duplaclassificacao>
+					<nome>Meningite devida ao vírus do herpes</nome>
+					<nome50>B00.3 Meningite dev virus do herpes</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B004">
+					<duplaclassificacao>
+						<referencia codrefer="G051">G05.1*</referencia>
+						</duplaclassificacao>
+					<nome>Encefalite devida ao vírus do herpes</nome>
+					<nome50>B00.4 Encefalite dev virus do herpes</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B005">
+					<nome>Afecções oculares devidas ao vírus do herpes</nome>
+					<nome50>B00.5 Afeccoes oculares dev virus do herpes</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B007">
+					<nome>Doença disseminada devida ao vírus do herpes</nome>
+					<nome50>B00.7 Doenc disseminada dev virus do herpes</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B008">
+					<nome>Outras formas de infecção devida ao vírus do herpes</nome>
+					<nome50>B00.8 Outr form de infecc dev virus do herpes</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B009">
+					<nome>Infecção não especificada devida ao vírus do herpes</nome>
+					<nome50>B00.9 Infecc NE dev virus do herpes</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B01">
+				<nome>Varicela [Catapora]</nome>
+				<nome50>B01   Varicela</nome50>
+				<subcategoria codsubcat="B010">
+					<duplaclassificacao>
+						<referencia codrefer="G020">G02.0*</referencia>
+						</duplaclassificacao>
+					<nome>Meningite por varicela</nome>
+					<nome50>B01.0 Meningite p/varicela</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B011">
+					<duplaclassificacao>
+						<referencia codrefer="G051">G05.1*</referencia>
+						</duplaclassificacao>
+					<nome>Encefalite por varicela</nome>
+					<nome50>B01.1 Encefalite p/varicela</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B012">
+					<duplaclassificacao>
+						<referencia codrefer="J171">J17.1*</referencia>
+						</duplaclassificacao>
+					<nome>Pneumopatia varicelosa</nome>
+					<nome50>B01.2 Pneumopatia varicelosa</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B018">
+					<nome>Varicela com outras complicações</nome>
+					<nome50>B01.8 Varicela c/outr complic</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B019">
+					<nome>Varicela sem complicação</nome>
+					<nome50>B01.9 Varicela s/complic</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B02">
+				<nome>Herpes zoster [Zona]</nome>
+				<nome50>B02   Herpes zoster</nome50>
+				<subcategoria codsubcat="B020">
+					<duplaclassificacao>
+						<referencia codrefer="G051">G05.1*</referencia>
+						</duplaclassificacao>
+					<nome>Encefalite pelo vírus do herpes zoster</nome>
+					<nome50>B02.0 Encefalite p/virus do herpes zoster</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B021">
+					<duplaclassificacao>
+						<referencia codrefer="G020">G02.0*</referencia>
+						</duplaclassificacao>
+					<nome>Meningite pelo vírus do herpes zoster</nome>
+					<nome50>B02.1 Meningite p/virus do herpes zoster</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B022">
+					<duplaclassificacao />
+					<nome>Herpes zoster acompanhado de outras manifestações neurológicas</nome>
+					<nome50>B02.2 Herpes zoster acomp outr manif neurologicas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B023">
+					<nome>Herpes zoster oftálmico</nome>
+					<nome50>B02.3 Herpes zoster oftalmico</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B027">
+					<nome>Herpes zoster disseminado</nome>
+					<nome50>B02.7 Herpes zoster disseminado</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B028">
+					<nome>Herpes zoster com outras complicações</nome>
+					<nome50>B02.8 Herpes zoster c/outr complic</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B029">
+					<nome>Herpes zoster sem complicação</nome>
+					<nome50>B02.9 Herpes zoster s/complic</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B03" ehsubcat="sim">
+				<nome>Varíola</nome>
+				<nome50>B03   Variola</nome50>
+				</categoria>
+			<categoria codcat="B04" ehsubcat="sim">
+				<nome>Varíola dos macacos [Monkeypox]</nome>
+				<nome50>B04   Variola dos macacos</nome50>
+				</categoria>
+			<categoria codcat="B05">
+				<nome>Sarampo</nome>
+				<nome50>B05   Sarampo</nome50>
+				<subcategoria codsubcat="B050">
+					<duplaclassificacao>
+						<referencia codrefer="G051">G05.1*</referencia>
+						</duplaclassificacao>
+					<nome>Sarampo complicado por encefalite</nome>
+					<nome50>B05.0 Sarampo complicado p/encefalite</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B051">
+					<duplaclassificacao>
+						<referencia codrefer="G020">G02.0*</referencia>
+						</duplaclassificacao>
+					<nome>Sarampo complicado por meningite</nome>
+					<nome50>B05.1 Sarampo complicado p/meningite</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B052">
+					<duplaclassificacao>
+						<referencia codrefer="J171">J17.1*</referencia>
+						</duplaclassificacao>
+					<nome>Sarampo complicado por pneumonia</nome>
+					<nome50>B05.2 Sarampo complicado p/pneumonia</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B053">
+					<duplaclassificacao>
+						<referencia codrefer="H671">H67.1*</referencia>
+						</duplaclassificacao>
+					<nome>Sarampo complicado por otite média</nome>
+					<nome50>B05.3 Sarampo complicado p/otite media</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B054">
+					<nome>Sarampo com complicações intestinais</nome>
+					<nome50>B05.4 Sarampo c/complic intestinais</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B058">
+					<nome>Sarampo com outras complicações</nome>
+					<nome50>B05.8 Sarampo c/outr complic</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B059">
+					<nome>Sarampo sem complicação</nome>
+					<nome50>B05.9 Sarampo s/complic</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B06">
+				<nome>Rubéola</nome>
+				<nome50>B06   Rubeola</nome50>
+				<subcategoria codsubcat="B060">
+					<duplaclassificacao />
+					<nome>Rubéola com complicações neurológicas</nome>
+					<nome50>B06.0 Rubeola c/complic neurologicas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B068">
+					<nome>Rubéola com outras complicações</nome>
+					<nome50>B06.8 Rubeola c/outr complic</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B069">
+					<nome>Rubéola sem complicação</nome>
+					<nome50>B06.9 Rubeola s/complic</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B07" ehsubcat="sim">
+				<nome>Verrugas de origem viral</nome>
+				<nome50>B07   Verrugas orig viral</nome50>
+				<restricoes causaobito="nao" />
+				</categoria>
+			<categoria codcat="B08">
+				<nome>Outras infecções virais caracterizadas por lesões da pele e das membranas mucosas, não classificadas em outra parte</nome>
+				<nome50>B08   Outr inf virais lesoes pele membr muc NCOP</nome50>
+				<subcategoria codsubcat="B080">
+					<nome>Outras infecções por ortopoxvírus</nome>
+					<nome50>B08.0 Outr infecc p/ortopoxvirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B081">
+					<nome>Molusco contagioso</nome>
+					<nome50>B08.1 Molusco contagioso</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B082">
+					<nome>Exantema súbito [sexta doença]</nome>
+					<nome50>B08.2 Exantema subito</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B083">
+					<nome>Eritema infeccioso [quinta doença]</nome>
+					<nome50>B08.3 Eritema infecc</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B084">
+					<nome>Estomatite vesicular devida a enterovírus com exantema</nome>
+					<nome50>B08.4 Estomatite vesic dev enterovirus c/exantema</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B085">
+					<nome>Faringite vesicular devida a enterovírus</nome>
+					<nome50>B08.5 Faringite vesicular dev enterovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B088">
+					<nome>Outras infecções virais especificadas caracterizadas por lesões de pele e das membranas mucosas</nome>
+					<nome50>B08.8 Outr inf virais espec lesoes pele membr muco</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B09" ehsubcat="sim">
+				<nome>Infecção viral não especificada caracterizada por lesões da pele e membranas mucosas</nome>
+				<nome50>B09   Inf viral NE caract p/lesoes pele membr muco</nome50>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="B15-B19" inicial="B15" final="B19">
+			<nome>Hepatite viral</nome>
+			<nome50>Hepatite viral</nome50>
+			<categoria codcat="B15">
+				<nome>Hepatite aguda A</nome>
+				<nome50>B15   Hepatite aguda A</nome50>
+				<subcategoria codsubcat="B150">
+					<nome>Hepatite A com coma hepático</nome>
+					<nome50>B15.0 Hepatite A c/coma hepatico</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B159">
+					<nome>Hepatite A sem coma hepático</nome>
+					<nome50>B15.9 Hepatite A s/coma hepatico</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B16">
+				<nome>Hepatite aguda B</nome>
+				<nome50>B16   Hepatite aguda B</nome50>
+				<subcategoria codsubcat="B160">
+					<nome>Hepatite aguda B com agente Delta (co-infecção), com coma hepático</nome>
+					<nome50>B16.0 Hepatite aguda B c/agente Delta c/coma hepat</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B161">
+					<nome>Hepatite aguda B com agente Delta, (co-infecção), sem coma hepático</nome>
+					<nome50>B16.1 Hepatite aguda B c/agente Delta s/coma hepat</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B162">
+					<nome>Hepatite aguda B sem agente Delta, com coma hepático</nome>
+					<nome50>B16.2 Hepatite aguda B s/agente Delta c/coma hepat</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B169">
+					<nome>Hepatite aguda B sem agente Delta e sem coma hepático</nome>
+					<nome50>B16.9 Hepatite aguda B s/agente Delta s/coma hepat</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B17">
+				<nome>Outras hepatites virais agudas</nome>
+				<nome50>B17   Outr hepatites virais agudas</nome50>
+				<subcategoria codsubcat="B170">
+					<nome>(Super)infecção Delta aguda de portador de hepatite B</nome>
+					<nome50>B17.0 Infecc Delta aguda de portador de hepatite B</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B171">
+					<nome>Hepatite aguda C</nome>
+					<nome50>B17.1 Hepatite aguda C</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B172">
+					<nome>Hepatite aguda E</nome>
+					<nome50>B17.2 Hepatite aguda E</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B178">
+					<nome>Outras hepatites virais agudas especificadas</nome>
+					<nome50>B17.8 Outr hepatites virais agudas espec</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B18">
+				<nome>Hepatite viral crônica</nome>
+				<nome50>B18   Hepatite viral cronica</nome50>
+				<subcategoria codsubcat="B180">
+					<nome>Hepatite viral crônica B com agente Delta</nome>
+					<nome50>B18.0 Hepatite viral cronica B c/agente Delta</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B181">
+					<nome>Hepatite crônica viral B sem agente Delta</nome>
+					<nome50>B18.1 Hepatite cronica viral B s/agente Delta</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B182">
+					<nome>Hepatite viral crônica C</nome>
+					<nome50>B18.2 Hepatite viral cronica C</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B188">
+					<nome>Outras hepatites crônicas virais</nome>
+					<nome50>B18.8 Outr hepatites cronicas virais</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B189">
+					<nome>Hepatite viral crônica não especificada</nome>
+					<nome50>B18.9 Hepatite viral cronica NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B19">
+				<nome>Hepatite viral não especificada</nome>
+				<nome50>B19   Hepatite viral NE</nome50>
+				<subcategoria codsubcat="B190">
+					<nome>Hepatite viral, não especificada, com coma</nome>
+					<nome50>B19.0 Hepatite viral NE c/coma</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B199">
+					<nome>Hepatite viral, não especificada, sem coma</nome>
+					<nome50>B19.9 Hepatite viral NE s/coma</nome50>
+					</subcategoria>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="B20-B24" inicial="B20" final="B24">
+			<nome>Doença pelo vírus da imunodeficiência humana [HIV]</nome>
+			<nome50>Doença pelo vírus da imunodeficiência humana [HIV]</nome50>
+			<categoria codcat="B20">
+				<nome>Doença pelo vírus da imunodeficiência humana [HIV], resultando em doenças infecciosas e parasitárias</nome>
+				<nome50>B20   Doenc p/HIV result doenc infecc e parasit</nome50>
+				<subcategoria codsubcat="B200">
+					<nome>Doença pelo HIV resultando em infecções micobacterianas</nome>
+					<nome50>B20.0 Doenc p/HIV result em infecc micobacterianas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B201">
+					<nome>Doença pelo HIV resultando em outras infecções bacterianas</nome>
+					<nome50>B20.1 Doenc p/HIV result outr infecc bacter</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B202">
+					<nome>Doença pelo HIV resultando em doença citomegálica</nome>
+					<nome50>B20.2 Doenc p/HIV result em doenc citomegalica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B203">
+					<nome>Doença pelo HIV resultando em outras infecções virais</nome>
+					<nome50>B20.3 Doenc p/HIV result em outr infecc virais</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B204">
+					<nome>Doença pelo HIV resultando em candidíase</nome>
+					<nome50>B20.4 Doenc p/HIV result em candidiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B205">
+					<nome>Doença pelo HIV resultando em outras micoses</nome>
+					<nome50>B20.5 Doenc p/HIV result em outr micoses</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B206">
+					<nome>Doença pelo HIV resultando em pneumonia por Pneumocystis jirovecii</nome>
+					<nome50>B20.6 Doenc p/HIV result pneumonia p/P.jirovecii</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B207">
+					<nome>Doença pelo HIV resultando em infecções múltiplas</nome>
+					<nome50>B20.7 Doenc p/HIV result em infecc mult</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B208">
+					<nome>Doença pelo HIV resultando em outras doenças infecciosas e parasitárias</nome>
+					<nome50>B20.8 Doenc p/HIV result outr doenc infecc parasit</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B209">
+					<nome>Doença pelo HIV resultando em doença infecciosa ou parasitária não especificada</nome>
+					<nome50>B20.9 Doenc p/HIV result doenc infecc parasit NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B21">
+				<nome>Doença pelo vírus da imunodeficiência humana [HIV], resultando em neoplasias malignas</nome>
+				<nome50>B21   Doenc p/HIV result em neopl malig</nome50>
+				<subcategoria codsubcat="B210">
+					<nome>Doença pelo HIV resultando em sarcoma de Kaposi</nome>
+					<nome50>B21.0 Doenc p/HIV result em sarcoma de Kaposi</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B211">
+					<nome>Doença pelo HIV resultando em linfoma de Burkitt</nome>
+					<nome50>B21.1 Doenc p/HIV result em linfoma de Burkitt</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B212">
+					<nome>Doença pelo HIV resultando em outros tipos de linfoma não-Hodgkin</nome>
+					<nome50>B21.2 Doenc p/HIV res outr tip linfoma nao-Hodgkin</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B213">
+					<nome>Doença pelo HIV resultando em outras neoplasias malignas dos tecidos linfático, hematopoético e correlatos</nome>
+					<nome50>B21.3 Doenc p/HIV out neop mal tec linf hemat corr</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B217">
+					<nome>Doença pelo HIV resultando em múltiplas neoplasias malignas</nome>
+					<nome50>B21.7 Doenc p/HIV result em mult neopl malig</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B218">
+					<nome>Doença pelo HIV resultando em outras neoplasias malignas</nome>
+					<nome50>B21.8 Doenc p/HIV result em outr neopl malig</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B219">
+					<nome>Doença pelo HIV resultando em neoplasia maligna não especificada</nome>
+					<nome50>B21.9 Doenc p/HIV result em neopl malig NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B22">
+				<nome>Doença pelo vírus da imunodeficiência humana [HIV] resultando em outras doenças especificadas</nome>
+				<nome50>B22   Doenc p/HIV result em outr doenc espec</nome50>
+				<subcategoria codsubcat="B220">
+					<nome>Doença pelo HIV resultando em encefalopatia</nome>
+					<nome50>B22.0 Doenc p/HIV result em encefalopatia</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B221">
+					<nome>Doença pelo HIV resultando em pneumonite intersticial linfática</nome>
+					<nome50>B22.1 Doenc p/HIV result pneumonite interst linfat</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B222">
+					<nome>Doença pelo HIV resultando em síndrome de emaciação</nome>
+					<nome50>B22.2 Doenc p/HIV result em sindr de emaciacao</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B227">
+					<nome>Doença pelo HIV resultando em doenças múltiplas classificadas em outra parte</nome>
+					<nome50>B22.7 Doenc p/HIV result em doenc mult COP</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B23">
+				<nome>Doença pelo vírus da imunodeficiência humana [HIV] resultando em outras doenças</nome>
+				<nome50>B23   Doenc p/HIV result em outr doenc</nome50>
+				<subcategoria codsubcat="B230">
+					<nome>Síndrome de infecção aguda pelo HIV</nome>
+					<nome50>B23.0 Sindr de infecc aguda p/HIV</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B231">
+					<nome>Doença pelo HIV resultando em linfadenopatias generalizadas (persistentes)</nome>
+					<nome50>B23.1 Doenc p/HIV result linfadenopatias generaliz</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B232">
+					<nome>Doença pelo HIV resultando em anomalias hematológicas e imunológicas não classificadas em outra parte</nome>
+					<nome50>B23.2 Doenc p/HIV result anom hemat imunolog NCOP</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B238">
+					<nome>Doença pelo HIV resultando em outra afecções especificadas</nome>
+					<nome50>B23.8 Doenc p/HIV result em outr afeccoes espec</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B24" ehsubcat="sim">
+				<nome>Doença pelo vírus da imunodeficiência humana [HIV] não especificada</nome>
+				<nome50>B24   Doenc p/HIV NE</nome50>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="B25-B34" inicial="B25" final="B34">
+			<nome>Outras doenças por vírus</nome>
+			<nome50>Outras doenças por vírus</nome50>
+			<categoria codcat="B25">
+				<nome>Doença por citomegalovírus</nome>
+				<nome50>B25   Doenc p/citomegalovirus</nome50>
+				<subcategoria codsubcat="B250">
+					<duplaclassificacao>
+						<referencia codrefer="J171">J17.1*</referencia>
+						</duplaclassificacao>
+					<nome>Pneumonite por citomegalovírus </nome>
+					<nome50>B25.0 Pneumonite p/citomegalovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B251">
+					<duplaclassificacao>
+						<referencia codrefer="K770">K77.0*</referencia>
+						</duplaclassificacao>
+					<nome>Hepatite por citomegalovírus</nome>
+					<nome50>B25.1 Hepatite p/citomegalovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B252">
+					<duplaclassificacao>
+						<referencia codrefer="K871">K87.1*</referencia>
+						</duplaclassificacao>
+					<nome>Pancreatite por citomegalovírus</nome>
+					<nome50>B25.2 Pancreatite p/citomegalovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B258">
+					<nome>Outras doenças por citomegalovírus</nome>
+					<nome50>B25.8 Outr doenc p/citomegalovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B259">
+					<nome>Doença não especificada por citomegalovírus</nome>
+					<nome50>B25.9 Doenc NE p/citomegalovirus</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B26">
+				<nome>Caxumba [Parotidite epidêmica]</nome>
+				<nome50>B26   Caxumba</nome50>
+				<subcategoria codsubcat="B260">
+					<duplaclassificacao>
+						<referencia codrefer="N511">N51.1*</referencia>
+						</duplaclassificacao>
+					<nome>Orquite por caxumba [parotidite epidêmica]</nome>
+					<nome50>B26.0 Orquite p/caxumba</nome50>
+					<restricoes sexo="apenas_homens" />
+					</subcategoria>
+				<subcategoria codsubcat="B261">
+					<duplaclassificacao>
+						<referencia codrefer="G020">G02.0*</referencia>
+						</duplaclassificacao>
+					<nome>Meningite por caxumba [parotidite epidêmica]</nome>
+					<nome50>B26.1 Meningite p/caxumba</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B262">
+					<duplaclassificacao>
+						<referencia codrefer="G051">G05.1*</referencia>
+						</duplaclassificacao>
+					<nome>Encefalite por caxumba [parotidite epidêmica]</nome>
+					<nome50>B26.2 Encefalite p/caxumba</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B263">
+					<duplaclassificacao>
+						<referencia codrefer="K871">K87.1*</referencia>
+						</duplaclassificacao>
+					<nome>Pancreatite por caxumba [parotidite epidêmica]</nome>
+					<nome50>B26.3 Pancreatite p/caxumba</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B268">
+					<nome>Caxumba [parotidite epidêmica] com outras complicações</nome>
+					<nome50>B26.8 Caxumba c/outr complic</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B269">
+					<nome>Caxumba [parotidite epidêmica] sem complicações</nome>
+					<nome50>B26.9 Caxumba s/complic</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B27">
+				<nome>Mononucleose infecciosa</nome>
+				<nome50>B27   Mononucleose infecc</nome50>
+				<subcategoria codsubcat="B270">
+					<nome>Mononucleose pelo vírus herpes gama</nome>
+					<nome50>B27.0 Mononucleose p/virus herpes gama</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B271">
+					<nome>Mononucleose por citomegalovírus</nome>
+					<nome50>B27.1 Mononucleose p/citomegalovirus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B278">
+					<nome>Outras mononucleoses infecciosas</nome>
+					<nome50>B27.8 Outr mononucleoses infecc</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B279">
+					<nome>Mononucleose infecciosa não especificada</nome>
+					<nome50>B27.9 Mononucleose infecc NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B30">
+				<nome>Conjuntivite viral</nome>
+				<nome50>B30   Conjuntivite viral</nome50>
+				<subcategoria codsubcat="B300">
+					<duplaclassificacao>
+						<referencia codrefer="H192">H19.2*</referencia>
+						</duplaclassificacao>
+					<nome>Ceratoconjuntivite devida a adenovírus</nome>
+					<nome50>B30.0 Ceratoconjuntivite dev adenovirus</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B301">
+					<duplaclassificacao>
+						<referencia codrefer="H131">H13.1*</referencia>
+						</duplaclassificacao>
+					<nome>Conjuntivite devida a adenovírus</nome>
+					<nome50>B30.1 Conjuntivite dev adenovirus</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B302">
+					<nome>Faringoconjuntivite viral</nome>
+					<nome50>B30.2 Faringoconjuntivite viral</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B303">
+					<duplaclassificacao>
+						<referencia codrefer="H131">H13.1*</referencia>
+						</duplaclassificacao>
+					<nome>Conjuntivite hemorrágica aguda endêmica (por enterovírus)</nome>
+					<nome50>B30.3 Conjuntivite hemorragica aguda endemica</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B308">
+					<duplaclassificacao>
+						<referencia codrefer="H131">H13.1*</referencia>
+						</duplaclassificacao>
+					<nome>Outras conjuntivites virais</nome>
+					<nome50>B30.8 Outr conjuntivites virais</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B309">
+					<nome>Conjuntivite viral não especificada</nome>
+					<nome50>B30.9 Conjuntivite viral NE</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B33">
+				<nome>Outras doenças por vírus não classificada em outra parte</nome>
+				<nome50>B33   Outr doenc p/virus NCOP</nome50>
+				<subcategoria codsubcat="B330">
+					<nome>Mialgia epidêmica</nome>
+					<nome50>B33.0 Mialgia epidemica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B331">
+					<nome>Doença de Ross River</nome>
+					<nome50>B33.1 Doenc de Ross River</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B332">
+					<nome>Cardite viral</nome>
+					<nome50>B33.2 Cardite viral</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B333">
+					<nome>Infecção por retrovírus não classificada em outra parte</nome>
+					<nome50>B33.3 Infecc p/retrovirus NCOP</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B334">
+					<duplaclassificacao>
+						<referencia codrefer="J171">J17.1*</referencia>
+						</duplaclassificacao>
+					<nome>Síndrome (cardio-)pulmonar por Hantavírus [SPH] [SCPH]</nome>
+					<nome50>B33.4 Síndrome (cardio-)pulmonar por Hantavírus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B338">
+					<nome>Outras doenças especificadas por vírus</nome>
+					<nome50>B33.8 Outr doenc espec p/virus</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B34">
+				<nome>Doenças por vírus, de localização não especificada</nome>
+				<nome50>B34   Doenc p/virus de localiz NE</nome50>
+				<subcategoria codsubcat="B340">
+					<nome>Infecção por adenovírus de localização não especificada</nome>
+					<nome50>B34.0 Infecc p/adenovirus local NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B341">
+					<nome>Infecção por enterovírus de localização não especificada</nome>
+					<nome50>B34.1 Infecc p/enterovirus localiz NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B342">
+					<nome>Infecção por coronavírus de localização não especificada</nome>
+					<nome50>B34.2 Infecc p/coronavirus localiz NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B343">
+					<nome>Infecção por parvovírus de localização não especificada</nome>
+					<nome50>B34.3 Infecc p/parvovirus localiz NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B344">
+					<nome>Infecção por papovavírus de localização não especificada</nome>
+					<nome50>B34.4 Infecc p/papovavirus localiz NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B348">
+					<nome>Outras infecções por vírus de localização não especificada</nome>
+					<nome50>B34.8 Outr infecc p/virus localiz NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B349">
+					<nome>Infecção viral não especificada</nome>
+					<nome50>B34.9 Infecc viral NE</nome50>
+					</subcategoria>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="B35-B49" inicial="B35" final="B49">
+			<nome>Micoses</nome>
+			<nome50>Micoses</nome50>
+			<categoria codcat="B35">
+				<nome>Dermatofitose</nome>
+				<nome50>B35   Dermatofitose</nome50>
+				<subcategoria codsubcat="B350">
+					<nome>Tinha da barba e do couro cabeludo</nome>
+					<nome50>B35.0 Tinha da barba e do couro cabeludo</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B351">
+					<nome>Tinha das unhas</nome>
+					<nome50>B35.1 Tinha das unhas</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B352">
+					<nome>Tinha da mão</nome>
+					<nome50>B35.2 Tinha da mao</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B353">
+					<nome>Tinha dos pés</nome>
+					<nome50>B35.3 Tinha dos pes</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B354">
+					<nome>Tinha do corpo</nome>
+					<nome50>B35.4 Tinha do corpo</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B355">
+					<nome>Tinha imbricada</nome>
+					<nome50>B35.5 Tinha imbricada</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B356">
+					<nome>Tinea cruris</nome>
+					<nome50>B35.6 Tinea cruris</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B358">
+					<nome>Outras dermatofitoses</nome>
+					<nome50>B35.8 Outr dermatofitoses</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B359">
+					<nome>Dermatofitose não especificada</nome>
+					<nome50>B35.9 Dermatofitose NE</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B36">
+				<nome>Outras micoses superficiais</nome>
+				<nome50>B36   Outr micoses superf</nome50>
+				<subcategoria codsubcat="B360">
+					<nome>Pitiríase versicolor</nome>
+					<nome50>B36.0 Pitiriase versicolor</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B361">
+					<nome>Tinha negra</nome>
+					<nome50>B36.1 Tinha negra</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B362">
+					<nome>Piedra branca</nome>
+					<nome50>B36.2 Piedra branca</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B363">
+					<nome>Piedra negra</nome>
+					<nome50>B36.3 Piedra negra</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B368">
+					<nome>Outras micoses superficiais especificadas</nome>
+					<nome50>B36.8 Outr micoses superf espec</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B369">
+					<nome>Micose superficial não especificada</nome>
+					<nome50>B36.9 Micose superf NE</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B37">
+				<nome>Candidíase</nome>
+				<nome50>B37   Candidiase</nome50>
+				<subcategoria codsubcat="B370">
+					<nome>Estomatite por Candida</nome>
+					<nome50>B37.0 Estomatite p/Candida</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B371">
+					<nome>Candidíase pulmonar</nome>
+					<nome50>B37.1 Candidiase pulmonar</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B372">
+					<nome>Candidíase da pele e das unhas</nome>
+					<nome50>B37.2 Candidiase da pele e das unhas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B373">
+					<duplaclassificacao>
+						<referencia codrefer="N771">N77.1*</referencia>
+						</duplaclassificacao>
+					<nome>Candidíase da vulva e da vagina</nome>
+					<nome50>B37.3 Candidiase da vulva e da vagina</nome50>
+					<restricoes sexo="apenas_mulheres" />
+					</subcategoria>
+				<subcategoria codsubcat="B374">
+					<nome>Candidíase de outras localizações urogenitais</nome>
+					<nome50>B37.4 Candidiase de outr localiz urogenitais</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B375">
+					<duplaclassificacao>
+						<referencia codrefer="G021">G02.1*</referencia>
+						</duplaclassificacao>
+					<nome>Meningite por Candida</nome>
+					<nome50>B37.5 Meningite p/Candida</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B376">
+					<duplaclassificacao>
+						<referencia codrefer="I398">I39.8*</referencia>
+						</duplaclassificacao>
+					<nome>Endocardite por Candida</nome>
+					<nome50>B37.6 Endocardite p/Candida</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B377">
+					<nome>Septicemia por Candida</nome>
+					<nome50>B37.7 Septicemia p/Candida</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B378">
+					<nome>Candidíase de outras localizações</nome>
+					<nome50>B37.8 Candidiase de outr localiz</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B379">
+					<nome>Candidíase não especificada</nome>
+					<nome50>B37.9 Candidiase NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B38">
+				<nome>Coccidioidomicose</nome>
+				<nome50>B38   Coccidioidomicose</nome50>
+				<subcategoria codsubcat="B380">
+					<nome>Coccidioidomicose pulmonar aguda</nome>
+					<nome50>B38.0 Coccidioidomicose pulmonar aguda</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B381">
+					<nome>Coccidioidomicose pulmonar crônica</nome>
+					<nome50>B38.1 Coccidioidomicose pulmonar cronica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B382">
+					<nome>Coccidioidomicose pulmonar não especificada</nome>
+					<nome50>B38.2 Coccidioidomicose pulmonar NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B383">
+					<nome>Coccidioidomicose cutânea</nome>
+					<nome50>B38.3 Coccidioidomicose cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B384">
+					<duplaclassificacao>
+						<referencia codrefer="G021">G02.1*</referencia>
+						</duplaclassificacao>
+					<nome>Meningite por coccidioidomicose</nome>
+					<nome50>B38.4 Meningite p/coccidioidomicose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B387">
+					<nome>Coccidioidomicose disseminada</nome>
+					<nome50>B38.7 Coccidioidomicose disseminada</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B388">
+					<nome>Outras formas de coccidioidomicose</nome>
+					<nome50>B38.8 Outr form de coccidioidomicose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B389">
+					<nome>Coccidioidomicose não especificada</nome>
+					<nome50>B38.9 Coccidioidomicose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B39">
+				<nome>Histoplasmose</nome>
+				<nome50>B39   Histoplasmose</nome50>
+				<subcategoria codsubcat="B390">
+					<nome>Histoplasmose pulmonar aguda por Histoplasma capsulatum</nome>
+					<nome50>B39.0 Histoplasmose pulmonar aguda p/H.capsulatum</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B391">
+					<nome>Histoplasmose pulmonar crônica por Histoplasma capsulatum</nome>
+					<nome50>B39.1 Histoplasmose pulmonar cronic p/H.capsulatum</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B392">
+					<nome>Histoplasmose pulmonar não especificada por Histoplasma capsulatum</nome>
+					<nome50>B39.2 Histoplasmose pulmonar NE p/H.capsulatum</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B393">
+					<nome>Histoplasmose disseminada por Histoplasma capsulatum</nome>
+					<nome50>B39.3 Histoplasmose disseminada p/H.capsulatum</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B394">
+					<nome>Histoplasmose não especificada por Histoplasma capsulatum</nome>
+					<nome50>B39.4 Histoplasmose NE p/Histoplasma capsulatum</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B395">
+					<nome>Histoplasmose por Histoplasma duboisii</nome>
+					<nome50>B39.5 Histoplasmose p/Histoplasma duboisii</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B399">
+					<nome>Histoplasmose não especificada</nome>
+					<nome50>B39.9 Histoplasmose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B40">
+				<nome>Blastomicose</nome>
+				<nome50>B40   Blastomicose</nome50>
+				<subcategoria codsubcat="B400">
+					<nome>Blastomicose pulmonar aguda</nome>
+					<nome50>B40.0 Blastomicose pulmonar aguda</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B401">
+					<nome>Blastomicose pulmonar crônica</nome>
+					<nome50>B40.1 Blastomicose pulmonar cronica</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B402">
+					<nome>Blastomicose pulmonar não especificada</nome>
+					<nome50>B40.2 Blastomicose pulmonar NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B403">
+					<nome>Blastomicose cutânea</nome>
+					<nome50>B40.3 Blastomicose cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B407">
+					<nome>Blastomicose disseminada</nome>
+					<nome50>B40.7 Blastomicose disseminada</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B408">
+					<nome>Outras formas de blastomicose</nome>
+					<nome50>B40.8 Outr form de blastomicose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B409">
+					<nome>Blastomicose não especificada</nome>
+					<nome50>B40.9 Blastomicose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B41">
+				<nome>Paracoccidioidomicose</nome>
+				<nome50>B41   Paracoccidioidomicose</nome50>
+				<subcategoria codsubcat="B410">
+					<nome>Paracoccidioidomicose pulmonar</nome>
+					<nome50>B41.0 Paracoccidioidomicose pulmonar</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B417">
+					<nome>Paracoccidioidomicose disseminada</nome>
+					<nome50>B41.7 Paracoccidioidomicose disseminada</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B418">
+					<nome>Outras formas de paracoccidioidomicose</nome>
+					<nome50>B41.8 Outr form de paracoccidioidomicose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B419">
+					<nome>Paracoccidioidomicose não especificada</nome>
+					<nome50>B41.9 Paracoccidioidomicose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B42">
+				<nome>Esporotricose</nome>
+				<nome50>B42   Esporotricose</nome50>
+				<subcategoria codsubcat="B420">
+					<duplaclassificacao>
+						<referencia codrefer="J998">J99.8*</referencia>
+						</duplaclassificacao>
+					<nome>Esporotricose pulmonar</nome>
+					<nome50>B42.0 Esporotricose pulmonar</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B421">
+					<nome>Esporotricose linfocutânea</nome>
+					<nome50>B42.1 Esporotricose linfocutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B427">
+					<nome>Esporotricose disseminada</nome>
+					<nome50>B42.7 Esporotricose disseminada</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B428">
+					<nome>Outras formas de esporotricose</nome>
+					<nome50>B42.8 Outr form de esporotricose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B429">
+					<nome>Esporotricose não especificada</nome>
+					<nome50>B42.9 Esporotricose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B43">
+				<nome>Cromomicose e abscesso feomicótico</nome>
+				<nome50>B43   Cromomicose e abscesso feomicotico</nome50>
+				<subcategoria codsubcat="B430">
+					<nome>Cromomicose cutânea</nome>
+					<nome50>B43.0 Cromomicose cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B431">
+					<nome>Abscesso cerebral feomicótico</nome>
+					<nome50>B43.1 Abscesso cerebral feomicotico</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B432">
+					<nome>Abscesso e cisto feomicótico subcutâneos</nome>
+					<nome50>B43.2 Abscesso e cisto feomicotico subcutaneos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B438">
+					<nome>Outras formas de cromomicose</nome>
+					<nome50>B43.8 Outr form de cromomicose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B439">
+					<nome>Cromomicose não especificada</nome>
+					<nome50>B43.9 Cromomicose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B44">
+				<nome>Aspergilose</nome>
+				<nome50>B44   Aspergilose</nome50>
+				<subcategoria codsubcat="B440">
+					<nome>Aspergilose pulmonar invasiva</nome>
+					<nome50>B44.0 Aspergilose pulmonar invasiva</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B441">
+					<nome>Outras aspergiloses pulmonares</nome>
+					<nome50>B44.1 Outr aspergiloses pulmonares</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B442">
+					<nome>Aspergilose amigdaliana</nome>
+					<nome50>B44.2 Aspergilose amigdaliana</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B447">
+					<nome>Aspergilose disseminada</nome>
+					<nome50>B44.7 Aspergilose disseminada</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B448">
+					<nome>Outras formas de aspergilose</nome>
+					<nome50>B44.8 Outr form de Aspergilose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B449">
+					<nome>Aspergilose não especificada</nome>
+					<nome50>B44.9 Aspergilose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B45">
+				<nome>Criptococose</nome>
+				<nome50>B45   Criptococose</nome50>
+				<subcategoria codsubcat="B450">
+					<nome>Criptococose pulmonar</nome>
+					<nome50>B45.0 Criptococose pulmonar</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B451">
+					<nome>Criptococose cerebral</nome>
+					<nome50>B45.1 Criptococose cerebral</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B452">
+					<nome>Criptococose cutânea</nome>
+					<nome50>B45.2 Criptococose cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B453">
+					<nome>Criptococose óssea</nome>
+					<nome50>B45.3 Criptococose ossea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B457">
+					<nome>Criptococose disseminada</nome>
+					<nome50>B45.7 Criptococose disseminada</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B458">
+					<nome>Outras formas de criptococose</nome>
+					<nome50>B45.8 Outr form de criptococose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B459">
+					<nome>Criptococose não especificada</nome>
+					<nome50>B45.9 Criptococose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B46">
+				<nome>Zigomicose</nome>
+				<nome50>B46   Zigomicose</nome50>
+				<subcategoria codsubcat="B460">
+					<nome>Mucormicose pulmonar</nome>
+					<nome50>B46.0 Mucormicose pulmonar</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B461">
+					<nome>Mucormicose rinocerebral</nome>
+					<nome50>B46.1 Mucormicose rinocerebral</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B462">
+					<nome>Mucormicose gastrointestinal</nome>
+					<nome50>B46.2 Mucormicose gastrointestinal</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B463">
+					<nome>Mucormicose cutânea</nome>
+					<nome50>B46.3 Mucormicose cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B464">
+					<nome>Mucormicose disseminada</nome>
+					<nome50>B46.4 Mucormicose disseminada</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B465">
+					<nome>Mucormicose não especificada</nome>
+					<nome50>B46.5 Mucormicose NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B468">
+					<nome>Outras zigomicoses</nome>
+					<nome50>B46.8 Outr zigomicoses</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B469">
+					<nome>Zigomicose não especificada</nome>
+					<nome50>B46.9 Zigomicose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B47">
+				<nome>Micetoma</nome>
+				<nome50>B47   Micetoma</nome50>
+				<subcategoria codsubcat="B470">
+					<nome>Eumicetoma</nome>
+					<nome50>B47.0 Eumicetoma</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B471">
+					<nome>Actinomicetoma</nome>
+					<nome50>B47.1 Actinomicetoma</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B479">
+					<nome>Micetoma não especificado</nome>
+					<nome50>B47.9 Micetoma NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B48">
+				<nome>Outras micoses, não classificadas em outra parte</nome>
+				<nome50>B48   Outr micoses NCOP</nome50>
+				<subcategoria codsubcat="B480">
+					<nome>Lobomicose</nome>
+					<nome50>B48.0 Lobomicose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B481">
+					<nome>Rinosporidiose</nome>
+					<nome50>B48.1 Rinosporidiose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B482">
+					<nome>Alesqueriose</nome>
+					<nome50>B48.2 Alesqueriose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B483">
+					<nome>Geotricose</nome>
+					<nome50>B48.3 Geotricose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B484">
+					<nome>Penicilose</nome>
+					<nome50>B48.4 Penicilose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B487">
+					<nome>Micoses oportunistas</nome>
+					<nome50>B48.7 Micoses oportunistas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B488">
+					<nome>Outras micoses especificadas</nome>
+					<nome50>B48.8 Outr micoses espec</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B49" ehsubcat="sim">
+				<nome>Micose não especificada</nome>
+				<nome50>B49   Micose NE</nome50>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="B50-B64" inicial="B50" final="B64">
+			<nome>Doenças devidas a protozoários</nome>
+			<nome50>Doenças devidas a protozoários</nome50>
+			<categoria codcat="B50">
+				<nome>Malária por Plasmodium falciparum</nome>
+				<nome50>B50   Malaria p/Plasmodium falciparum</nome50>
+				<subcategoria codsubcat="B500">
+					<nome>Malária por Plasmodium falciparum com complicações cerebrais</nome>
+					<nome50>B50.0 Malaria p/P.falciparum c/complic cerebrais</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B508">
+					<nome>Outras formas graves e complicadas de malária por Plasmodium falciparum</nome>
+					<nome50>B50.8 Outr form grav compl malaria p/P.falciparum</nome50>
+					<categoriasabsorvidas codsubcat="B501" />
+					</subcategoria>
+				<subcategoria codsubcat="B509">
+					<nome>Malária não especificada por Plasmodium falciparum</nome>
+					<nome50>B50.9 Malaria NE p/Plasmodium falciparum</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B51">
+				<nome>Malária por Plasmodium vivax</nome>
+				<nome50>B51   Malaria p/Plasmodium vivax</nome50>
+				<subcategoria codsubcat="B510">
+					<nome>Malária por Plasmodium vivax com rotura do baço</nome>
+					<nome50>B51.0 Malaria p/Plasmodium vivax c/rotura do baco</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B518">
+					<nome>Malária por Plasmodium vivax com outras complicações</nome>
+					<nome50>B51.8 Malaria p/Plasmodium vivax c/outr complic</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B519">
+					<nome>Malária por Plasmodium vivax sem complicações</nome>
+					<nome50>B51.9 Malaria p/Plasmodium vivax s/complic</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B52">
+				<nome>Malária por Plasmodium malariae</nome>
+				<nome50>B52   Malaria p/Plasmodium malariae</nome50>
+				<subcategoria codsubcat="B520">
+					<nome>Malária por Plasmodium malariae com nefropatia</nome>
+					<nome50>B52.0 Malaria p/Plasmodium malariae c/nefropatia</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B528">
+					<nome>Malária por Plasmodium malariae com outras complicações</nome>
+					<nome50>B52.8 Malaria p/Plasmodium malariae c/outr complic</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B529">
+					<nome>Malária por Plasmodium malariae sem complicações</nome>
+					<nome50>B52.9 Malaria p/Plasmodium malariae s/complic</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B53">
+				<nome>Outras formas de malária confirmadas por exames parasitológicos</nome>
+				<nome50>B53   Outr form malaria conf p/exames parasitolog</nome50>
+				<subcategoria codsubcat="B530">
+					<nome>Malária por Plasmodium ovale</nome>
+					<nome50>B53.0 Malaria p/Plasmodium ovale</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B531">
+					<nome>Malária por plasmódios de macacos</nome>
+					<nome50>B53.1 Malaria p/plasmodios de macacos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B538">
+					<nome>Outras formas de malárias com confirmação parasitológica, não classificadas em outra parte</nome>
+					<nome50>B53.8 Outr form malarias c/conf parasitolog NCOP</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B54" ehsubcat="sim">
+				<nome>Malária não especificada</nome>
+				<nome50>B54   Malaria NE</nome50>
+				</categoria>
+			<categoria codcat="B55">
+				<nome>Leishmaniose</nome>
+				<nome50>B55   Leishmaniose</nome50>
+				<subcategoria codsubcat="B550">
+					<nome>Leishmaniose visceral</nome>
+					<nome50>B55.0 Leishmaniose visceral</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B551">
+					<nome>Leishmaniose cutânea</nome>
+					<nome50>B55.1 Leishmaniose cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B552">
+					<nome>Leishmaniose cutâneo-mucosa</nome>
+					<nome50>B55.2 Leishmaniose cutaneo-mucosa</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B559">
+					<nome>Leishmaniose não especificada</nome>
+					<nome50>B55.9 Leishmaniose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B56">
+				<nome>Tripanossomíase africana</nome>
+				<nome50>B56   Tripanossomiase africana</nome50>
+				<subcategoria codsubcat="B560">
+					<nome>Tripanossomíase por Trypanosoma gambiense</nome>
+					<nome50>B56.0 Tripanossomiase p/Trypanosoma gambiense</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B561">
+					<nome>Tripanossomíase por Trypanosoma rhodesiense</nome>
+					<nome50>B56.1 Tripanossomiase p/Trypanosoma rhodesiense</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B569">
+					<nome>Tripanossomíase africana não especificada</nome>
+					<nome50>B56.9 Tripanossomiase africana NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B57">
+				<nome>Doença de Chagas</nome>
+				<nome50>B57   Doenc de Chagas</nome50>
+				<subcategoria codsubcat="B570">
+					<duplaclassificacao>
+						<referencia codrefer="I412">I41.2*</referencia>
+						<referencia codrefer="I981">I98.1*</referencia>
+						</duplaclassificacao>
+					<nome>Forma aguda da doença de Chagas, com comprometimento cardíaco</nome>
+					<nome50>B57.0 Form aguda doenc de Chagas c/compr cardiaco</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B571">
+					<nome>Forma aguda da doença de Chagas, sem comprometimento cardíaco</nome>
+					<nome50>B57.1 Form aguda doenc de Chagas s/compr cardiaco</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B572">
+					<nome>Doença de Chagas (crônica) com comprometimento cardíaco</nome>
+					<nome50>B57.2 Doenc de Chagas c/compr cardiaco</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B573">
+					<nome>Doença de Chagas (crônica) com comprometimento do aparelho digestivo</nome>
+					<nome50>B57.3 Doenc de Chagas c/compr aparelho digestivo</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B574">
+					<nome>Doença de Chagas (crônica) com comprometimento do sistema nervoso</nome>
+					<nome50>B57.4 Doenc de Chagas c/compr do sist nervoso</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B575">
+					<nome>Doença de Chagas (crônica) com comprometimento de outros órgãos</nome>
+					<nome50>B57.5 Doenc de Chagas c/compr de outr orgaos</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B58">
+				<nome>Toxoplasmose</nome>
+				<nome50>B58   Toxoplasmose</nome50>
+				<subcategoria codsubcat="B580">
+					<duplaclassificacao />
+					<nome>Oculopatia por Toxoplasma</nome>
+					<nome50>B58.0 Oculopatia p/Toxoplasma</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B581">
+					<duplaclassificacao>
+						<referencia codrefer="K770">K77.0*</referencia>
+						</duplaclassificacao>
+					<nome>Hepatite por Toxoplasma</nome>
+					<nome50>B58.1 Hepatite p/Toxoplasma</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B582">
+					<duplaclassificacao>
+						<referencia codrefer="G052">G05.2*</referencia>
+						</duplaclassificacao>
+					<nome>Meningoencefalite por Toxoplasma</nome>
+					<nome50>B58.2 Meningoencefalite p/Toxoplasma</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B583">
+					<duplaclassificacao>
+						<referencia codrefer="J173">J17.3*</referencia>
+						</duplaclassificacao>
+					<nome>Toxoplasmose pulmonar</nome>
+					<nome50>B58.3 Toxoplasmose pulmonar</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B588">
+					<duplaclassificacao />
+					<nome>Toxoplasmose com comprometimento de outros órgãos</nome>
+					<nome50>B58.8 Toxoplasmose c/compr de outr orgaos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B589">
+					<nome>Toxoplasmose não especificada</nome>
+					<nome50>B58.9 Toxoplasmose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B59" ehsubcat="sim">
+				<duplaclassificacao>
+					<referencia codrefer="J173">J17.3*</referencia>
+					</duplaclassificacao>
+				<nome>Pneumocistose</nome>
+				<nome50>B59   Pneumocistose</nome50>
+				</categoria>
+			<categoria codcat="B60">
+				<nome>Outras doenças devidas a protozoários, não classificadas em outra parte</nome>
+				<nome50>B60   Outr doenc dev protozoarios NCOP</nome50>
+				<subcategoria codsubcat="B600">
+					<nome>Babesiose</nome>
+					<nome50>B60.0 Babesiose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B601">
+					<nome>Acantamebíase</nome>
+					<nome50>B60.1 Acantamebiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B602">
+					<nome>Naegleríase</nome>
+					<nome50>B60.2 Naegleriase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B608">
+					<nome>Outras doenças especificadas devidas a protozoários</nome>
+					<nome50>B60.8 Outr doenc espec dev protozoarios</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B64" ehsubcat="sim">
+				<nome>Doença não especificada devida a protozoários</nome>
+				<nome50>B64   Doenc NE dev protozoarios</nome50>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="B65-B83" inicial="B65" final="B83">
+			<nome>Helmintíases</nome>
+			<nome50>Helmintíases</nome50>
+			<categoria codcat="B65">
+				<nome>Esquistossomose [bilharziose] [Schistosomíase]</nome>
+				<nome50>B65   Esquistossomose</nome50>
+				<subcategoria codsubcat="B650">
+					<nome>Esquistossomose devida ao Schistosoma haematobium [esquistossomose urinária]</nome>
+					<nome50>B65.0 Esquistossomose dev Schistosoma haematobium</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B651">
+					<nome>Esquistossomose devida ao Schistosoma mansoni [esquistossomose intestinal]</nome>
+					<nome50>B65.1 Esquistossomose dev Schistosoma mansoni</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B652">
+					<nome>Esquistossomose devida ao Schistosoma japonicum</nome>
+					<nome50>B65.2 Esquistossomose dev Schistosoma japonicum</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B653">
+					<nome>Dermatite por cercárias</nome>
+					<nome50>B65.3 Dermatite p/cercarias</nome50>
+					<categoriasabsorvidas codsubcat="B656" />
+					</subcategoria>
+				<subcategoria codsubcat="B658">
+					<nome>Outras esquistossomoses</nome>
+					<nome50>B65.8 Outr esquistossomoses</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B659">
+					<nome>Esquistossomose não especificada</nome>
+					<nome50>B65.9 Esquistossomose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B66">
+				<nome>Outras infestações por trematódeos</nome>
+				<nome50>B66   Outr infestacoes p/trematodeos</nome50>
+				<subcategoria codsubcat="B660">
+					<nome>Opistorquíase</nome>
+					<nome50>B66.0 Opistorquiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B661">
+					<nome>Clonorquíase</nome>
+					<nome50>B66.1 Clonorquiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B662">
+					<nome>Dicrocelíase</nome>
+					<nome50>B66.2 Dicroceliase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B663">
+					<nome>Fasciolíase</nome>
+					<nome50>B66.3 Fascioliase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B664">
+					<nome>Paragonimíase</nome>
+					<nome50>B66.4 Paragonimiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B665">
+					<nome>Fasciolopsíase</nome>
+					<nome50>B66.5 Fasciolopsiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B668">
+					<nome>Outras infestações por trematódeos especificados</nome>
+					<nome50>B66.8 Outr infestacoes p/trematodeos espec</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B669">
+					<nome>Infecção não especificada por trematódeo</nome>
+					<nome50>B66.9 Infecc NE p/trematodeo</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B67">
+				<nome>Equinococose</nome>
+				<nome50>B67   Equinococose</nome50>
+				<subcategoria codsubcat="B670">
+					<nome>Infestação hepática por Echinococcus granulosus</nome>
+					<nome50>B67.0 Infestacao hepatica p/E.granulosus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B671">
+					<nome>Infestação pulmonar por Echinococcus granulosus</nome>
+					<nome50>B67.1 Infestacao pulmonar p/E.granulosus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B672">
+					<nome>Infestação óssea por Echinococcus granulosus</nome>
+					<nome50>B67.2 Infestacao ossea p/Echinococcus granulosus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B673">
+					<nome>Infestações por Echinmococcus granulosus, outras e de localizações múltiplas</nome>
+					<nome50>B67.3 Infestacoes p/E.granulosus outr e local mult</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B674">
+					<nome>Infestação não especificada por Echinococcus granulosus</nome>
+					<nome50>B67.4 Infestacao NE p/Echinococcus granulosus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B675">
+					<nome>Infestação hepática por Echinococcus multilocularis</nome>
+					<nome50>B67.5 Infestacao hepatica p/E.multilocularis</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B676">
+					<nome>Infecções por Echinococcus multilocularis, outras e de localizações múltiplas</nome>
+					<nome50>B67.6 Infecc p/E.multilocularis outr e local mult</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B677">
+					<nome>Infestação não especificada por Echinococcus multilocularis</nome>
+					<nome50>B67.7 Infestacao NE p/Echinococcus multilocularis</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B678">
+					<nome>Infestação hepática não especificada, por Echinococcus</nome>
+					<nome50>B67.8 Infestacao hepatica NE p/Echinococcus</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B679">
+					<nome>Infestações por Echinococcus, outras e as não especificadas</nome>
+					<nome50>B67.9 Infestacoes p/Echinococcus outr e as NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B68">
+				<nome>Infestação por Taenia</nome>
+				<nome50>B68   Infestacao p/Taenia</nome50>
+				<subcategoria codsubcat="B680">
+					<nome>Infestação por Taenia solium</nome>
+					<nome50>B68.0 Infestacao p/Taenia solium</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B681">
+					<nome>Infestação por Taenia saginata</nome>
+					<nome50>B68.1 Infestacao p/Taenia saginata</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B689">
+					<nome>Infestação não especificada por Taenia</nome>
+					<nome50>B68.9 Infestacao NE p/Taenia</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B69">
+				<nome>Cisticercose</nome>
+				<nome50>B69   Cisticercose</nome50>
+				<subcategoria codsubcat="B690">
+					<nome>Cisticercose do sistema nervoso central</nome>
+					<nome50>B69.0 Cisticercose do sist nervoso central</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B691">
+					<nome>Cisticercose do olho</nome>
+					<nome50>B69.1 Cisticercose do olho</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B698">
+					<nome>Cisticercose de outras localizações</nome>
+					<nome50>B69.8 Cisticercose de outr localiz</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B699">
+					<nome>Cisticercose não especificada</nome>
+					<nome50>B69.9 Cisticercose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B70">
+				<nome>Difilobotríase e esparganose</nome>
+				<nome50>B70   Difilobotriase e esparganose</nome50>
+				<subcategoria codsubcat="B700">
+					<nome>Difilobotríase</nome>
+					<nome50>B70.0 Difilobotriase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B701">
+					<nome>Esparganose</nome>
+					<nome50>B70.1 Esparganose</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B71">
+				<nome>Outras infestações por cestóides</nome>
+				<nome50>B71   Outr infestacoes p/cestoides</nome50>
+				<subcategoria codsubcat="B710">
+					<nome>Infestação por Hymenolepis</nome>
+					<nome50>B71.0 Infestacao p/Hymenolepis</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B711">
+					<nome>Infestação por Dipylidium</nome>
+					<nome50>B71.1 Infestacao p/Dipylidium</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B718">
+					<nome>Outras infestações especificadas por cestóides</nome>
+					<nome50>B71.8 Outr infestacoes espec p/cestoides</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B719">
+					<nome>Infestação não especificada por cestóides</nome>
+					<nome50>B71.9 Infestacao NE p/cestoides</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B72" ehsubcat="sim">
+				<nome>Dracontíase</nome>
+				<nome50>B72   Dracontiase</nome50>
+				</categoria>
+			<categoria codcat="B73" ehsubcat="sim">
+				<nome>Oncocercose</nome>
+				<nome50>B73   Oncocercose</nome50>
+				</categoria>
+			<categoria codcat="B74">
+				<nome>Filariose</nome>
+				<nome50>B74   Filariose</nome50>
+				<subcategoria codsubcat="B740">
+					<nome>Filariose por Wuchereria bancrofti</nome>
+					<nome50>B74.0 Filariose p/Wuchereria bancrofti</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B741">
+					<nome>Filariose por Brugia malayi</nome>
+					<nome50>B74.1 Filariose p/Brugia malayi</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B742">
+					<nome>Filariose por Brugia timori</nome>
+					<nome50>B74.2 Filariose p/Brugia timori</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B743">
+					<nome>Loaíase</nome>
+					<nome50>B74.3 Loaiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B744">
+					<nome>Mansonelose</nome>
+					<nome50>B74.4 Mansonelose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B748">
+					<nome>Outras filarioses</nome>
+					<nome50>B74.8 Outr filarioses</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B749">
+					<nome>Filariose não especificada</nome>
+					<nome50>B74.9 Filariose NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B75" ehsubcat="sim">
+				<nome>Triquinose</nome>
+				<nome50>B75   Triquinose</nome50>
+				</categoria>
+			<categoria codcat="B76">
+				<nome>Ancilostomíase</nome>
+				<nome50>B76   Ancilostomiase</nome50>
+				<subcategoria codsubcat="B760">
+					<nome>Ancilostomose</nome>
+					<nome50>B76.0 Ancilostomose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B761">
+					<nome>Necatoríase</nome>
+					<nome50>B76.1 Necatoriase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B768">
+					<nome>Outras ancilostomíases</nome>
+					<nome50>B76.8 Outr ancilostomiases</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B769">
+					<nome>Ancilostomíase não especificada</nome>
+					<nome50>B76.9 Ancilostomiase NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B77">
+				<nome>Ascaridíase</nome>
+				<nome50>B77   Ascaridiase</nome50>
+				<subcategoria codsubcat="B770">
+					<nome>Ascaridíase com complicações intestinais</nome>
+					<nome50>B77.0 Ascaridiase c/complic intestinais</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B778">
+					<nome>Ascaridíase com outras complicações</nome>
+					<nome50>B77.8 Ascaridiase c/outr complic</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B779">
+					<nome>Ascaridíase não especificada</nome>
+					<nome50>B77.9 Ascaridiase NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B78">
+				<nome>Estrongiloidíase</nome>
+				<nome50>B78   Estrongiloidiase</nome50>
+				<subcategoria codsubcat="B780">
+					<nome>Estrongiloidíase intestinal</nome>
+					<nome50>B78.0 Estrongiloidiase intestinal</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B781">
+					<nome>Estrongiloidíase cutânea</nome>
+					<nome50>B78.1 Estrongiloidiase cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B787">
+					<nome>Estrongiloidíase disseminada</nome>
+					<nome50>B78.7 Estrongiloidiase disseminada</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B789">
+					<nome>Estrongiloidíase não especificada</nome>
+					<nome50>B78.9 Estrongiloidiase NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B79" ehsubcat="sim">
+				<nome>Tricuríase</nome>
+				<nome50>B79   Tricuriase</nome50>
+				</categoria>
+			<categoria codcat="B80" ehsubcat="sim">
+				<nome>Oxiuríase</nome>
+				<nome50>B80   Oxiuriase</nome50>
+				</categoria>
+			<categoria codcat="B81">
+				<nome>Outras helmintíases intestinais, não classificadas em outra parte</nome>
+				<nome50>B81   Outr helmintiases intestinais NCOP</nome50>
+				<subcategoria codsubcat="B810">
+					<nome>Anisaquíase</nome>
+					<nome50>B81.0 Anisaquiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B811">
+					<nome>Capilaríase intestinal</nome>
+					<nome50>B81.1 Capilariase intestinal</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B812">
+					<nome>Tricostrongilose</nome>
+					<nome50>B81.2 Tricostrongilose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B813">
+					<nome>Angiostrongilíase intestinal</nome>
+					<nome50>B81.3 Angiostrongilíase intestinal</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B814">
+					<nome>Helmintíases intestinais mistas</nome>
+					<nome50>B81.4 Helmintiases intestinais mistas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B818">
+					<nome>Outras helmintíases intestinais especificadas</nome>
+					<nome50>B81.8 Outr helmintiases intestinais espec</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B82">
+				<nome>Parasitose intestinal não especificada</nome>
+				<nome50>B82   Parasitose intestinal NE</nome50>
+				<subcategoria codsubcat="B820">
+					<nome>Helmintíase intestinal não especificada</nome>
+					<nome50>B82.0 Helmintiase intestinal NE</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B829">
+					<nome>Parasitose intestinal não especificada</nome>
+					<nome50>B82.9 Parasitose intestinal NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B83">
+				<nome>Outras helmintíases</nome>
+				<nome50>B83   Outr helmintiases</nome50>
+				<subcategoria codsubcat="B830">
+					<nome>Larva migrans visceral</nome>
+					<nome50>B83.0 Larva migrans visceral</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B831">
+					<nome>Gnatostomíase</nome>
+					<nome50>B83.1 Gnatostomiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B832">
+					<nome>Angrostrongilíase devida a Parastrongylus cantonensis</nome>
+					<nome50>B83.2 Angrostrongilíase dev P.cantonensis</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B833">
+					<nome>Singamose</nome>
+					<nome50>B83.3 Singamose</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B834">
+					<nome>Hirudiníase interna</nome>
+					<nome50>B83.4 Hirudiniase interna</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B838">
+					<nome>Outras helmintíases especificadas</nome>
+					<nome50>B83.8 Outr helmintiases espec</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B839">
+					<nome>Helmintíase não especificada</nome>
+					<nome50>B83.9 Helmintiase NE</nome50>
+					</subcategoria>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="B85-B89" inicial="B85" final="B89">
+			<nome>Pediculose, acaríase e outras infestações</nome>
+			<nome50>Pediculose, acaríase e outras infestações</nome50>
+			<categoria codcat="B85">
+				<nome>Pediculose e ftiríase</nome>
+				<nome50>B85   Pediculose e ftiriase</nome50>
+				<subcategoria codsubcat="B850">
+					<nome>Pediculose devida a Pediculus humanus capitis</nome>
+					<nome50>B85.0 Pediculose dev Pediculus humanus capitis</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B851">
+					<nome>Pediculose devida a Pediculus humanus corporis</nome>
+					<nome50>B85.1 Pediculose dev Pediculus humanus corporis</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B852">
+					<nome>Pediculose não especificada</nome>
+					<nome50>B85.2 Pediculose NE</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B853">
+					<nome>Ftiríase</nome>
+					<nome50>B85.3 Ftiriase</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				<subcategoria codsubcat="B854">
+					<nome>Pediculose e ftiríase mista</nome>
+					<nome50>B85.4 Pediculose e ftiriase mista</nome50>
+					<restricoes causaobito="nao" />
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B86" ehsubcat="sim">
+				<nome>Escabiose [sarna]</nome>
+				<nome50>B86   Escabiose</nome50>
+				</categoria>
+			<categoria codcat="B87">
+				<nome>Miíase</nome>
+				<nome50>B87   Miiase</nome50>
+				<subcategoria codsubcat="B870">
+					<nome>Miíase cutânea</nome>
+					<nome50>B87.0 Miiase cutanea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B871">
+					<nome>Miíase das feridas</nome>
+					<nome50>B87.1 Miiase das feridas</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B872">
+					<nome>Miíase ocular</nome>
+					<nome50>B87.2 Miiase ocular</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B873">
+					<nome>Miíase nasofaríngea</nome>
+					<nome50>B87.3 Miiase nasofaringea</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B874">
+					<nome>Miíase auricular</nome>
+					<nome50>B87.4 Miiase auricular</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B878">
+					<nome>Miíase de outras localizações</nome>
+					<nome50>B87.8 Miiase de outr localiz</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B879">
+					<nome>Miíase não especificada</nome>
+					<nome50>B87.9 Miiase NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B88">
+				<nome>Outras infestações</nome>
+				<nome50>B88   Outr infestacoes</nome50>
+				<subcategoria codsubcat="B880">
+					<nome>Outras acaríases</nome>
+					<nome50>B88.0 Outr acariases</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B881">
+					<nome>Tungíase [infestação pela pulga da areia]</nome>
+					<nome50>B88.1 Tungiase</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B882">
+					<nome>Outras infestações por artrópodos</nome>
+					<nome50>B88.2 Outr infestacoes p/artropodos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B883">
+					<nome>Hirudiníase externa</nome>
+					<nome50>B88.3 Hirudiniase externa</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B888">
+					<nome>Outras infestações especificadas</nome>
+					<nome50>B88.8 Outr infestacoes espec</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B889">
+					<nome>Infestação não especificada</nome>
+					<nome50>B88.9 Infestacao NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B89" ehsubcat="sim">
+				<nome>Doença parasitária não especificada</nome>
+				<nome50>B89   Doenc parasit NE</nome50>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="B90-B94" inicial="B90" final="B94">
+			<nome>Seqüelas de doenças infecciosas e parasitárias</nome>
+			<nome50>Seqüelas de doenças infecciosas e parasitárias</nome50>
+			<categoria codcat="B90">
+				<nome>Seqüelas de tuberculose</nome>
+				<nome50>B90   Sequelas de tuberc</nome50>
+				<subcategoria codsubcat="B900">
+					<nome>Seqüelas de tuberculose do sistema nervoso central</nome>
+					<nome50>B90.0 Sequelas de tuberc do sist nervoso central</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B901">
+					<nome>Seqüelas de tuberculose geniturinária</nome>
+					<nome50>B90.1 Sequelas de tuberc geniturinaria</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B902">
+					<nome>Seqüelas de tuberculose óssea e das articulações</nome>
+					<nome50>B90.2 Sequelas de tuberc ossea e das articulacoes</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B908">
+					<nome>Seqüelas de tuberculose de outros órgãos</nome>
+					<nome50>B90.8 Sequelas de tuberc de outr orgaos</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B909">
+					<nome>Seqüelas de tuberculose das vias respiratórias e de órgãos não especificados</nome>
+					<nome50>B90.9 Sequelas de tuberc vias respirat e orgaos NE</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B91" ehsubcat="sim">
+				<nome>Seqüelas de poliomielite</nome>
+				<nome50>B91   Sequelas de poliomielite</nome50>
+				</categoria>
+			<categoria codcat="B92" ehsubcat="sim">
+				<nome>Seqüelas de hanseníase [lepra]</nome>
+				<nome50>B92   Sequelas de hanseniase</nome50>
+				</categoria>
+			<categoria codcat="B94">
+				<nome>Seqüelas de outras doenças infecciosas e parasitárias e das não especificadas</nome>
+				<nome50>B94   Sequelas de outr doenc infecc e parasit e NE</nome50>
+				<subcategoria codsubcat="B940">
+					<nome>Seqüelas de tracoma</nome>
+					<nome50>B94.0 Sequelas de tracoma</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B941">
+					<nome>Seqüelas de encefalite viral</nome>
+					<nome50>B94.1 Sequelas de encefalite viral</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B942">
+					<nome>Seqüelas de hepatite viral</nome>
+					<nome50>B94.2 Sequelas de hepatite viral</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B948">
+					<nome>Seqüelas de outras doenças infecciosas e parasitárias especificadas</nome>
+					<nome50>B94.8 Sequelas outr doenc infecc e parasit espec</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B949">
+					<nome>Seqüelas de doença infecciosa ou parasitária não especificada</nome>
+					<nome50>B94.9 Sequelas de doenc infecc ou parasit NE</nome50>
+					</subcategoria>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="B95-B97" inicial="B95" final="B97">
+			<nome>Agentes de infecções bacterianas, virais e outros agentes infecciosos</nome>
+			<nome50>Agentes infec bacter, virais e outr agentes infecc</nome50>
+			<categoria codcat="B95">
+				<nome>Estreptococos e estafilococos como causa de doenças classificadas em outros capítulos</nome>
+				<nome50>B95   Estr/estafilococo causa doenc class outr cap</nome50>
+				<subcategoria codsubcat="B950">
+					<nome>Estreptococo do grupo A, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B95.0 Estreptoc grupo A causa doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B951">
+					<nome>Estreptococo do grupo B, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B95.1 Estreptoc grupo B causa doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B952">
+					<nome>Estreptococo do grupo D, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B95.2 Estreptoc grupo D causa doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B953">
+					<nome>Streptococcus pneumoniae, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B95.3 S. pneumoniae causa doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B954">
+					<nome>Outros estreptococos, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B95.4 Outr estreptococo causa doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B955">
+					<nome>Estreptococo não especificado, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B95.5 Estreptococo NE causa doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B956">
+					<nome>Staphylococcus aureus, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B95.6 S.aureus causa doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B957">
+					<nome>Outros estafilococos como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B95.7 Outr estafilococo causa doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B958">
+					<nome>Estafilococo não especificado, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B95.8 Estafilococo NE causa doenc class outr cap</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B96">
+				<nome>Outros agentes bacterianos, como causa de doenças classificadas em outros capítulos</nome>
+				<nome50>B96   Outr agent bacter causa doenc class outr cap</nome50>
+				<subcategoria codsubcat="B960">
+					<nome>Mycoplasma pneumoniae [M. pneumoniae], como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B96.0 M.pneumoniae causa doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B961">
+					<nome>Klebsiella pneumoniae [M. pneumoniae], como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B96.1 K.pneumoniae como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B962">
+					<nome>Escherichia coli [E. Coli], como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B96.2 Escherichia coli como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B963">
+					<nome>Haemophilus influenzae [H. influenzae], como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B96.3 H.influenzae como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B964">
+					<nome>Proteus (mirabilis) (morganii), como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B96.4 Proteus como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B965">
+					<nome>Pseudomonas (aeruginosa) (mallei) (pseudomallei), como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B96.5 Pseudomonas como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B966">
+					<nome>Bacillus fragilis [B. fragilis], como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B96.6 Bacillus fragilis como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B967">
+					<nome>Clostridium perfringens [C. perfringens], como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B96.7 C.perfringens como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B968">
+					<nome>Outros agentes bacterianos especificados, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B96.8 Outr ag bact espec como doenc class outr cap</nome50>
+					</subcategoria>
+				</categoria>
+			<categoria codcat="B97">
+				<nome>Vírus como causa de doenças classificadas em outros capítulos</nome>
+				<nome50>B97   Virus como doenc class outr cap</nome50>
+				<subcategoria codsubcat="B970">
+					<nome>Adenovírus, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B97.0 Adenovirus como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B971">
+					<nome>Enterovírus, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B97.1 Enterovirus como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B972">
+					<nome>Coronavírus, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B97.2 Coronavirus como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B973">
+					<nome>Retrovírus, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B97.3 Retrovirus como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B974">
+					<nome>Vírus sincicial respiratório, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B97.4 Virus sincic resp como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B975">
+					<nome>Reovírus, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B97.5 Reovirus como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B976">
+					<nome>Parvovírus, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B97.6 Parvovirus como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B977">
+					<nome>Papilomavírus, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B97.7 Papilomavirus como doenc class outr cap</nome50>
+					</subcategoria>
+				<subcategoria codsubcat="B978">
+					<nome>Outros agentes virais, como causa de doenças classificadas em outros capítulos</nome>
+					<nome50>B97.8 Outr agent virais como doenc class outr cap</nome50>
+					</subcategoria>
+				</categoria>
+			</grupo>
+		<grupo codgrupo="B99-B99" inicial="B99" final="B99">
+			<nome>Outras doenças infecciosas</nome>
+			<nome50>Outras doenças infecciosas</nome50>
+			<categoria codcat="B99" ehsubcat="sim">
+				<nome>Doenças infecciosas, outras e as não especificadas</nome>
+				<nome50>B99   Doenc infecc outr e as NE</nome50>
+				</categoria>
+			</grupo>
+		</capitulo>
+</cid10>	
