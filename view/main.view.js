@@ -92,7 +92,10 @@ sap.ui
 																						max : 45, // float
 																						value : 28, // float
 																						smallStepWidth : 0.1, // float
-																						//totalUnits : , // int
+																						// totalUnits
+																						// : ,
+																						// //
+																						// int
 																						stepLabels : true, // boolean
 																						labels : [
 																								"20",
@@ -112,7 +115,10 @@ sap.ui
 																						max : 180, // float
 																						value : 80, // float
 																						smallStepWidth : 1, // float
-																						//totalUnits : , // int
+																						// totalUnits
+																						// : ,
+																						// //
+																						// int
 																						stepLabels : true, // boolean
 																						labels : [
 																								"40",
@@ -187,57 +193,65 @@ sap.ui
 													"F1C3",
 													{
 														title : "Diagnóstico",
-														formElements : [
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "CID-10",
-																			fields : [ new sap.ui.commons.ComboBox(
-																					{
-																						
-//																						items : 
-																					}) ]
-																		})
-																]
+														formElements : [ new sap.ui.layout.form.FormElement(
+																{
+																	label : "CID-10",
+																	fields : [ new sap.ui.commons.ComboBox(
+																			{
+																			// items
+																			// :
+																			}) ]
+																}) ]
 													}),
 
 											new sap.ui.layout.form.FormContainer(
 													"F1C4",
 													{
 														title : "Anotações",
-														formElements : [
-																new sap.ui.layout.form.FormElement(
-																		{
-																			fields : [ new sap.ui.commons.TextArea() ]
-																		})
-																]
+														formElements : [ new sap.ui.layout.form.FormElement(
+																{
+																	fields : [ new sap.ui.commons.TextArea() ]
+																}) ]
 													}),
 
 											new sap.ui.layout.form.FormContainer(
 													"F1C5",
 													{
 														title : "Prescrição",
-														formElements : [
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Phone Number",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		})]
+														formElements : [ new sap.ui.layout.form.FormElement(
+																{
+																	label : "Phone Number",
+																	fields : [ new sap.ui.commons.TextField() ]
+																}) ]
 													}),
 
 											new sap.ui.layout.form.FormContainer(
 													"F1C6",
 													{
 														title : "Resultado",
-														formElements : [
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Phone Number",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		}) ]
+														formElements : [ new sap.ui.layout.form.FormElement(
+																{
+																	label : "Phone Number",
+																	fields : [ new sap.ui.commons.TextField() ]
+																}) ]
+													}),
+											new sap.ui.layout.form.FormContainer(
+													"F1C7",
+													{
+														formElements : [ new sap.ui.layout.form.FormElement(
+																{
+
+																	fields : [ new sap.ui.commons.Button(
+																			{
+																				text : "Salvar",
+																				style : sap.ui.commons.ButtonStyle.Accept
+																			}) ]
+																}) ]
 													}),
 
 									]
 								});
+
 						return new sap.m.Page({
 							title : "Prontuário Eletrônico do Paciente",
 							content : [ oForm1 ]
