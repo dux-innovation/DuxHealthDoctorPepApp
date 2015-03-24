@@ -1,0 +1,51 @@
+{
+  "cid10": [
+    {
+      "capitulo": {
+        "nome": "Algumas doencass infecciosas e parasitorias",
+        "nome50": "I.   Algumas doenÃ§as infecciosas e parasitÃ¡rias",
+        "categoria": {
+          "nome": "Colera",
+          "nome50": "A00   Colera",
+          "subcategoria": [
+            {
+              "nome": "CÃ³lera devida a Vibrio cholerae 01, biÃ³tipo cholerae",
+              "nome50": "A00.0 Colera dev Vibrio cholerae 01 biot cholerae"
+            },
+            {
+              "nome": "CÃ³lera devida a Vibrio cholerae 01, biÃ³tipo El Tor",
+              "nome50": "A00.1 Colera dev Vibrio cholerae 01 biot El Tor"
+            },
+            {
+              "nome": "CÃ³lera nÃ£o especificada",
+              "nome50": "A00.9 Colera NE"
+            }
+          ]
+        }
+      },
+      "capitulo": {
+        "nome": "cap2",
+        "nome50": "I.   Algumas doenÃ§as infecciosas e parasitÃ¡rias",
+        "categoria": {
+          "nome": "Dragao",
+          "nome50": "A01   Colera do Dragao",
+          "subcategoria": [
+            {
+              "nome": "CÃ³lera devida a Vibrio cholerae 01, biÃ³tipo cholerae",
+              "nome50": "A01.0 Colera dev Vibrio cholerae 01 biot cholerae"
+            },
+            {
+              "nome": "CÃ³lera devida a Vibrio cholerae 01, biÃ³tipo El Tor",
+              "nome50": "A01.1 Colera dev Vibrio cholerae 01 biot El Tor"
+            },
+            {
+              "nome": "CÃ³lera nÃ£o especificada",
+              "nome50": "A01.9 Colera NE"
+            }
+          ]
+        }
+      }
+
+    }
+  ]
+}

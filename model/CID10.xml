@@ -219,14 +219,14 @@
 					<nome50>A06.4 Abscesso amebiano do figado</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A065">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="J998">J99.8*</referencia>
 						</duplaclassificacao>
 					<nome>Abscesso amebiano do pulmão</nome>
 					<nome50>A06.5 Abscesso amebiano do pulmao</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A066">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G07">G07*</referencia>
 						</duplaclassificacao>
 					<nome>Abscesso amebiano do cérebro</nome>
@@ -394,30 +394,30 @@
 					</subcategoria>
 				</categoria>
 			<categoria codcat="A17">
-				<duplaclassificacao tipo="cruz" />
+				<duplaclassificacao />
 				<nome>Tuberculose do sistema nervoso</nome>
 				<nome50>A17   Tuberc do sist nervoso</nome50>
 				<subcategoria codsubcat="A170">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G01">G01*</referencia>
 						</duplaclassificacao>
 					<nome>Meningite tuberculosa</nome>
 					<nome50>A17.0 Meningite tuberc</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A171">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G07">G07*</referencia>
 						</duplaclassificacao>
 					<nome>Tuberculoma meníngeo</nome>
 					<nome50>A17.1 Tuberculoma meningeo</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A178">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Outras tuberculoses do sistema nervoso</nome>
 					<nome50>A17.8 Outr tuberc do sist nervoso</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A179">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G998">G99.8*</referencia>
 						</duplaclassificacao>
 					<nome>Tuberculose não especificada do sistema nervoso</nome>
@@ -428,7 +428,7 @@
 				<nome>Tuberculose de outros órgãos</nome>
 				<nome50>A18   Tuberc de outr orgaos</nome50>
 				<subcategoria codsubcat="A180">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Tuberculose óssea e das articulações</nome>
 					<nome50>A18.0 Tuberc ossea e das articulacoes</nome50>
 					</subcategoria>
@@ -457,7 +457,7 @@
 					<nome50>A18.6 Tuberc do ouvido</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A187">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="E351">E35.1*</referencia>
 						</duplaclassificacao>
 					<nome>Tuberculose das supra-renais</nome>
@@ -785,7 +785,7 @@
 					<nome50>A32.0 Listeriose cutanea</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A321">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Meningite e meningoencefalite por listéria</nome>
 					<nome50>A32.1 Meningite e meningoencefalite p/listeria</nome50>
 					</subcategoria>
@@ -871,14 +871,14 @@
 				<nome>Infecção meningogócica</nome>
 				<nome50>A39   Infecc meningogocica</nome50>
 				<subcategoria codsubcat="A390">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G01">G01*</referencia>
 						</duplaclassificacao>
 					<nome>Meningite meningocócica</nome>
 					<nome50>A39.0 Meningite meningococica</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A391">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="E351">E35.1*</referencia>
 						</duplaclassificacao>
 					<nome>Síndrome de Waterhouse-Friderichsen</nome>
@@ -897,7 +897,7 @@
 					<nome50>A39.4 Meningococcemia NE</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A395">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Cardite por meningococos</nome>
 					<nome50>A39.5 Cardite p/meningococos</nome50>
 					</subcategoria>
@@ -1183,7 +1183,7 @@
 				<nome>Sífilis tardia</nome>
 				<nome50>A52   Sifilis tard</nome50>
 				<subcategoria codsubcat="A520">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Sífilis cardiovascular</nome>
 					<nome50>A52.0 Sifilis cardiovascular</nome50>
 					</subcategoria>
@@ -1244,7 +1244,7 @@
 					<nome50>A54.3 Infecc gonococica do olho</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A544">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Infecção gonocócica do sistema músculo-esquelético</nome>
 					<nome50>A54.4 Infecc gonococica sist musculo-esqueletico</nome50>
 					</subcategoria>
@@ -1501,7 +1501,7 @@
 				<nome>Outras doenças causadas por Clamídias</nome>
 				<nome50>A74   Outr doenc causadas p/Clamidias</nome50>
 				<subcategoria codsubcat="A740">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="H131">H13.1*</referencia>
 						</duplaclassificacao>
 					<nome>Conjuntivite causada por clamídias</nome>
@@ -1733,14 +1733,14 @@
 				<nome>Outras encefalites virais, não classificadas em outra parte</nome>
 				<nome50>A85   Outr encefalites virais NCOP</nome50>
 				<subcategoria codsubcat="A850">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G051">G05.1*</referencia>
 						</duplaclassificacao>
 					<nome>Encefalite por enterovírus</nome>
 					<nome50>A85.0 Encefalite p/enterovirus</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A851">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G051">G05.1*</referencia>
 						</duplaclassificacao>
 					<nome>Encefalite por adenovírus</nome>
@@ -1763,14 +1763,14 @@
 				<nome>Meningite viral</nome>
 				<nome50>A87   Meningite viral</nome50>
 				<subcategoria codsubcat="A870">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G020">G02.0*</referencia>
 						</duplaclassificacao>
 					<nome>Meningite por enterovírus</nome>
 					<nome50>A87.0 Meningite p/enterovirus</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="A871">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G020">G02.0*</referencia>
 						</duplaclassificacao>
 					<nome>Meningite por adenovírus</nome>
@@ -1974,14 +1974,14 @@
 					<restricoes causaobito="nao" />
 					</subcategoria>
 				<subcategoria codsubcat="B003">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G020">G02.0*</referencia>
 						</duplaclassificacao>
 					<nome>Meningite devida ao vírus do herpes</nome>
 					<nome50>B00.3 Meningite dev virus do herpes</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B004">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G051">G05.1*</referencia>
 						</duplaclassificacao>
 					<nome>Encefalite devida ao vírus do herpes</nome>
@@ -2010,21 +2010,21 @@
 				<nome>Varicela [Catapora]</nome>
 				<nome50>B01   Varicela</nome50>
 				<subcategoria codsubcat="B010">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G020">G02.0*</referencia>
 						</duplaclassificacao>
 					<nome>Meningite por varicela</nome>
 					<nome50>B01.0 Meningite p/varicela</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B011">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G051">G05.1*</referencia>
 						</duplaclassificacao>
 					<nome>Encefalite por varicela</nome>
 					<nome50>B01.1 Encefalite p/varicela</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B012">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="J171">J17.1*</referencia>
 						</duplaclassificacao>
 					<nome>Pneumopatia varicelosa</nome>
@@ -2043,21 +2043,21 @@
 				<nome>Herpes zoster [Zona]</nome>
 				<nome50>B02   Herpes zoster</nome50>
 				<subcategoria codsubcat="B020">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G051">G05.1*</referencia>
 						</duplaclassificacao>
 					<nome>Encefalite pelo vírus do herpes zoster</nome>
 					<nome50>B02.0 Encefalite p/virus do herpes zoster</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B021">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G020">G02.0*</referencia>
 						</duplaclassificacao>
 					<nome>Meningite pelo vírus do herpes zoster</nome>
 					<nome50>B02.1 Meningite p/virus do herpes zoster</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B022">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Herpes zoster acompanhado de outras manifestações neurológicas</nome>
 					<nome50>B02.2 Herpes zoster acomp outr manif neurologicas</nome50>
 					</subcategoria>
@@ -2090,28 +2090,28 @@
 				<nome>Sarampo</nome>
 				<nome50>B05   Sarampo</nome50>
 				<subcategoria codsubcat="B050">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G051">G05.1*</referencia>
 						</duplaclassificacao>
 					<nome>Sarampo complicado por encefalite</nome>
 					<nome50>B05.0 Sarampo complicado p/encefalite</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B051">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G020">G02.0*</referencia>
 						</duplaclassificacao>
 					<nome>Sarampo complicado por meningite</nome>
 					<nome50>B05.1 Sarampo complicado p/meningite</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B052">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="J171">J17.1*</referencia>
 						</duplaclassificacao>
 					<nome>Sarampo complicado por pneumonia</nome>
 					<nome50>B05.2 Sarampo complicado p/pneumonia</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B053">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="H671">H67.1*</referencia>
 						</duplaclassificacao>
 					<nome>Sarampo complicado por otite média</nome>
@@ -2134,7 +2134,7 @@
 				<nome>Rubéola</nome>
 				<nome50>B06   Rubeola</nome50>
 				<subcategoria codsubcat="B060">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Rubéola com complicações neurológicas</nome>
 					<nome50>B06.0 Rubeola c/complic neurologicas</nome50>
 					</subcategoria>
@@ -2414,21 +2414,21 @@
 				<nome>Doença por citomegalovírus</nome>
 				<nome50>B25   Doenc p/citomegalovirus</nome50>
 				<subcategoria codsubcat="B250">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="J171">J17.1*</referencia>
 						</duplaclassificacao>
 					<nome>Pneumonite por citomegalovírus </nome>
 					<nome50>B25.0 Pneumonite p/citomegalovirus</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B251">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="K770">K77.0*</referencia>
 						</duplaclassificacao>
 					<nome>Hepatite por citomegalovírus</nome>
 					<nome50>B25.1 Hepatite p/citomegalovirus</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B252">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="K871">K87.1*</referencia>
 						</duplaclassificacao>
 					<nome>Pancreatite por citomegalovírus</nome>
@@ -2447,7 +2447,7 @@
 				<nome>Caxumba [Parotidite epidêmica]</nome>
 				<nome50>B26   Caxumba</nome50>
 				<subcategoria codsubcat="B260">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="N511">N51.1*</referencia>
 						</duplaclassificacao>
 					<nome>Orquite por caxumba [parotidite epidêmica]</nome>
@@ -2455,21 +2455,21 @@
 					<restricoes sexo="apenas_homens" />
 					</subcategoria>
 				<subcategoria codsubcat="B261">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G020">G02.0*</referencia>
 						</duplaclassificacao>
 					<nome>Meningite por caxumba [parotidite epidêmica]</nome>
 					<nome50>B26.1 Meningite p/caxumba</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B262">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G051">G05.1*</referencia>
 						</duplaclassificacao>
 					<nome>Encefalite por caxumba [parotidite epidêmica]</nome>
 					<nome50>B26.2 Encefalite p/caxumba</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B263">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="K871">K87.1*</referencia>
 						</duplaclassificacao>
 					<nome>Pancreatite por caxumba [parotidite epidêmica]</nome>
@@ -2508,7 +2508,7 @@
 				<nome>Conjuntivite viral</nome>
 				<nome50>B30   Conjuntivite viral</nome50>
 				<subcategoria codsubcat="B300">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="H192">H19.2*</referencia>
 						</duplaclassificacao>
 					<nome>Ceratoconjuntivite devida a adenovírus</nome>
@@ -2516,7 +2516,7 @@
 					<restricoes causaobito="nao" />
 					</subcategoria>
 				<subcategoria codsubcat="B301">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="H131">H13.1*</referencia>
 						</duplaclassificacao>
 					<nome>Conjuntivite devida a adenovírus</nome>
@@ -2529,7 +2529,7 @@
 					<restricoes causaobito="nao" />
 					</subcategoria>
 				<subcategoria codsubcat="B303">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="H131">H13.1*</referencia>
 						</duplaclassificacao>
 					<nome>Conjuntivite hemorrágica aguda endêmica (por enterovírus)</nome>
@@ -2537,7 +2537,7 @@
 					<restricoes causaobito="nao" />
 					</subcategoria>
 				<subcategoria codsubcat="B308">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="H131">H13.1*</referencia>
 						</duplaclassificacao>
 					<nome>Outras conjuntivites virais</nome>
@@ -2570,7 +2570,7 @@
 					<nome50>B33.3 Infecc p/retrovirus NCOP</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B334">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="J171">J17.1*</referencia>
 						</duplaclassificacao>
 					<nome>Síndrome (cardio-)pulmonar por Hantavírus [SPH] [SCPH]</nome>
@@ -2716,7 +2716,7 @@
 					<nome50>B37.2 Candidiase da pele e das unhas</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B373">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="N771">N77.1*</referencia>
 						</duplaclassificacao>
 					<nome>Candidíase da vulva e da vagina</nome>
@@ -2728,14 +2728,14 @@
 					<nome50>B37.4 Candidiase de outr localiz urogenitais</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B375">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G021">G02.1*</referencia>
 						</duplaclassificacao>
 					<nome>Meningite por Candida</nome>
 					<nome50>B37.5 Meningite p/Candida</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B376">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="I398">I39.8*</referencia>
 						</duplaclassificacao>
 					<nome>Endocardite por Candida</nome>
@@ -2774,7 +2774,7 @@
 					<nome50>B38.3 Coccidioidomicose cutanea</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B384">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G021">G02.1*</referencia>
 						</duplaclassificacao>
 					<nome>Meningite por coccidioidomicose</nome>
@@ -2881,7 +2881,7 @@
 				<nome>Esporotricose</nome>
 				<nome50>B42   Esporotricose</nome50>
 				<subcategoria codsubcat="B420">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="J998">J99.8*</referencia>
 						</duplaclassificacao>
 					<nome>Esporotricose pulmonar</nome>
@@ -3189,7 +3189,7 @@
 				<nome>Doença de Chagas</nome>
 				<nome50>B57   Doenc de Chagas</nome50>
 				<subcategoria codsubcat="B570">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="I412">I41.2*</referencia>
 						<referencia codrefer="I981">I98.1*</referencia>
 						</duplaclassificacao>
@@ -3221,33 +3221,33 @@
 				<nome>Toxoplasmose</nome>
 				<nome50>B58   Toxoplasmose</nome50>
 				<subcategoria codsubcat="B580">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Oculopatia por Toxoplasma</nome>
 					<nome50>B58.0 Oculopatia p/Toxoplasma</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B581">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="K770">K77.0*</referencia>
 						</duplaclassificacao>
 					<nome>Hepatite por Toxoplasma</nome>
 					<nome50>B58.1 Hepatite p/Toxoplasma</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B582">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="G052">G05.2*</referencia>
 						</duplaclassificacao>
 					<nome>Meningoencefalite por Toxoplasma</nome>
 					<nome50>B58.2 Meningoencefalite p/Toxoplasma</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B583">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="J173">J17.3*</referencia>
 						</duplaclassificacao>
 					<nome>Toxoplasmose pulmonar</nome>
 					<nome50>B58.3 Toxoplasmose pulmonar</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="B588">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Toxoplasmose com comprometimento de outros órgãos</nome>
 					<nome50>B58.8 Toxoplasmose c/compr de outr orgaos</nome50>
 					</subcategoria>
@@ -3257,7 +3257,7 @@
 					</subcategoria>
 				</categoria>
 			<categoria codcat="B59" ehsubcat="sim">
-				<duplaclassificacao tipo="cruz">
+				<duplaclassificacao>
 					<referencia codrefer="J173">J17.3*</referencia>
 					</duplaclassificacao>
 				<nome>Pneumocistose</nome>
@@ -7833,7 +7833,7 @@
 				<nome50>D63   Anemia em doenc cronicas COP</nome50>
 				<subcategoria codsubcat="D630">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="C00-D48">C00-D48&cruz;</referencia>
+						<referencia codrefer="C00-D48">C00-D48</referencia>
 						</duplaclassificacao>
 					<nome>Anemia em neoplasias</nome>
 					<nome50>D63.0 Anemia em neoplasias</nome50>
@@ -8533,17 +8533,17 @@
 					<nome50>E10.1 C/cetoacidose</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E102">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus insulino-dependente - com complicações renais</nome>
 					<nome50>E10.2 C/compl renais</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E103">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus insulino-dependente - com complicações oftálmicas</nome>
 					<nome50>E10.3 C/compl oftalmicas</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E104">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus insulino-dependente - com complicações neurológicas</nome>
 					<nome50>E10.4 C/compl neurologicas</nome50>
 					</subcategoria>
@@ -8580,17 +8580,17 @@
 					<nome50>E11.1 C/cetoacidose</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E112">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus não-insulino-dependente - com complicações renais</nome>
 					<nome50>E11.2 C/compl renais</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E113">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus não-insulino-dependente - com complicações oftálmicas</nome>
 					<nome50>E11.3 C/compl oftalmicas</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E114">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus não-insulino-dependente - com complicações neurológicas</nome>
 					<nome50>E11.4 C/compl neurologicas</nome50>
 					</subcategoria>
@@ -8627,17 +8627,17 @@
 					<nome50>E12.1 C/cetoacidose</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E122">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus relacionado com a desnutrição - com complicações renais</nome>
 					<nome50>E12.2 C/compl renais</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E123">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus relacionado com a desnutrição - com complicações oftálmicas</nome>
 					<nome50>E12.3 C/compl oftalmicas</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E124">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus relacionado com a desnutrição - com complicações neurológicas</nome>
 					<nome50>E12.4 C/compl neurologicas</nome50>
 					</subcategoria>
@@ -8674,17 +8674,17 @@
 					<nome50>E13.1 C/cetoacidose</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E132">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Outros tipos especificados de diabetes mellitus - com complicações renais</nome>
 					<nome50>E13.2 C/compl renais</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E133">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Outros tipos especificados de diabetes mellitus - com complicações oftálmicas</nome>
 					<nome50>E13.3 C/compl oftalmicas</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E134">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Outros tipos especificados de diabetes mellitus - com complicações neurológicas</nome>
 					<nome50>E13.4 C/compl neurologicas</nome50>
 					</subcategoria>
@@ -8721,17 +8721,17 @@
 					<nome50>E14.1 C/cetoacidose</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E142">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus não especificado - com complicações renais</nome>
 					<nome50>E14.2 C/compl renais</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E143">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus não especificado - com complicações oftálmicas</nome>
 					<nome50>E14.3 C/compl oftalmicas</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="E144">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Diabetes mellitus não especificado - com complicações neurológicas</nome>
 					<nome50>E14.4 C/compl neurologicas</nome50>
 					</subcategoria>
@@ -10039,34 +10039,34 @@
 			<nome50>Transtornos mentais orgânicos, incl sintomáticos</nome50>
 			<categoria codcat="F00">
 				<duplaclassificacao tipo="asterisco">
-				<referencia codrefer="G30">G30.-&cruz;</referencia>
+				<referencia codrefer="G30">G30.-</referencia>
 					</duplaclassificacao>
 				<nome>Demência na doença de Alzheimer</nome>
 				<nome50>F00   Demencia na doenc de Alzheimer</nome50>
 				<subcategoria codsubcat="F000">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="G300">G30.0&cruz;</referencia>
+						<referencia codrefer="G300">G30.0</referencia>
 						</duplaclassificacao>
 					<nome>Demência na doença de Alzheimer de início precoce</nome>
 					<nome50>F00.0 Demencia doenc Alzheimer inicio precoce</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="F001">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="G301">G30.1&cruz;</referencia>
+						<referencia codrefer="G301">G30.1</referencia>
 						</duplaclassificacao>
 					<nome>Demência na doença de Alzheimer de início tardio</nome>
 					<nome50>F00.1 Demencia doenc Alzheimer inicio tard</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="F002">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="G308">G30.8&cruz;</referencia>
+						<referencia codrefer="G308">G30.8</referencia>
 						</duplaclassificacao>
 					<nome>Demência na doença de Alzheimer, forma atípica ou mista</nome>
 					<nome50>F00.2 Demencia doenc Alzheimer form atipica mista</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="F009">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="G309">G30.9&cruz;</referencia>
+						<referencia codrefer="G309">G30.9</referencia>
 						</duplaclassificacao>
 					<nome>Demência não especificada na doença de Alzheimer</nome>
 					<nome50>F00.9 Demencia NE na doenc de Alzheimer</nome50>
@@ -10106,35 +10106,35 @@
 				<nome50>F02   Demencia em outr doenc COP</nome50>
 				<subcategoria codsubcat="F020">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="G310">G31.0&cruz;</referencia>
+						<referencia codrefer="G310">G31.0</referencia>
 						</duplaclassificacao>
 					<nome>Demência da doença de Pick</nome>
 					<nome50>F02.0 Demencia da doenc de Pick</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="F021">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A810">A81.0&cruz;</referencia>
+						<referencia codrefer="A810">A81.0</referencia>
 						</duplaclassificacao>
 					<nome>Demência na doença de Creutzfeldt-Jakob</nome>
 					<nome50>F02.1 Demencia na doenc de Creutzfeldt-Jakob</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="F022">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="G10">G10&cruz;</referencia>
+						<referencia codrefer="G10">G10</referencia>
 						</duplaclassificacao>
 					<nome>Demência na doença de Huntington</nome>
 					<nome50>F02.2 Demencia na doenc de Huntington</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="F023">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="G20">G20&cruz;</referencia>
+						<referencia codrefer="G20">G20</referencia>
 						</duplaclassificacao>
 					<nome>Demência na doença de Parkinson</nome>
 					<nome50>F02.3 Demencia na doenc de Parkinson</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="F024">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="B220">B22.0&cruz;</referencia>
+						<referencia codrefer="B220">B22.0</referencia>
 						</duplaclassificacao>
 					<nome>Demência na doença pelo vírus da imunodeficiência humana [HIV]</nome>
 					<nome50>F02.4 Demencia na doenc pelo HIV</nome50>
@@ -12310,8 +12310,8 @@
 					</subcategoria>
 				<subcategoria codsubcat="G132">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="E001">E00.1&cruz;</referencia>
-						<referencia codrefer="E03">E03.-&cruz;</referencia>
+						<referencia codrefer="E001">E00.1</referencia>
+						<referencia codrefer="E03">E03.-</referencia>
 						</duplaclassificacao>
 					<nome>Atrofia sistêmica que afeta primariamente o sistema nervoso central no mixedema</nome>
 					<nome50>G13.2 Atrof sist q afet prim sist nerv centr mixed</nome50>
@@ -12772,69 +12772,69 @@
 				</categoria>
 			<categoria codcat="G46">
 				<duplaclassificacao tipo="asterisco">
-					<referencia codrefer="I60-I69">I60-I67&cruz;</referencia>
+					<referencia codrefer="I60-I69">I60-I67</referencia>
 					</duplaclassificacao>
 				<nome>Síndromes vasculares cerebrais que ocorrem em doenças cerebrovasculares</nome>
 				<nome50>G46   Sindr vasc cerebr q ocorr doenc cerebrovasc</nome50>
 				<subcategoria codsubcat="G460">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="I660">I66.0&cruz;</referencia>
+						<referencia codrefer="I660">I66.0</referencia>
 						</duplaclassificacao>
 					<nome>Síndrome da artéria cerebral média</nome>
 					<nome50>G46.0 Sindr da arteria cerebral media</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G461">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="I661">I66.1&cruz;</referencia>
+						<referencia codrefer="I661">I66.1</referencia>
 						</duplaclassificacao>
 					<nome>Síndrome da artéria cerebral anterior</nome>
 					<nome50>G46.1 Sindr da arteria cerebral anterior</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G462">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="I662">I66.2&cruz;</referencia>
+						<referencia codrefer="I662">I66.2</referencia>
 						</duplaclassificacao>
 					<nome>Síndrome da artéria cerebral posterior</nome>
 					<nome50>G46.2 Sindr da arteria cerebral posterior</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G463">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="I60-I69">I60-I67&cruz;</referencia>
+						<referencia codrefer="I60-I69">I60-I67</referencia>
 						</duplaclassificacao>
 					<nome>Síndromes vasculares do tronco cerebral</nome>
 					<nome50>G46.3 Sindr vasculares do tronco cerebral</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G464">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="I60-I69">I60-I67&cruz;</referencia>
+						<referencia codrefer="I60-I69">I60-I67</referencia>
 						</duplaclassificacao>
 					<nome>Síndrome vascular cerebelar</nome>
 					<nome50>G46.4 Sindr vascular cerebelar</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G465">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="I60-I69">I60-I67&cruz;</referencia>
+						<referencia codrefer="I60-I69">I60-I67</referencia>
 						</duplaclassificacao>
 					<nome>Síndrome lacunar motora pura</nome>
 					<nome50>G46.5 Sindr lacunar motora pura</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G466">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="I60-I69">I60-I67&cruz;</referencia>
+						<referencia codrefer="I60-I69">I60-I67</referencia>
 						</duplaclassificacao>
 					<nome>Síndrome lacunar sensorial pura</nome>
 					<nome50>G46.6 Sindr lacunar sensorial pura</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G467">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="I60-I69">I60-I67&cruz;</referencia>
+						<referencia codrefer="I60-I69">I60-I67</referencia>
 						</duplaclassificacao>
 					<nome>Outras síndromes lacunares</nome>
 					<nome50>G46.7 Outr sindr lacunares</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G468">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="I60-I69">I60-I67&cruz;</referencia>
+						<referencia codrefer="I60-I69">I60-I67</referencia>
 						</duplaclassificacao>
 					<nome>Outras síndromes vasculares cerebrais em doenças cerebrovasculares</nome>
 					<nome50>G46.8 Outr sindr vasc cerebr doenc cerebrovascular</nome50>
@@ -12977,28 +12977,28 @@
 				<nome50>G53   Transt dos nervos cranianos em doenc COP</nome50>
 				<subcategoria codsubcat="G530">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="B022">B02.2&cruz;</referencia>
+						<referencia codrefer="B022">B02.2</referencia>
 						</duplaclassificacao>
 					<nome>Nevralgia pós-zoster</nome>
 					<nome50>G53.0 Nevralgia pos-zoster</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G531">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A00-B99">A00-B99&cruz;</referencia>
+						<referencia codrefer="A00-B99">A00-B99</referencia>
 						</duplaclassificacao>
 					<nome>Paralisias de múltiplos nervos cranianos em doenças infecciosas e parasitárias classificadas em outra parte</nome>
 					<nome50>G53.1 Paral mult nerv cran doen infecc parasit COP</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G532">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="D868">D86.8&cruz;</referencia>
+						<referencia codrefer="D868">D86.8</referencia>
 						</duplaclassificacao>
 					<nome>Paralisias de múltiplos nervos cranianos na sarcoidose</nome>
 					<nome50>G53.2 Paralisias mult nervos cranianos sarcoidose</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G533">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="C00-D48">C00-D48&cruz;</referencia>
+						<referencia codrefer="C00-D48">C00-D48</referencia>
 						</duplaclassificacao>
 					<nome>Paralisias de múltiplos nervos cranianos em doenças neoplásicas</nome>
 					<nome50>G53.3 Paralisias mult nerv cran doenc neoplasicas</nome50>
@@ -13069,30 +13069,30 @@
 				<nome50>G55   Compressoes raizes plexos nervosos doenc COP</nome50>
 				<subcategoria codsubcat="G550">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="C00-D48">C00-D48&cruz;</referencia>
+						<referencia codrefer="C00-D48">C00-D48</referencia>
 						</duplaclassificacao>
 					<nome>Compressões das raízes e dos plexos nervosos em doenças neoplásicas</nome>
 					<nome50>G55.0 Compressoes raizes plexos nerv doenc neoplas</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G551">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="M50-M54">M50-M51&cruz;</referencia>
+						<referencia codrefer="M50-M54">M50-M51</referencia>
 						</duplaclassificacao>
 					<nome>Compressões das raízes e dos plexos nervosos em transtornos dos discos intervertebrais</nome>
 					<nome50>G55.1 Compr raiz plexo nerv transt disco intervert</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G552">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="M47">M47.-&cruz;</referencia>
+						<referencia codrefer="M47">M47.-</referencia>
 						</duplaclassificacao>
 					<nome>Compressões das raízes e dos plexos nervosos na espondilose</nome>
 					<nome50>G55.2 Compressoes raizes plexos nerv espondilose</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G553">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="M45-M49">M45-M46&cruz;</referencia>
-						<referencia codrefer="M48">M48.-&cruz;</referencia>
-						<referencia codrefer="M50-M54">M53-M54&cruz;</referencia>
+						<referencia codrefer="M45-M49">M45-M46</referencia>
+						<referencia codrefer="M48">M48.-</referencia>
+						<referencia codrefer="M50-M54">M53-M54</referencia>
 						</duplaclassificacao>
 					<nome>Compressões das raízes e dos plexos nervosos em outras dorsopatias</nome>
 					<nome50>G55.3 Compressoes raizes plexos nerv outr dorsopat</nome50>
@@ -13218,7 +13218,7 @@
 				<nome50>G59   Mononeuropatias em doenc COP</nome50>
 				<subcategoria codsubcat="G590">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="E10-E14">E10-E14&cruz; com quarto caractere comum .4</referencia>
+						<referencia codrefer="E10-E14">E10-E14 com quarto caractere comum .4</referencia>
 						</duplaclassificacao>
 					<nome>Mononeuropatia diabética</nome>
 					<nome50>G59.0 Mononeuropatia diabetica</nome50>
@@ -13316,46 +13316,46 @@
 					</subcategoria>
 				<subcategoria codsubcat="G631">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="C00-D48">C00-D48&cruz;</referencia>
+						<referencia codrefer="C00-D48">C00-D48</referencia>
 						</duplaclassificacao>
 					<nome>Polineuropatia em doenças neoplásicas</nome>
 					<nome50>G63.1 Polineuropatia em doenc neoplasicas</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G632">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="E10-E14">E10-E14&cruz; com quarto caractere comum .4</referencia>
+						<referencia codrefer="E10-E14">E10-E14 com quarto caractere comum .4</referencia>
 						</duplaclassificacao>
 					<nome>Polineuropatia diabética</nome>
 					<nome50>G63.2 Polineuropatia diabetica</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G633">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="E00-E07">E00-E07&cruz;</referencia>
-						<referencia codrefer="E15-E16">E15-E16&cruz;</referencia>
-						<referencia codrefer="E20-E35">E20-E34&cruz;</referencia>
-						<referencia codrefer="E70-E90">E70-E89&cruz;</referencia>
+						<referencia codrefer="E00-E07">E00-E07</referencia>
+						<referencia codrefer="E15-E16">E15-E16</referencia>
+						<referencia codrefer="E20-E35">E20-E34</referencia>
+						<referencia codrefer="E70-E90">E70-E89</referencia>
 						</duplaclassificacao>
 					<nome>Polineuropatia em outras doenças endócrinas e metabólicas</nome>
 					<nome50>G63.3 Polineuropatia outr doenc endocr metabolicas</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G634">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="E00-E90">E40-E64&cruz;</referencia>
+						<referencia codrefer="E00-E90">E40-E64</referencia>
 						</duplaclassificacao>
 					<nome>Polineuropatia em deficiências nutricionais</nome>
 					<nome50>G63.4 Polineuropatia em defic nutricionais</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G635">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="M30-M36">M30-M35&cruz;</referencia>
+						<referencia codrefer="M30-M36">M30-M35</referencia>
 						</duplaclassificacao>
 					<nome>Polineuropatia em doenças sistêmicas do tecido conjuntivo</nome>
 					<nome50>G63.5 Polineuropatia doenc sistemicas tec conjunt</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G636">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="M00-M25">M00-M25&cruz;</referencia>
-						<referencia codrefer="M00-M99">M40-M96&cruz;</referencia>
+						<referencia codrefer="M00-M25">M00-M25</referencia>
+						<referencia codrefer="M00-M99">M40-M96</referencia>
 						</duplaclassificacao>
 					<nome>Polineuropatia em outros transtornos osteomusculares</nome>
 					<nome50>G63.6 Polineuropatia outr transt osteomusculares</nome50>
@@ -13469,14 +13469,14 @@
 					</subcategoria>
 				<subcategoria codsubcat="G731">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="C80">C80&cruz;</referencia>
+						<referencia codrefer="C80">C80</referencia>
 						</duplaclassificacao>
 					<nome>Síndrome de Eaton-Lambert</nome>
 					<nome50>G73.1 Sindr de Eaton-Lambert</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G732">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="C00-D48">C00-D48&cruz;</referencia>
+						<referencia codrefer="C00-D48">C00-D48</referencia>
 						</duplaclassificacao>
 					<nome>Outras síndromes miastênicas em doenças neoplásicas</nome>
 					<nome50>G73.2 Outr sindr miastenicas em doenc neoplasicas</nome50>
@@ -13737,14 +13737,14 @@
 				<nome50>G94   Outr transt do encefalo em doenc COP</nome50>
 				<subcategoria codsubcat="G940">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A00-B99">A00-B99&cruz;</referencia>
+						<referencia codrefer="A00-B99">A00-B99</referencia>
 						</duplaclassificacao>
 					<nome>Hidrocefalia em doenças infecciosas e parasitárias classificadas em outra parte</nome>
 					<nome50>G94.0 Hidrocefalia em doenc infecc e parasit COP</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="G941">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="C00-D48">C00-D48&cruz;</referencia>
+						<referencia codrefer="C00-D48">C00-D48</referencia>
 						</duplaclassificacao>
 					<nome>Hidrocefalia em doenças neoplásicas</nome>
 					<nome50>G94.1 Hidrocefalia em doenc neoplasicas</nome50>
@@ -14078,7 +14078,7 @@
 					</subcategoria>
 				<subcategoria codsubcat="H062">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="E05">E05.-&cruz;</referencia>
+						<referencia codrefer="E05">E05.-</referencia>
 						</duplaclassificacao>
 					<nome>Exoftalmo distireoídeo</nome>
 					<nome50>H06.2 Exoftalmo distireoideo</nome50>
@@ -14182,7 +14182,7 @@
 				<nome50>H13   Transt da conjuntiva em doenc COP</nome50>
 				<subcategoria codsubcat="H130">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="B74">B74.-&cruz;</referencia>
+						<referencia codrefer="B74">B74.-</referencia>
 						</duplaclassificacao>
 					<nome>Infestação por filárias na conjuntiva</nome>
 					<nome50>H13.0 Infestacao p/filarias na conjuntiva</nome50>
@@ -14199,7 +14199,7 @@
 					</subcategoria>
 				<subcategoria codsubcat="H133">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="L12">L12.-&cruz;</referencia>
+						<referencia codrefer="L12">L12.-</referencia>
 						</duplaclassificacao>
 					<nome>Penfigóide ocular</nome>
 					<nome50>H13.3 Penfigoide ocular</nome50>
@@ -14366,7 +14366,7 @@
 					</subcategoria>
 				<subcategoria codsubcat="H191">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="B005">B00.5&cruz;</referencia>
+						<referencia codrefer="B005">B00.5</referencia>
 						</duplaclassificacao>
 					<nome>Ceratite e ceratoconjuntivite pelo vírus do herpes simples</nome>
 					<nome50>H19.1 Ceratite ceratoconjunt virus herpes simples</nome50>
@@ -14582,7 +14582,7 @@
 				<nome50>H28   Catarata e outr transt cristalino doenc COP</nome50>
 				<subcategoria codsubcat="H280">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="E10-E14">E10-E14&cruz; com quarto caractere comum .3</referencia>
+						<referencia codrefer="E10-E14">E10-E14 com quarto caractere comum .3</referencia>
 						</duplaclassificacao>
 					<nome>Catarata diabética</nome>
 					<nome50>H28.0 Catarata diabetica</nome50>
@@ -14813,7 +14813,7 @@
 				<nome50>H36   Transt da retina em doenc COP</nome50>
 				<subcategoria codsubcat="H360">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="E10-E14">E10-E14&cruz; com quarto caractere comum .3</referencia>
+						<referencia codrefer="E10-E14">E10-E14 com quarto caractere comum .3</referencia>
 						</duplaclassificacao>
 					<nome>Retinopatia diabética</nome>
 					<nome50>H36.0 Retinopatia diabetica</nome50>
@@ -17325,7 +17325,7 @@
 				<nome50>I68   Transt cerebrovasculares em doenc COP</nome50>
 				<subcategoria codsubcat="I680">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="E85">E85.-&cruz;</referencia>
+						<referencia codrefer="E85">E85.-</referencia>
 						</duplaclassificacao>
 					<nome>Angiopatia cerebral amiloidótica</nome>
 					<nome50>I68.0 Angiopatia cerebral amiloidotica</nome50>
@@ -19099,7 +19099,7 @@
 				<nome50>J99   Transt respirat em doenc COP</nome50>
 				<subcategoria codsubcat="J990">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="M051">M05.1&cruz;</referencia>
+						<referencia codrefer="M051">M05.1</referencia>
 						</duplaclassificacao>
 					<nome>Doença pulmonar reumatóide</nome>
 					<nome50>J99.0 Doenc pulmonar reumatoide</nome50>
@@ -19777,14 +19777,14 @@
 				<nome50>K23   Transt do esofago em doenc COP</nome50>
 				<subcategoria codsubcat="K230">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A188">A18.8&cruz;</referencia>
+						<referencia codrefer="A188">A18.8</referencia>
 						</duplaclassificacao>
 					<nome>Esofagite tuberculosa</nome>
 					<nome50>K23.0 Esofagite tuberc</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="K231">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="B573">B57.3&cruz;</referencia>
+						<referencia codrefer="B573">B57.3</referencia>
 						</duplaclassificacao>
 					<nome>Megaesôfago na doença de Chagas</nome>
 					<nome50>K23.1 Megaesofago na doenc de Chagas</nome50>
@@ -20649,28 +20649,28 @@
 				<nome50>K67   Compr do peritonio em doenc infecc COP</nome50>
 				<subcategoria codsubcat="K670">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A748">A74.8&cruz;</referencia>
+						<referencia codrefer="A748">A74.8</referencia>
 						</duplaclassificacao>
 					<nome>Peritonite por clamídias</nome>
 					<nome50>K67.0 Peritonite p/clamidias</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="K671">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A548">A54.8&cruz;</referencia>
+						<referencia codrefer="A548">A54.8</referencia>
 						</duplaclassificacao>
 					<nome>Peritonite gonocócica</nome>
 					<nome50>K67.1 Peritonite gonococica</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="K672">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A527">A52.7&cruz;</referencia>
+						<referencia codrefer="A527">A52.7</referencia>
 						</duplaclassificacao>
 					<nome>Peritonite sifilítica</nome>
 					<nome50>K67.2 Peritonite sifilitica</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="K673">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A183">A18.3&cruz;</referencia>
+						<referencia codrefer="A183">A18.3</referencia>
 						</duplaclassificacao>
 					<nome>Peritonite tuberculosa</nome>
 					<nome50>K67.3 Peritonite tuberc</nome50>
@@ -21218,14 +21218,14 @@
 				<nome50>K93   Transt de outr orgaos digestivos doenc COP</nome50>
 				<subcategoria codsubcat="K930">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A183">A18.3&cruz;</referencia>
+						<referencia codrefer="A183">A18.3</referencia>
 						</duplaclassificacao>
 					<nome>Transtornos devido a tuberculose do intestino, do peritônio e dos gânglios do mesentério</nome>
 					<nome50>K93.0 Transt dev tuberc intest perit gangl mesent</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="K931">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="B573">B57.3&cruz;</referencia>
+						<referencia codrefer="B573">B57.3</referencia>
 						</duplaclassificacao>
 					<nome>Megacólon na doença de Chagas</nome>
 					<nome50>K93.1 Megacolon na doenc de Chagas</nome50>
@@ -21864,7 +21864,7 @@
 					<nome50>L40.4 Psoriase gutata</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="L405">
-					<duplaclassificacao tipo="cruz">
+					<duplaclassificacao>
 						<referencia codrefer="M07">M07.0-.3*</referencia>
 						<referencia codrefer="M090">M09.0*</referencia>
 						</duplaclassificacao>
@@ -22113,7 +22113,7 @@
 				<nome50>L54   Eritema em doenc COP</nome50>
 				<subcategoria codsubcat="L540">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="I00">I00&cruz;</referencia>
+						<referencia codrefer="I00">I00</referencia>
 						</duplaclassificacao>
 					<nome>Eritema marginado na febre reumática aguda</nome>
 					<nome50>L54.0 Eritema marginado na febre reumatica aguda</nome50>
@@ -22331,7 +22331,7 @@
 				<nome50>L62   Afeccoes das unhas em doenc COP</nome50>
 				<subcategoria codsubcat="L620">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="M894">M89.4&cruz;</referencia>
+						<referencia codrefer="M894">M89.4</referencia>
 						</duplaclassificacao>
 					<nome>Paquidermoperiostose com unhas hipocráticas (em vidro de relógio)</nome>
 					<nome50>L62.0 Paquidermoperiostose c/unhas hipocraticas</nome50>
@@ -23104,7 +23104,7 @@
 				<nome50>L99   Outr afeccoes pele tec subcutaneo doenc COP</nome50>
 				<subcategoria codsubcat="L990">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="E85">E85.-&cruz;</referencia>
+						<referencia codrefer="E85">E85.-</referencia>
 						</duplaclassificacao>
 					<nome>Amiloidose cutânea</nome>
 					<nome50>L99.0 Amiloidose cutanea</nome50>
@@ -23156,21 +23156,21 @@
 					<nome50>M01   Infecc diretas artic doenc infec parasit COP</nome50>
 					<subcategoria codsubcat="M010">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="A398">A39.8&cruz;</referencia>
+							<referencia codrefer="A398">A39.8</referencia>
 							</duplaclassificacao>
 						<nome>Artrite meningocócica</nome>
 						<nome50>M01.0 Artrite meningococica</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M011">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="A180">A18.0&cruz;</referencia>
+							<referencia codrefer="A180">A18.0</referencia>
 							</duplaclassificacao>
 						<nome>Artrite tuberculosa</nome>
 						<nome50>M01.1 Artrite tuberc</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M012">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="A692">A69.2&cruz;</referencia>
+							<referencia codrefer="A692">A69.2</referencia>
 							</duplaclassificacao>
 						<nome>Artrite na doença de Lyme</nome>
 						<nome50>M01.2 Artrite na doenc de Lyme</nome50>
@@ -23182,7 +23182,7 @@
 						</subcategoria>
 					<subcategoria codsubcat="M014">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="B068">B06.8&cruz;</referencia>
+							<referencia codrefer="B068">B06.8</referencia>
 							</duplaclassificacao>
 						<nome>Artrite na rubéola</nome>
 						<nome50>M01.4 Artrite na rubeola</nome50>
@@ -23194,7 +23194,7 @@
 						</subcategoria>
 					<subcategoria codsubcat="M016">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="B35-B49">B35-B49&cruz;</referencia>
+							<referencia codrefer="B35-B49">B35-B49</referencia>
 							</duplaclassificacao>
 						<nome>Artrite em micoses</nome>
 						<nome50>M01.6 Artrite em micoses</nome50>
@@ -23239,14 +23239,14 @@
 					<nome50>M03   Artropatias pos-infecc reac doenc infecc COP</nome50>
 					<subcategoria codsubcat="M030">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="A398">A39.8&cruz;</referencia>
+							<referencia codrefer="A398">A39.8</referencia>
 							</duplaclassificacao>
 						<nome>Artrite pós-meningocócica</nome>
 						<nome50>M03.0 Artrite pos-meningococica</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M031">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="A505">A50.5&cruz;</referencia>
+							<referencia codrefer="A505">A50.5</referencia>
 							</duplaclassificacao>
 						<nome>Artropatia pós-infecciosa na sífilis</nome>
 						<nome50>M03.1 Artropatia pos-infecc na sifilis</nome50>
@@ -23274,7 +23274,7 @@
 						<nome50>M05.0 Sindr de Felty</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M051">
-						<duplaclassificacao tipo="cruz">
+						<duplaclassificacao>
 							<referencia codrefer="J990">J99.0*</referencia>
 							</duplaclassificacao>
 						<nome>Doença reumatóide do pulmão</nome>
@@ -23335,42 +23335,42 @@
 					<nome50>M07   Artropatias psoriasicas e enteropaticas</nome50>
 					<subcategoria codsubcat="M070">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="L405">L40.5&cruz;</referencia>
+							<referencia codrefer="L405">L40.5</referencia>
 							</duplaclassificacao>
 						<nome>Artropatia psoriásica interfalangiana distal</nome>
 						<nome50>M07.0 Artropatia psoriasica interfalangiana distal</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M071">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="L405">L40.5&cruz;</referencia>
+							<referencia codrefer="L405">L40.5</referencia>
 							</duplaclassificacao>
 						<nome>Artrite mutilante</nome>
 						<nome50>M07.1 Artrite mutilante</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M072">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="L405">L40.5&cruz;</referencia>
+							<referencia codrefer="L405">L40.5</referencia>
 							</duplaclassificacao>
 						<nome>Espondilite psoriásica</nome>
 						<nome50>M07.2 Espondilite psoriasica</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M073">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="L405">L40.5&cruz;</referencia>
+							<referencia codrefer="L405">L40.5</referencia>
 							</duplaclassificacao>
 						<nome>Outras artropatias psoriásicas</nome>
 						<nome50>M07.3 Outr artropatias psoriasicas</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M074">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="K50">K50.-&cruz;</referencia>
+							<referencia codrefer="K50">K50.-</referencia>
 							</duplaclassificacao>
 						<nome>Artropatia na doença de Crohn [enterite regional]</nome>
 						<nome50>M07.4 Artropatia na doenc de Crohn</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M075">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="K51">K51.-&cruz;</referencia>
+							<referencia codrefer="K51">K51.-</referencia>
 							</duplaclassificacao>
 						<nome>Artropatia na colite ulcerativa</nome>
 						<nome50>M07.5 Artropatia na colite ulcerativa</nome50>
@@ -23419,21 +23419,21 @@
 					<nome50>M09   Artrite juvenil em doenc COP</nome50>
 					<subcategoria codsubcat="M090">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="L405">L40.5&cruz;</referencia>
+							<referencia codrefer="L405">L40.5</referencia>
 							</duplaclassificacao>
 						<nome>Artrite juvenil na psoríase</nome>
 						<nome50>M09.0 Artrite juvenil na psoriase</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M091">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="K50">K50.-&cruz;</referencia>
+							<referencia codrefer="K50">K50.-</referencia>
 							</duplaclassificacao>
 						<nome>Artrite juvenil na doença de Chron [enterite regional]</nome>
 						<nome50>M09.1 Artrite juvenil na doenc de Chron</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M092">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="K51">K51.-&cruz;</referencia>
+							<referencia codrefer="K51">K51.-</referencia>
 							</duplaclassificacao>
 						<nome>Artrite juvenil na colite ulcerativa</nome>
 						<nome50>M09.2 Artrite juvenil na colite ulcerativa</nome50>
@@ -23564,21 +23564,21 @@
 						</subcategoria>
 					<subcategoria codsubcat="M142">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="E10-E14">E10-E14&cruz; com quarto caractere comum .6</referencia>
+							<referencia codrefer="E10-E14">E10-E14 com quarto caractere comum .6</referencia>
 							</duplaclassificacao>
 						<nome>Artropatia diabética</nome>
 						<nome50>M14.2 Artropatia diabetica</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M143">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="E788">E78.8&cruz;</referencia>
+							<referencia codrefer="E788">E78.8</referencia>
 							</duplaclassificacao>
 						<nome>Dermatoartrite lipóide</nome>
 						<nome50>M14.3 Dermatoartrite lipoide</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M144">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="E85">E85.-&cruz;</referencia>
+							<referencia codrefer="E85">E85.-</referencia>
 							</duplaclassificacao>
 						<nome>Artropatia na amiloidose</nome>
 						<nome50>M14.4 Artropatia na amiloidose</nome50>
@@ -24137,7 +24137,7 @@
 					<nome50>M32.0 Lupus eritematoso disseminado induz p/drogas</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="M321">
-					<duplaclassificacao tipo="cruz" />
+					<duplaclassificacao />
 					<nome>Lúpus eritematoso disseminado [sistêmico] com comprometimento de outros órgãos e sistemas</nome>
 					<nome50>M32.1 Lupus eritematoso dissem compr outr org/sist</nome50>
 					</subcategoria>
@@ -24245,28 +24245,28 @@
 				<nome50>M36   Doenc sistemicas do tec conjuntivo doenc COP</nome50>
 				<subcategoria codsubcat="M360">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="C00-D48">C00-D48&cruz;</referencia>
+						<referencia codrefer="C00-D48">C00-D48</referencia>
 						</duplaclassificacao>
 					<nome>Dermato(poli)miosite em doenças neoplásicas</nome>
 					<nome50>M36.0 Dermatomiosite em doenc neoplasicas</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="M361">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="C00-D48">C00-D48&cruz;</referencia>
+						<referencia codrefer="C00-D48">C00-D48</referencia>
 						</duplaclassificacao>
 					<nome>Artropatia em doenças neoplásicas classificadas</nome>
 					<nome50>M36.1 Artropatia em doenc neoplasicas classif</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="M362">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="D65-D69">D66-D68&cruz;</referencia>
+						<referencia codrefer="D65-D69">D66-D68</referencia>
 						</duplaclassificacao>
 					<nome>Artropatia hemofílica</nome>
 					<nome50>M36.2 Artropatia hemofilica</nome50>
 					</subcategoria>
 				<subcategoria codsubcat="M363">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="D50-D89">D50-D76&cruz;</referencia>
+						<referencia codrefer="D50-D89">D50-D76</referencia>
 						</duplaclassificacao>
 					<nome>Artropatias em outras doenças hematológicas</nome>
 					<nome50>M36.3 Artropatias em outr doenc hematologicas</nome50>
@@ -24466,7 +24466,7 @@
 					<nome>Espondilose</nome>
 					<nome50>M47   Espondilose</nome50>
 					<subcategoria codsubcat="M470">
-						<duplaclassificacao tipo="cruz">
+						<duplaclassificacao>
 							<referencia codrefer="G992">G99.2*</referencia>
 							</duplaclassificacao>
 						<nome>Síndromes de compressão da artéria espinhal anterior ou vertebral anterior</nome>
@@ -24532,21 +24532,21 @@
 					<nome50>M49   Espondilopatias em doenc COP</nome50>
 					<subcategoria codsubcat="M490">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="A180">A18.0&cruz;</referencia>
+							<referencia codrefer="A180">A18.0</referencia>
 							</duplaclassificacao>
 						<nome>Tuberculose da coluna vertebral</nome>
 						<nome50>M49.0 Tuberc da coluna vertebral</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M491">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="A23">A23.-&cruz;</referencia>
+							<referencia codrefer="A23">A23.-</referencia>
 							</duplaclassificacao>
 						<nome>Espondilite por Brucella</nome>
 						<nome50>M49.1 Espondilite p/Brucella</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M492">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="A00-A09">A01-A04&cruz;</referencia>
+							<referencia codrefer="A00-A09">A01-A04</referencia>
 							</duplaclassificacao>
 						<nome>Espondilite por enterobactérias</nome>
 						<nome50>M49.2 Espondilite p/enterobacterias</nome50>
@@ -24580,7 +24580,7 @@
 					<nome>Transtornos dos discos cervicais</nome>
 					<nome50>M50   Transt dos discos cervicais</nome50>
 					<subcategoria codsubcat="M500">
-						<duplaclassificacao tipo="cruz">
+						<duplaclassificacao>
 							<referencia codrefer="G992">G99.2*</referencia>
 							</duplaclassificacao>
 						<nome>Transtorno do disco cervical com mielopatia</nome>
@@ -24611,14 +24611,14 @@
 					<nome>Outros transtornos de discos intervertebrais</nome>
 					<nome50>M51   Outr transt de discos intervertebrais</nome50>
 					<subcategoria codsubcat="M510">
-						<duplaclassificacao tipo="cruz">
+						<duplaclassificacao>
 							<referencia codrefer="G992">G99.2*</referencia>
 							</duplaclassificacao>
 						<nome>Transtornos de discos lombares e de outros discos intervertebrais com mielopatia</nome>
 						<nome50>M51.0 Transt disco lombar outr intervert mielopat</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M511">
-						<duplaclassificacao tipo="cruz">
+						<duplaclassificacao>
 							<referencia codrefer="G551">G55.1*</referencia>
 							</duplaclassificacao>
 						<nome>Transtornos de discos lombares e de outros discos intervertebrais com radiculopatia</nome>
@@ -24858,7 +24858,7 @@
 						</subcategoria>
 					<subcategoria codsubcat="M633">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="D868">D86.8&cruz;</referencia>
+							<referencia codrefer="D868">D86.8</referencia>
 							</duplaclassificacao>
 						<nome>Miosite na sarcoidose</nome>
 						<nome50>M63.3 Miosite na sarcoidose</nome50>
@@ -25142,14 +25142,14 @@
 					<nome50>M73   Transt dos tec moles em doenc COP</nome50>
 					<subcategoria codsubcat="M730">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="A544">A54.4&cruz;</referencia>
+							<referencia codrefer="A544">A54.4</referencia>
 							</duplaclassificacao>
 						<nome>Bursite gonocócica</nome>
 						<nome50>M73.0 Bursite gonococica</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M731">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="A527">A52.7&cruz;</referencia>
+							<referencia codrefer="A527">A52.7</referencia>
 							</duplaclassificacao>
 						<nome>Bursite sifilítica</nome>
 						<nome50>M73.1 Bursite sifilitica</nome50>
@@ -25450,14 +25450,14 @@
 					<nome50>M82   Osteoporose em doenc COP</nome50>
 					<subcategoria codsubcat="M820">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="C900">C90.0&cruz;</referencia>
+							<referencia codrefer="C900">C90.0</referencia>
 							</duplaclassificacao>
 						<nome>Osteoporose na mielomatose múltipla</nome>
 						<nome50>M82.0 Osteoporose na mielomatose mult</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M821">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="E00-E90">E00-E34&cruz;</referencia>
+							<referencia codrefer="E00-E90">E00-E34</referencia>
 							</duplaclassificacao>
 						<nome>Osteoporose em distúrbios endócrinos</nome>
 						<nome50>M82.1 Osteoporose em disturbios endocrinos</nome50>
@@ -25711,7 +25711,7 @@
 					<nome50>M90   Osteopatias em doenc COP</nome50>
 					<subcategoria codsubcat="M900">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="A180">A18.0&cruz;</referencia>
+							<referencia codrefer="A180">A18.0</referencia>
 							</duplaclassificacao>
 						<nome>Tuberculose óssea</nome>
 						<nome50>M90.0 Tuberc ossea</nome50>
@@ -25728,14 +25728,14 @@
 						</subcategoria>
 					<subcategoria codsubcat="M903">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="T703">T70.3&cruz;</referencia>
+							<referencia codrefer="T703">T70.3</referencia>
 							</duplaclassificacao>
 						<nome>Osteonecrose em &quot;mal dos caixões&quot;</nome>
 						<nome50>M90.3 Osteonecrose em mal dos caixoes</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M904">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="D50-D89">D50-D64&cruz;</referencia>
+							<referencia codrefer="D50-D89">D50-D64</referencia>
 							</duplaclassificacao>
 						<nome>Osteonecrose devida à hemoglobinopatia</nome>
 						<nome50>M90.4 Osteonecrose dev hemoglobinopatia</nome50>
@@ -25747,14 +25747,14 @@
 						</subcategoria>
 					<subcategoria codsubcat="M906">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="C00-C97">C00-C48&cruz;</referencia>
+							<referencia codrefer="C00-C97">C00-C48</referencia>
 							</duplaclassificacao>
 						<nome>Osteíte deformante em doenças neoplásicas</nome>
 						<nome50>M90.6 Osteite deformante em doenc neoplasicas</nome50>
 						</subcategoria>
 					<subcategoria codsubcat="M907">
 						<duplaclassificacao tipo="asterisco">
-							<referencia codrefer="C00-C97">C00-C48&cruz;</referencia>
+							<referencia codrefer="C00-C97">C00-C48</referencia>
 							</duplaclassificacao>
 						<nome>Fratura óssea em doenças neoplásicas</nome>
 						<nome50>M90.7 Frat ossea em doenc neoplasicas</nome50>
@@ -26589,7 +26589,7 @@
 					</subcategoria>
 				<subcategoria codsubcat="N165">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="T86">T86.-&cruz;</referencia>
+						<referencia codrefer="T86">T86.-</referencia>
 						</duplaclassificacao>
 					<nome>Transtornos renais túbulo-intersticiais em rejeição a transplantes</nome>
 					<nome50>N16.5 Transt renais tubulo-interst rej transpl</nome50>
@@ -26698,7 +26698,7 @@
 				<nome50>N22   Calculose do trato urinario infer doenc COP</nome50>
 				<subcategoria codsubcat="N220">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="B65">B65.-&cruz;</referencia>
+						<referencia codrefer="B65">B65.-</referencia>
 						</duplaclassificacao>
 					<nome>Cálculo urinário na esquistossomose [bilharziose] [schistosomíase]</nome>
 					<nome50>N22.0 Calculo urinario na esquistossomose</nome50>
@@ -26783,7 +26783,7 @@
 				<nome50>N29   Outr transt do rim e do ureter em doenc COP</nome50>
 				<subcategoria codsubcat="N290">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A527">A52.7&cruz;</referencia>
+						<referencia codrefer="A527">A52.7</referencia>
 						</duplaclassificacao>
 					<nome>Sífilis tardia renal</nome>
 					<nome50>N29.0 Sifilis tard renal</nome50>
@@ -26897,7 +26897,7 @@
 				<nome50>N33   Transt da bexiga em doenc COP</nome50>
 				<subcategoria codsubcat="N330">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A181">A18.1&cruz;</referencia>
+						<referencia codrefer="A181">A18.1</referencia>
 						</duplaclassificacao>
 					<nome>Cistite tuberculosa</nome>
 					<nome50>N33.0 Cistite tuberc</nome50>
@@ -27478,7 +27478,7 @@
 				<nome50>N74   Transt inflam da pelve femin em doenc COP</nome50>
 				<subcategoria codsubcat="N740">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A181">A18.1&cruz;</referencia>
+						<referencia codrefer="A181">A18.1</referencia>
 						</duplaclassificacao>
 					<nome>Tuberculose do colo do útero</nome>
 					<nome50>N74.0 Tuberc do colo do utero</nome50>
@@ -27486,7 +27486,7 @@
 					</subcategoria>
 				<subcategoria codsubcat="N741">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A181">A18.1&cruz;</referencia>
+						<referencia codrefer="A181">A18.1</referencia>
 						</duplaclassificacao>
 					<nome>Tuberculose da pelve feminina</nome>
 					<nome50>N74.1 Tuberc da pelve femin</nome50>
@@ -27494,8 +27494,8 @@
 					</subcategoria>
 				<subcategoria codsubcat="N742">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A514">A51.4&cruz;</referencia>
-						<referencia codrefer="A527">A52.7&cruz;</referencia>
+						<referencia codrefer="A514">A51.4</referencia>
+						<referencia codrefer="A527">A52.7</referencia>
 						</duplaclassificacao>
 					<nome>Sífilis pélvica feminina</nome>
 					<nome50>N74.2 Sifilis pelvica femin</nome50>
@@ -27503,7 +27503,7 @@
 					</subcategoria>
 				<subcategoria codsubcat="N743">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A542">A54.2&cruz;</referencia>
+						<referencia codrefer="A542">A54.2</referencia>
 						</duplaclassificacao>
 					<nome>Infecção gonocócica pélvica feminina</nome>
 					<nome50>N74.3 Infecc gonococica pelvica femin</nome50>
@@ -27511,7 +27511,7 @@
 					</subcategoria>
 				<subcategoria codsubcat="N744">
 					<duplaclassificacao tipo="asterisco">
-						<referencia codrefer="A561">A56.1&cruz;</referencia>
+						<referencia codrefer="A561">A56.1</referencia>
 						</duplaclassificacao>
 					<nome>Infecção pélvica feminina por clamídia</nome>
 					<nome50>N74.4 Infecc pelvica femin p/clamidia</nome50>
@@ -32111,7 +32111,7 @@
 			<nome50>Transt aparelho digestivo do feto ou recém-nascido</nome50>
 			<categoria codcat="P75" ehsubcat="sim">
 				<duplaclassificacao tipo="asterisco">
-					<referencia codrefer="E841">E84.1&cruz;</referencia>
+					<referencia codrefer="E841">E84.1</referencia>
 					</duplaclassificacao>
 				<nome>Íleo meconial</nome>
 				<nome50>P75   Ileo meconial</nome50>

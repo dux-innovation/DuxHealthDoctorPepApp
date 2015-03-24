@@ -203,13 +203,19 @@ sap.ui
 																{
 																	label : "CID-10",
 																	fields : [ new sap.ui.commons.ComboBox(
+																			"combo",
 																			{
-
-																			// items
-																			// :
+																				// value:
+																				// "{/cid10/0/capitulo/nome}",
+																				items : {
+																					path : "/",
+																					template : new sap.ui.core.ListItem(
+																							{
+																								text : "{}"
+																							})
+																				}
 																			}) ]
 																}) ]
-
 													}),
 
 											new sap.ui.layout.form.FormContainer(
@@ -228,8 +234,7 @@ sap.ui
 														title : "Prescrição",
 														formElements : [ new sap.ui.layout.form.FormElement(
 																{
-																	label : "Phone Number",
-																	fields : [ new sap.ui.commons.TextField() ]
+																	fields : [ new sap.ui.commons.TextArea() ]
 																}) ]
 													}),
 
@@ -239,13 +244,70 @@ sap.ui
 														title : "Resultado",
 														formElements : [ new sap.ui.layout.form.FormElement(
 																{
-																	label : "Phone Number",
-																	fields : [ new sap.ui.commons.TextField() ]
+																	fields : [ new sap.ui.commons.TextArea() ]
+																}) ]
+													}),
+											new sap.ui.layout.form.FormContainer(
+													"F1C7",
+													{
+														formElements : [ new sap.ui.layout.form.FormElement(
+																{
+
+																	fields : [ new sap.ui.commons.Button(
+																			{
+																				text : "Salvar",
+																				style : sap.ui.commons.ButtonStyle.Accept,
+																				press : function(
+																						e) {
+																					console
+																							.log("saved");
+																					var dia = new sap.ui.commons.Dialog(
+																							{
+																								width : undefined, // sap.ui.core.CSSSize
+																								height : undefined, // sap.ui.core.CSSSize
+																								scrollLeft : 0, // int
+																								scrollTop : 0, // int
+																								title : "PEP gerado", // string
+
+																								showCloseButton : true, // boolean
+																								resizable : true, // boolean
+																								minWidth : undefined, // sap.ui.core.CSSSize
+																								minHeight : undefined, // sap.ui.core.CSSSize
+																								maxWidth : undefined, // sap.ui.core.CSSSize
+																								maxHeight : undefined, // sap.ui.core.CSSSize
+																								contentBorderDesign : sap.ui.commons.enums.BorderDesign.None, // sap.ui.commons.enums.BorderDesign
+																								modal : false, // boolean
+																								accessibleRole : sap.ui.core.AccessibleRole.Dialog, // sap.ui.core.AccessibleRole
+																								keepInWindow : false, // boolean,
+																														// since
+																														// 1.9.0
+																								autoClose : true, // boolean,
+																													// since
+																													// 1.10
+																								tooltip : undefined, // sap.ui.core.TooltipBase
+																								buttons : [], // sap.ui.core.Control
+																								content : [], // sap.ui.core.Control
+																								defaultButton : undefined, // sap.ui.commons.Button
+																								initialFocus : undefined, // sap.ui.core.Control
+																								closed : [
+																										function(
+																												oEvent) {
+																											var control = oEvent
+																													.getSource();
+																										},
+																										this ]
+																							});
+
+																					dia
+																							.open();
+																				}
+																			}) ]
 																}) ]
 													}),
 
 									]
 								});
+
 						return new sap.m.Page({
 							title : "Prontuário Eletrônico do Paciente",
 							content : [ oForm1 ]

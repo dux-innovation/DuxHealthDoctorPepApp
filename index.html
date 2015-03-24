@@ -1,26 +1,37 @@
 <!DOCTYPE HTML>
 <html>
-	<head>
-		<meta http-equiv="X-UA-Compatible" content="IE=edge">
-		<meta http-equiv='Content-Type' content='text/html;charset=UTF-8'/>
+<head>
+<meta http-equiv="X-UA-Compatible" content="IE=edge">
+<meta http-equiv='Content-Type' content='text/html;charset=UTF-8' />
 
-		<script src="https://openui5.hana.ondemand.com/resources/sap-ui-core.js"
-				id="sap-ui-bootstrap"
-				data-sap-ui-libs="sap.m,sap.ui.commons,sap.ui.layout"
-				data-sap-ui-theme="sap_bluecrystal">
-		</script>
-		<!-- only load the mobile lib "sap.m" and the "sap_bluecrystal" theme -->
+<script src="https://openui5.hana.ondemand.com/resources/sap-ui-core.js"
+	id="sap-ui-bootstrap"
+	data-sap-ui-libs="sap.m,sap.ui.commons,sap.ui.layout"
+	data-sap-ui-theme="sap_bluecrystal">
+	
+</script>
+<!-- only load the mobile lib "sap.m" and the "sap_bluecrystal" theme -->
 
-		<script>
-				sap.ui.localResources("view");
-				var app = new sap.m.App({initialPage:"idmain1"});
-				var page = sap.ui.view({id:"idmain1", viewName:"view.main", type:sap.ui.core.mvc.ViewType.JS});
-				app.addPage(page);
-				app.placeAt("content");
-		</script>
+<script>
+	var model_cid10 = new sap.ui.model.json.JSONModel("model/convertcsv.json");
+	model_cid10.setSizeLimit(15000); // @see http://scn.sap.com/thread/3228525
 
-	</head>
-	<body class="sapUiBody" role="application">
-		<div id="content"></div>
-	</body>
+	sap.ui.getCore().setModel(model_cid10);
+	sap.ui.localResources("view");
+	var app = new sap.m.App({
+		initialPage : "idmain1"
+	});
+	var page = sap.ui.view({
+		id : "idmain1",
+		viewName : "view.main",
+		type : sap.ui.core.mvc.ViewType.JS
+	});
+	app.addPage(page);
+	app.placeAt("content");
+</script>
+
+</head>
+<body class="sapUiBody" role="application">
+	<div id="content"></div>
+</body>
 </html>
