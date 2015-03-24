@@ -30,33 +30,27 @@ sap.ui
 						var oForm1 = new sap.ui.layout.form.Form(
 								"F1",
 								{
-//									title : new sap.ui.core.Title({
-//										text : "Prontuário Eletônico",
-//										icon : "sap-icon://doctor"
-//									}),
+									// title : new sap.ui.core.Title({
+									// text : "Prontuário Eletônico",
+									// icon : "sap-icon://doctor"
+									// }),
 									layout : oLayout1,
 									formContainers : [
 											new sap.ui.layout.form.FormContainer(
 													"F1C1",
 													{
-														title : "Sinais Vitais",
+														title : "Dados Pessoais",
 														formElements : [
 																new sap.ui.layout.form.FormElement(
 																		{
-																			label : "Name",
+																			label : "Nome",
 																			fields : [
-																					new sap.ui.commons.TextField(
-																							{
-																								value : "Max"
-																							}),
-																					new sap.ui.commons.TextField(
-																							{
-																								value : "Mustermann"
-																							}) ]
+																					new sap.ui.commons.TextField(),
+																					new sap.ui.commons.TextField() ]
 																		}),
 																new sap.ui.layout.form.FormElement(
 																		{
-																			label : "Date of Birth",
+																			label : "Nascimento",
 																			fields : [ new sap.ui.commons.DatePicker(
 																					{
 																						yyyymmdd : "19990909",
@@ -68,18 +62,18 @@ sap.ui
 																		}),
 																new sap.ui.layout.form.FormElement(
 																		{
-																			label : "Gender",
+																			label : "Sexo",
 																			fields : [ new sap.ui.commons.RadioButtonGroup(
 																					{
 																						columns : 2,
 																						items : [
 																								new sap.ui.core.Item(
 																										{
-																											text : "male"
+																											text : "Masculino"
 																										}),
 																								new sap.ui.core.Item(
 																										{
-																											text : "female"
+																											text : "Feminino"
 																										}) ],
 																					}) ]
 																		}) ]
@@ -87,36 +81,107 @@ sap.ui
 											new sap.ui.layout.form.FormContainer(
 													"F1C2",
 													{
-														title : "Queixas",
+														title : "Sinais Vitais",
 														formElements : [
 																new sap.ui.layout.form.FormElement(
 																		{
-																			label : "Street / Number",
-																			fields : [
-																					new sap.ui.commons.TextField(),
-																					new sap.ui.commons.TextField(
-																							{
-																								width : "3em"
-																							}) ]
-																		}),
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Zip Code / City",
-																			fields : [
-																					new sap.ui.commons.TextField(),
-																					new sap.ui.commons.TextField() ]
-																		}),
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Country",
-																			fields : [ new sap.ui.commons.TextField(
+																			label : "Temperatura",
+																			fields : [ new sap.ui.commons.Slider(
 																					{
-																						layoutData : new sap.ui.layout.GridData(
-																								{
-																									span : "L2 M2 S12"
-																								})
+																						min : 20, // float
+																						max : 45, // float
+																						value : 28, // float
+																						smallStepWidth : 0.1, // float
+																						//totalUnits : , // int
+																						stepLabels : true, // boolean
+																						labels : [
+																								"20",
+																								"30",
+																								"45" ]
+																					// string[]
+
 																					}) ]
-																		}) ]
+																		}),
+
+																new sap.ui.layout.form.FormElement(
+																		{
+																			label : "Pulso",
+																			fields : [ new sap.ui.commons.Slider(
+																					{
+																						min : 40, // float
+																						max : 180, // float
+																						value : 80, // float
+																						smallStepWidth : 1, // float
+																						//totalUnits : , // int
+																						stepLabels : true, // boolean
+																						labels : [
+																								"40",
+																								"180" ]
+																					// string[]
+																					}) ]
+																		}),
+
+																new sap.ui.layout.form.FormElement(
+																		{
+																			label : "Respiração",
+																			fields : [ new sap.ui.commons.Slider(
+																					{
+																						min : 8, // float
+																						max : 70, // float
+																						value : 15, // float
+																						smallStepWidth : 1, // float
+																						stepLabels : true, // boolean
+																						labels : [
+																								"8",
+																								"70" ]
+																					// string[]
+																					}) ]
+																		}),
+
+																new sap.ui.layout.form.FormElement(
+																		{
+																			label : "Pressão",
+																			fields : [
+																					new sap.ui.commons.Slider(
+																							{
+																								min : 80, // float
+																								max : 200, // float
+																								value : 140, // float
+																								smallStepWidth : 1, // float
+																								stepLabels : true, // boolean
+																								labels : [
+																										"80",
+																										"200" ]
+																							}),
+
+																					new sap.ui.commons.Slider(
+																							{
+																								min : 50, // float
+																								max : 120, // float
+																								value : 70, // float
+																								smallStepWidth : 1, // float
+																								stepLabels : true, // boolean
+																								labels : [
+																										"50",
+																										"120" ]
+																							}),
+
+																			]
+																		}),
+
+														]
+													}),
+											new sap.ui.layout.form.FormContainer(
+													"F1C21",
+													{
+														title : "Queixas",
+														formElements : [ new sap.ui.layout.form.FormElement(
+																{
+																	fields : [ new sap.ui.commons.TextArea(
+																			{
+																				value : "O paciente queixa-se de "
+																			}) ]
+																}) ]
 													}),
 											new sap.ui.layout.form.FormContainer(
 													"F1C3",
@@ -125,19 +190,14 @@ sap.ui
 														formElements : [
 																new sap.ui.layout.form.FormElement(
 																		{
-																			label : "Phone Number",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		}),
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Mobile",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		}),
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Email",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		}) ]
+																			label : "CID-10",
+																			fields : [ new sap.ui.commons.ComboBox(
+																					{
+																						
+//																						items : 
+																					}) ]
+																		})
+																]
 													}),
 
 											new sap.ui.layout.form.FormContainer(
@@ -147,19 +207,9 @@ sap.ui
 														formElements : [
 																new sap.ui.layout.form.FormElement(
 																		{
-																			label : "Phone Number",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		}),
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Mobile",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		}),
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Email",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		}) ]
+																			fields : [ new sap.ui.commons.TextArea() ]
+																		})
+																]
 													}),
 
 											new sap.ui.layout.form.FormContainer(
@@ -171,17 +221,7 @@ sap.ui
 																		{
 																			label : "Phone Number",
 																			fields : [ new sap.ui.commons.TextField() ]
-																		}),
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Mobile",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		}),
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Email",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		}) ]
+																		})]
 													}),
 
 											new sap.ui.layout.form.FormContainer(
@@ -192,16 +232,6 @@ sap.ui
 																new sap.ui.layout.form.FormElement(
 																		{
 																			label : "Phone Number",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		}),
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Mobile",
-																			fields : [ new sap.ui.commons.TextField() ]
-																		}),
-																new sap.ui.layout.form.FormElement(
-																		{
-																			label : "Email",
 																			fields : [ new sap.ui.commons.TextField() ]
 																		}) ]
 													}),
