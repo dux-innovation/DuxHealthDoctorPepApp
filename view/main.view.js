@@ -1,6 +1,7 @@
 sap.ui
     .jsview(
-        "view.main", {
+        "view.main",
+        {
 
             /**
              * Specifies the Controller belonging to this View. In the
@@ -9,7 +10,8 @@ sap.ui
              *
              * @memberOf view.main
              */
-            getControllerName: function() {
+            getControllerName: function()
+            {
                 return "view.main";
             },
 
@@ -21,62 +23,101 @@ sap.ui
              *
              * @memberOf view.main
              */
-            createContent: function(oController) {
+            createContent: function(oController)
+            {
 
                 var oLayout1 = new sap.ui.layout.form.ResponsiveGridLayout(
                     "L1");
 
                 var oForm1 = new sap.ui.layout.form.Form(
-                    "F1", {
-                        // title : new sap.ui.core.Title({
-                        // text : "Prontuário Eletônico",
-                        // icon : "sap-icon://doctor"
-                        // }),
+                    "F1",
+                    {
                         layout: oLayout1,
                         formContainers: [
-                            new sap.ui.layout.form.FormContainer(
-                                "F1C1", {
-                                    title: "Dados Pessoais",
-                                    formElements: [
-                                        new sap.ui.layout.form.FormElement({
-                                            label: "Nome",
-                                            fields: [
-                                                new sap.ui.commons.TextField(),
-                                                new sap.ui.commons.TextField()
-                                            ]
-                                        }),
-                                        new sap.ui.layout.form.FormElement({
-                                            label: "Nascimento",
-                                            fields: [new sap.ui.commons.DatePicker({
-                                                yyyymmdd: "19990909",
-                                                layoutData: new sap.ui.layout.GridData({
-                                                    span: "L2 M2 S12"
+                            new sap.ui.layout.form.FormContainer("F1C0",
+                            {
+                                title: "Dados Pessoais",
+                                formElements: [
+                                    new sap.ui.layout.form.FormElement(
+                                    {
+                                        fields: [
+                                            new sap.ui.commons.Image(
+                                            {
+                                                src: "images/person2.jpg",
+                                                width: "200px",
+                                                layoutData: new sap.ui.core.VariantLayoutData(
+                                                {
+                                                    multipleLayoutData: [new sap.ui.layout.ResponsiveFlowLayoutData(
+                                                        {
+                                                            minWidth: 200
+                                                        }),
+                                                        new sap.ui.layout.form.GridElementData(
+                                                        {
+                                                            hCells: "1",
+                                                            vCells: 1
+                                                        }),
+                                                        new sap.ui.layout.GridData(
+                                                        {
+                                                            span: "L3 M3 S12"
+                                                        })
+                                                    ]
                                                 })
-                                            })]
-                                        }),
-                                        new sap.ui.layout.form.FormElement({
-                                            label: "Sexo",
-                                            fields: [new sap.ui.commons.RadioButtonGroup({
-                                                columns: 2,
-                                                items: [
-                                                    new sap.ui.core.Item({
-                                                        text: "Masculino"
-                                                    }),
-                                                    new sap.ui.core.Item({
-                                                        text: "Feminino"
-                                                    })
-                                                ],
-                                            })]
-                                        })
-                                    ]
-                                }),
+                                            }),
+                                        ]
+                                    })
+                                ]
+                            }),
+
+                            new sap.ui.layout.form.FormContainer("F1C1",
+                            {
+                                formElements: [
+                                    new sap.ui.layout.form.FormElement(
+                                    {
+                                        label: "Nome",
+                                        fields: [
+                                            new sap.ui.commons.TextField(
+                                            {
+                                                value: "Luciano Leite",
+                                                editable: false,
+                                            }),
+
+                                        ],
+
+                                    }),
+
+                                    new sap.ui.layout.form.FormElement(
+                                    {
+                                        label: "Idade",
+                                        fields: [
+                                            new sap.ui.commons.TextField(
+                                            {
+                                                value: "35 anos",
+                                                editable: false,
+                                            }),
+
+                                        ],
+
+                                    }),
+                                ],
+                                layoutData: new sap.ui.core.VariantLayoutData(
+                                {
+                                    multipleLayoutData: [new sap.ui.layout.GridData(
+                                    {
+                                        span: "L6 M6 S6"
+                                    })]
+                                })
+                            }),
+
                             new sap.ui.layout.form.FormContainer(
-                                "F1C2", {
+                                "F1C2",
+                                {
                                     title: "Sinais Vitais",
                                     formElements: [
-                                        new sap.ui.layout.form.FormElement({
+                                        new sap.ui.layout.form.FormElement(
+                                        {
                                             label: "Temperatura",
-                                            fields: [new sap.ui.commons.Slider({
+                                            fields: [new sap.ui.commons.Slider(
+                                            {
                                                 min: 20, // float
                                                 max: 45, // float
                                                 value: 28, // float
@@ -96,9 +137,11 @@ sap.ui
                                             })]
                                         }),
 
-                                        new sap.ui.layout.form.FormElement({
+                                        new sap.ui.layout.form.FormElement(
+                                        {
                                             label: "Pulso",
-                                            fields: [new sap.ui.commons.Slider({
+                                            fields: [new sap.ui.commons.Slider(
+                                            {
                                                 min: 40, // float
                                                 max: 180, // float
                                                 value: 80, // float
@@ -116,9 +159,11 @@ sap.ui
                                             })]
                                         }),
 
-                                        new sap.ui.layout.form.FormElement({
+                                        new sap.ui.layout.form.FormElement(
+                                        {
                                             label: "Respiração",
-                                            fields: [new sap.ui.commons.Slider({
+                                            fields: [new sap.ui.commons.Slider(
+                                            {
                                                 min: 8, // float
                                                 max: 70, // float
                                                 value: 15, // float
@@ -132,10 +177,12 @@ sap.ui
                                             })]
                                         }),
 
-                                        new sap.ui.layout.form.FormElement({
+                                        new sap.ui.layout.form.FormElement(
+                                        {
                                             label: "Pressão",
                                             fields: [
-                                                new sap.ui.commons.Slider({
+                                                new sap.ui.commons.Slider(
+                                                {
                                                     min: 80, // float
                                                     max: 200, // float
                                                     value: 140, // float
@@ -147,7 +194,8 @@ sap.ui
                                                     ]
                                                 }),
 
-                                                new sap.ui.commons.Slider({
+                                                new sap.ui.commons.Slider(
+                                                {
                                                     min: 50, // float
                                                     max: 120, // float
                                                     value: 70, // float
@@ -165,25 +213,33 @@ sap.ui
                                     ]
                                 }),
                             new sap.ui.layout.form.FormContainer(
-                                "F1C21", {
+                                "F1C21",
+                                {
                                     title: "Queixas",
-                                    formElements: [new sap.ui.layout.form.FormElement({
-                                        fields: [new sap.ui.commons.TextArea({
+                                    formElements: [new sap.ui.layout.form.FormElement(
+                                    {
+                                        fields: [new sap.ui.commons.TextArea(
+                                        {
                                             value: "O paciente queixa-se de "
                                         })]
                                     })]
                                 }),
                             new sap.ui.layout.form.FormContainer(
-                                "F1C3", {
+                                "F1C3",
+                                {
                                     title: "Diagnóstico",
-                                    formElements: [new sap.ui.layout.form.FormElement({
+                                    formElements: [new sap.ui.layout.form.FormElement(
+                                    {
                                         label: "CID-10",
-                                        fields: [new sap.ui.commons.ComboBox({
+                                        fields: [new sap.ui.commons.ComboBox(
+                                        {
                                             // value:
                                             // "{/cid10/0/capitulo/nome}",
-                                            items: {
+                                            items:
+                                            {
                                                 path: "/",
-                                                template: new sap.ui.core.ListItem({
+                                                template: new sap.ui.core.ListItem(
+                                                {
                                                     text: "{}"
                                                 })
                                             }
@@ -192,26 +248,34 @@ sap.ui
                                 }),
 
                             new sap.ui.layout.form.FormContainer(
-                                "F1C4", {
+                                "F1C4",
+                                {
                                     title: "Anotações",
-                                    formElements: [new sap.ui.layout.form.FormElement({
+                                    formElements: [new sap.ui.layout.form.FormElement(
+                                    {
                                         fields: [new sap.ui.commons.TextArea()]
                                     })]
                                 }),
 
                             new sap.ui.layout.form.FormContainer(
-                                "F1C5", {
+                                "F1C5",
+                                {
                                     title: "Prescrição",
-                                    formElements: [new sap.ui.layout.form.FormElement({
-                                        fields: [new sap.ui.commons.ComboBox({
+                                    formElements: [new sap.ui.layout.form.FormElement(
+                                    {
+                                        fields: [new sap.ui.commons.ComboBox(
+                                        {
                                             items: [
-                                                new sap.ui.core.ListItem({
+                                                new sap.ui.core.ListItem(
+                                                {
                                                     text: "Medicamento"
                                                 }),
-                                                new sap.ui.core.ListItem({
+                                                new sap.ui.core.ListItem(
+                                                {
                                                     text: "Exame"
                                                 }),
-                                                new sap.ui.core.ListItem({
+                                                new sap.ui.core.ListItem(
+                                                {
                                                     text: "Procedimento"
                                                 })
 
@@ -221,24 +285,31 @@ sap.ui
                                 }),
 
                             new sap.ui.layout.form.FormContainer(
-                                "F1C6", {
+                                "F1C6",
+                                {
                                     title: "Resultado",
-                                    formElements: [new sap.ui.layout.form.FormElement({
+                                    formElements: [new sap.ui.layout.form.FormElement(
+                                    {
                                         fields: [new sap.ui.commons.TextArea()]
                                     })]
                                 }),
                             new sap.ui.layout.form.FormContainer(
-                                "F1C7", {
-                                    formElements: [new sap.ui.layout.form.FormElement({
+                                "F1C7",
+                                {
+                                    formElements: [new sap.ui.layout.form.FormElement(
+                                    {
 
-                                        fields: [new sap.ui.commons.Button({
+                                        fields: [new sap.ui.commons.Button(
+                                        {
                                             text: "Salvar",
                                             style: sap.ui.commons.ButtonStyle.Accept,
                                             press: function(
-                                                e) {
+                                                e)
+                                            {
                                                 console
                                                     .log("saved");
-                                                var dia = new sap.ui.commons.Dialog({
+                                                var dia = new sap.ui.commons.Dialog(
+                                                {
                                                     width: undefined, // sap.ui.core.CSSSize
                                                     height: undefined, // sap.ui.core.CSSSize
                                                     scrollLeft: 0, // int
@@ -268,7 +339,8 @@ sap.ui
                                                     closed: [
 
                                                         function(
-                                                            oEvent) {
+                                                            oEvent)
+                                                        {
                                                             var control = oEvent
                                                                 .getSource();
                                                         },
@@ -286,7 +358,8 @@ sap.ui
                         ]
                     });
 
-                return new sap.m.Page({
+                return new sap.m.Page(
+                {
                     title: "Prontuário Eletrônico do Paciente",
                     content: [oForm1]
                 });
