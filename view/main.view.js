@@ -296,6 +296,15 @@ sap.ui
                             new sap.ui.layout.form.FormContainer(
                                 "F1C7",
                                 {
+                                    title: "Notas Pessoais",
+                                    formElements: [new sap.ui.layout.form.FormElement(
+                                    {
+                                        fields: [new sap.ui.commons.TextArea()]
+                                    })]
+                                }),
+                            new sap.ui.layout.form.FormContainer(
+                                "F1C8",
+                                {
                                     formElements: [new sap.ui.layout.form.FormElement(
                                     {
 
