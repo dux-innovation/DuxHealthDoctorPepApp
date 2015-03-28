@@ -118,7 +118,7 @@ sap.ui
                                             label: "Temperatura",
                                             fields: [new sap.ui.commons.Slider(
                                             {
-                                                min: 20, // float
+                                                min: 35, // float
                                                 max: 45, // float
                                                 value: 28, // float
                                                 smallStepWidth: 0.1, // float
