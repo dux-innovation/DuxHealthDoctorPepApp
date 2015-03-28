@@ -370,6 +370,8 @@ sap.ui
                 return new sap.m.Page(
                 {
                     title: "Prontuário Eletrônico do Paciente",
+                    showNavButton: true,
+                    navButtonPress: oController.onNavButtonPress,
                     content: [oForm1]
                 });
             }
