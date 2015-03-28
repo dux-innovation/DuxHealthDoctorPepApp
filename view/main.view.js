@@ -129,7 +129,7 @@ sap.ui
                                                 stepLabels: true, // boolean
                                                 labels: [
                                                     "35",
-                                                    "30",
+                                                    "40",
                                                     "45"
                                                 ]
                                                 // string[]
