@@ -120,7 +120,7 @@ sap.ui
                                             {
                                                 min: 35, // float
                                                 max: 45, // float
-                                                value: 28, // float
+                                                value: 38, // float
                                                 smallStepWidth: 0.1, // float
                                                 // totalUnits
                                                 // : ,
@@ -129,7 +129,7 @@ sap.ui
                                                 stepLabels: true, // boolean
                                                 labels: [
                                                     "35",
-                                                    "30",
+                                                    "40",
                                                     "45"
                                                 ]
                                                 // string[]
